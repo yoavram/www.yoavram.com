@@ -1,20 +1,21 @@
 {% macro render_blog_post(post, from_index=false) %}
   <div class="blog-post">
   {% if from_index %}
-    <h2><a href="{{ post|url }}">{{ post.title }}</a></h2>
+    <h1><a href="{{ post|url }}">{{ post.title }}</a></h1>
   {% else %}
-    <h2>{{ post.title }}</h2>
+    <h1>{{ post.title }}</h1>
   {% endif %}
   <p class="meta">
-    written by
-    {% if post.twitter_handle %}
-      <a href="https://twitter.com/{{ post.twitter_handle
-        }}">{{ post.author or post.twitter_handle }}</a>
-    {% else %}
-      {{ post.author }}
-    {% endif %}
-    on {{ post.pub_date }}
+    <i class='fa fa-calendar fa-fw'></i> <span id="date"></span>
   </p>
   {{ post.body }}
   </div>
+  <!-- moment.js -->
+  <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/moment.js/2.14.1/moment.min.js">
+  </script>
+  <script type="text/javascript">
+      $(document).ready(function() {
+        $('#date').html(moment('{{ post.date }}').format('MMM Do YYYY'));
+      });
+  </script>
 {% endmacro %}
