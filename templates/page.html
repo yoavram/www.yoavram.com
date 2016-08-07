@@ -1,6 +1,29 @@
 {% extends "layout.html" %}
 {% block title %}{{ this.title }}{% endblock %}
 {% block body %}
-  <h2>{{ this.title }}</h2>
-  {{ this.body }}
+  <div class="row">
+  	<div
+  	{% if this.attachments.images.count() > 0 %}
+  		class="col-sm-8"
+  	{% else %}
+  		class="col-sm-12"
+  	{% endif %}
+  	>
+  	  <h2>{{ this.title }}</h2>
+  		{{ this.body }}
+  	</div>
+  	<div class="col-sm-4 hidden-xs">
+		<div class="center-block" style="max-width:225px;">
+			{% for image in this.attachments.images %}
+	  			<p>
+	  				<img class="img-responsive 
+	  				{% if 'avatar' in image._path %}
+	  					img-circle
+	  				{% endif %}
+	  				" src="{{ image|url }}">
+	  			</p>
+			{% endfor %}			
+		</div>
+	</div>
+  </div>
 {% endblock %}
