@@ -2,14 +2,18 @@
 {% block title %}{{ this.title }}{% endblock %}
 {% block body %}
   <div class="row">
+    <div class="col-sm-12">
+      <h2>{{ this.title }}</h2>
+    </div>
+  </div>
+  <div class="row">
   	<div
   	{% if this.attachments.images.count() > 0 %}
   		class="col-sm-8"
   	{% else %}
   		class="col-sm-12"
   	{% endif %}
-  	>
-  	  <h2>{{ this.title }}</h2>
+  	>  	  
   		{{ this.body }}
   	</div>
   	<div class="col-sm-4 hidden-xs">
