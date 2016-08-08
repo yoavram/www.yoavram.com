@@ -3,12 +3,12 @@
 <h2>References</h2>
 <div id="bibtex_display">
 </div>
-<textarea id="bibtex_input">
+<textarea id="bibtex_input" style="display: none">
 	{% for item in post.attachments.filter(F._path.endswith('.bib')) %}
 		{{ item.contents.as_text() }}
 	{% endfor %}
 </textarea>
-<div id='bibtex_template'>
+<div id='bibtex_template' style="display: none">
 	<div class="if author" style="font-weight: bold;">
 		<span class="if year">
 			<span class="year"></span>, 
