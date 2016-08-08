@@ -1,8 +1,18 @@
 {% extends "layout.html" %}
-{% from "macros/blog.html" import render_blog_post %}
 {% from "macros/mathjax.html" import mathjax %}
+{% from "macros/moment.html" import moment %}
+{% from "macros/bibtex.html" import bibtex %}
 {% block title %}{{ this.title }}{% endblock %}
 {% block body %}
-  {{ render_blog_post(this) }}
+<div class="blog-post">
+	<h1>{{ this.title }}</h1>
+	<p class="meta">
+		<i class='fa fa-calendar fa-fw'></i> <span id="date"></span>
+	</p>
+	{{ this.body }}
+	{{ bibtex(this) }}
+</div>
+
+{{ moment(this) }}
 {{ mathjax() }}
 {% endblock %}

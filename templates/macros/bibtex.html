@@ -1,0 +1,33 @@
+{% macro bibtex(post) %}
+{% if post.attachments.filter(F._path.endswith('.bib')).count() > 0 %}
+<h2>References</h2>
+<div id="bibtex_display">
+</div>
+<textarea id="bibtex_input">
+	{% for item in post.attachments.filter(F._path.endswith('.bib')) %}
+		{{ item.contents.as_text() }}
+	{% endfor %}
+</textarea>
+<div id='bibtex_template'>
+	<div class="if author" style="font-weight: bold;">
+		<span class="if year">
+			<span class="year"></span>, 
+		</span>
+		<span class="author"></span>
+		<span class="if url" style="margin-left: 20px">
+			<a class="url" style="color:black; font-size:10px">(view online)</a>
+		</span>
+	</div>
+	<div style="margin-left: 10px; margin-bottom:5px;">
+		<span class="title"></span>
+	</div>
+</div>
+<!-- bibtex.js https://github.com/andreas-h/bibtex_js -->
+<script type="text/javascript" src={{ '/static/js/bibtex_js.js'|asseturl }}></script>
+<script type="text/javascript">
+	$(document).ready(function() {
+		bibtex_render('#bibtex_input', '#bibtex_display', '#bibtex_template');
+	});
+</script>
+{% endif %}
+{% endmacro %}
