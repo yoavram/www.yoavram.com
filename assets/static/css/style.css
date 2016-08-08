@@ -16,3 +16,10 @@ p.copyright {
 div.content {
 	margin-top: 75px;
 }
+
+div.logo {
+    max-width:150px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+
+}
