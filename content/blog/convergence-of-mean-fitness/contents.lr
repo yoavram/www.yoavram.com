@@ -18,7 +18,7 @@ that there is **no drift or recombination**, and that **selection is constant**.
 
 In this post I would like to continue with these assumpions. I will show how to find a **simple formula for the mean fitness after an arbitrary number of generations**.
 The formulation and derivation will follow one of my favorite papers - 
-["Nonequilibrium model for estimating parameters of deleterious mutations"][gordo2005] by @Gordo2005.
+["Nonequilibrium model for estimating parameters of deleterious mutations"][gordo2005] by Gordo & Dionisio (2005).
 
 ## Motivation
 
@@ -34,15 +34,15 @@ The more specific answer is that even in laboratory conditions which induce a co
 it may take a long time for populations to reach the mutation-selection balance, 
 and this time might be longer than what we intuitively expect (or desire).
 
-This issue is presented by @Gordo2005. They wanted to use traditional models for calculating the mutation rate of bacterial populations in the lab. These models assume that the populations are  at a mutation-selection balance, but Gordo and Dionisio showed that in the timeframe they planned for their study their populations will not reach an equilibrium, especially if selection is weak (see Figure 1 in [@Gordo2005]).
+This issue is presented by Gordo & Dionisio (2005). They wanted to use traditional models for calculating the mutation rate of bacterial populations in the lab. These models assume that the populations are  at a mutation-selection balance, but Gordo and Dionisio showed that in the timeframe they planned for their study their populations will not reach an equilibrium, especially if selection is weak (see Figure 1 in (Gordo & Dionisio, 2005)).
 
 This is interesting, because we saw in the [eariler post] that the mean fitness
 at the mutation-selection balance is *e^-U^*, where *U* is the mutation rate and is independent of *s*, the selection coefficient.
-But Figure 1 in [@Gordo2005] shows that the mean fitness before the mutation-selection balance *is dependent* on *s*, and that *s* determines the rate of convergence towards the balance.
+But Figure 1 in (Gordo & Dionisio (2005) shows that the mean fitness before the mutation-selection balance *is dependent* on *s*, and that *s* determines the rate of convergence towards the balance.
 
 ## Model
 
-This follows the model from [@Gordo2005] but I elaborated and included all the rigouros steps.
+This follows the model from Gordo & Dionisio (2005) but I elaborated and included all the rigouros steps.
 
 ### Definitions
 
@@ -204,7 +204,7 @@ After *B* bottlenecks, the mean fitness is $\bar{\omega_{B}} = e^{-UB}$.
 So one can take the log of the measured mean fitness after *B* bottlenecks, $-BU$, and use a linear regression model to estimate *U*. By using a similar linear regression on the ratio of the second moment of fitness and the square of the expected mean fitness, one can estimate *s* (see below).
 
 **However, what happens if the population doesn't reach a mutation-selection balance?**
-In a population of bacteria, for example, the number of generations between bottlenecks may be insufficient for the population to reach a mutation-selection balance (see Figure 1 in [@Gordo2005]). In this case one must use a the non-equilibrium value of the mean fitness which was derived above - $\bar{\omega}_{g} = e^{-\frac{U}{s} (1-(1-s)^{g})}$. This concept is the subject of the paper by @Gordo2005, titled: **Nonequilibrium model for estimating parameters of deleterious mutations**. The paper explores a statistical model based on the above calculations. The statistical model is tested with simulations. In a later paper, [@Trindade2010], the statistical model was used on results of a mutation-accumulation experiment with *E. coli*.
+In a population of bacteria, for example, the number of generations between bottlenecks may be insufficient for the population to reach a mutation-selection balance (see Figure 1 in [@Gordo2005]). In this case one must use a the non-equilibrium value of the mean fitness which was derived above - $\bar{\omega}_{g} = e^{-\frac{U}{s} (1-(1-s)^{g})}$. This concept is the subject of the paper by @Gordo2005, titled: **Nonequilibrium model for estimating parameters of deleterious mutations**. The paper explores a statistical model based on the above calculations. The statistical model is tested with simulations. In a later paper, (Trindade et al. 2010), the statistical model was used on results of a mutation-accumulation experiment with *E. coli*.
 
 In the above development, we saw that the expected mean fitness after *g* generations is $\bar{\omega}_{g} = e^{-\lambda(g) s}$. 
 If the number of generations between bottlenecks is constant, say *g=24* (for a population in which a generation is estimated at 30 minutes, resulting in a bottleneck period of 12 hours), then we can denote $\lambda {:=} \lambda(g)$ and use $\bar{\omega_{B}} = e^{-\lambda s B}$. 
@@ -229,8 +229,6 @@ $$
 
 So the log of the *F-statistic* is $\lambda s^2 B$, and linear regression can give us $\lambda s^2$. 
 Now we can estimate both *s* and *U* using the estimation for $-\lambda s$, $\lambda s^2$, and the relation $\lambda = \frac{U}{s}(1-(1-s)^g)$.
-
-##  References
 
 [gordo2005]: http://link.aps.org/doi/10.1103/PhysRevE.71.031907
 [eariler post]: /convergence-of-mean-fitness

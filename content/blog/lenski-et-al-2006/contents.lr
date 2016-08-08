@@ -8,7 +8,7 @@ author: Yoav Ram
 ---
 body:
 
-This is a summary of [Lenski, Barrick and Ofria [-@Lenski2006] ](http://www.plosbiology.org/article/info:doi/10.1371/journal.pbio.0040428). The following are direct quotes of the original article. My comments are given as footnotes, highlighting and italics.
+This is a summary of [Lenski, Barrick and Ofria (2006)](http://www.plosbiology.org/article/info:doi/10.1371/journal.pbio.0040428). The following are direct quotes of the original article. My comments are given as footnotes, highlighting and italics.
 
 - Organisms must have a **balance between robustness and evolvability**, that is, between resisting and allowing change in their own internal states.
 - A genome may be robust because it encodes *proofreading and repair systems*[^1] that reduce replication errors or because it is organized such that many *mutations have little effect*[^2] on its phenotype.
@@ -23,13 +23,11 @@ allow organisms to **adjust to changing environments**, such as by regulating ge
 - Redundancy can also promote adaptation by **allowing duplicated genes to evolve distinct functions**[^3]
 - Evolving populations can also become robust by finding regions of genotypic space that are flat because they contain a high proportion of neutral mutations.
 - Deleterious mutations may lead to genetic neighborhoods that are more promising.
-- One could ask how robustness and evolvability change depending on whether evolution occurs in **constant or variable environments** [@Meyers2005].
+- One could ask how robustness and evolvability change depending on whether evolution occurs in **constant or variable environments** (Meyers et al. 2005).
 
-# License
+### License
 
 The original paper was published in [PLoS Biology](http://www.plosbiology.org/) under a CC-BY license.
-
-# References
 
 [^1]: Low mutation rate (*U*)
 [^2]: Small mutation effect (*s*)

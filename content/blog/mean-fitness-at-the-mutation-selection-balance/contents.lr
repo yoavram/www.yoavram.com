@@ -32,7 +32,7 @@ $$
 $$
 The value of this equilibrium is denoted by $\bar{\omega}^\star$.
 
-A classical result by [@Kimura1966] involves a system in which an infinite population is evolving under *selection* and *mutation*.
+A classical result by (Kimura & Marutama, 1966) involves a system in which an infinite population is evolving under *selection* and *mutation*.
 Mutation is unidirectional and deleterious and occurs with a rate *U*, selection is constant and uniform, the enivronment is constant, and there is no drift, sex, recombination or migration.
 This is a simplistic model but one that is able to capture the dynamics of some complex systems.
 The elegant result is that the mean fitness of a population is not dependent on selection strength and is 
@@ -43,7 +43,7 @@ $$
 
 ## Single locus
 
-In this section I roughly follow the route of [@Gillespie2004].
+In this section I roughly follow the route of (Gillespie, 2004).
 To reach this formula in a simple way (all you need is some straightforward *Calculus* and a little bit of *Genetics*), 
 we start by looking at a single locus[^locus] with 
 two alleles[^allele], denoted by *A* and *a*, which have fitness of *1* and *1-s*, respectively, 
@@ -154,7 +154,7 @@ $$
 Note that if beneficial mutations or back-mutations were allowed in this model, 
 we would not be able to find the population mean fitness so easily, because the matrix would not be triangular. 
 However, in that case we could use the _Perron-Frobenius theorem_ to find that $\bar{\omega}^\star$ is the leading eigenvalue 
-of the $M$. I've used this approach in our article *The Evolution of Stress-Induced Hypermutation in Asexual Populations* [@Ram2012].
+of the $M$. I've used this approach in our article *The Evolution of Stress-Induced Hypermutation in Asexual Populations* (Ram & Hadany, 2012).
 
 ## Summary
 
@@ -176,11 +176,9 @@ The next step - in the next post - will be to derive a formula for the mean fitn
 This is important because we need to understand how *rapidly* the mean fitness converges towards the equilibrium value.
 Can we really assume that the evolutionary process has reached the mutation-selection balance in calculations we perform?
 
-One article that presents an analysis on this subject is [@Gordo2005], which shows how to derive the mean fitness of a population at genearation *n*.
+One article that presents an analysis on this subject is (Gordo & Dionisio, 2005), which shows how to derive the mean fitness of a population at genearation *n*.
 This is still a simple asexual population with directional selection and unidirectional deleterious mutations, 
 but it is still very interesting, and I'll try to post a comprehensive explanation on how it can be done.
-
-## References
 
 [^locus]: A site on the genome which may be occupied by different alleles. The function of a locus can be diverse - genes, transcription control sequences, etc.
 [^allele]: A specific sequence occupying a locus, with a specific function. One locus can potentially contain different alleles, each with a slightly different sequence and potentially drasticly different effects on function.
