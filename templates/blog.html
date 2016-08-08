@@ -1,5 +1,4 @@
 {% extends "layout.html" %}
-{% from "macros/blog.html" import render_blog_post %}
 {% from "macros/pagination.html" import render_pagination %}
 {% block title %}{{ this.title }}{% endblock %}
 {% block body %}
@@ -10,6 +9,5 @@
     	 <span class="date">{{ post.date }}</span></li>
   	{% endfor %}
   	</ul>
-
   {{ render_pagination(this.pagination) }}
 {% endblock %}
