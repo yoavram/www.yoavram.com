@@ -38,6 +38,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
+          <a class="navbar-brand" href="#">Yoav Ram</a>
         </div>
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
@@ -63,29 +64,8 @@
     </nav>
 
     <div class="container content">
-      <div class="row">
-        <div class="col-sm-2">          
-          <h1>Yoav Ram</h1>
-          <nav>
-              <!-- TODO different icon menu for xs -->
-              <ul class="nav nav-pills nav-stacked hidden-xs">
-                {% for icon, href, title in [
-                ['fa fa-envelope', 'mailto:yoav@yoavram.com', 'Email'],
-                ['ai ai-google-scholar', 'http://scholar.google.com/citations?hl=en&user=RIFmJvYAAAAJ', 'Scholar'],
-                ['fa fa-twitter', 'https://twitter.com/yoavram', 'Twitter'],
-                ['fa fa-github-alt', 'https://github.com/yoavram', 'GitHub'],
-                ['fa fa-linkedin', 'https://www.linkedin.com/in/yoavram', 'Linkedin'],
-                ['ai ai-orcid', 'http://orcid.org/0000-0002-9653-4458', 'ORCID'],
-                ['ai ai-impactstory', 'http://impactstory.org/yoavram', 'Impactstory'],
-                ['ai ai-researchgate', 'https://www.researchgate.net/profile/Yoav_Ram/', 'ResearchGate']
-                ] %}
-                <li{% if this.is_child_of(href) %} class="active"{% endif
-                %}><a href="{{ href }}"><i class="{{ icon }} fa-fw" aria-hidden="true"></i> {{ title }}</a></li>
-                {% endfor %}   
-              </ul>
-          </nav>
-        </div>
-        <div class="col-sm-9 col-sm-offset-1">
+      <div class="row">        
+        <div class="col-sm-12">
           <div class="page">
             {% block body %}{% endblock %}
           </div>
@@ -94,7 +74,24 @@
       <div class="row">
         <div class="col-sm-12">
           <footer>
-            <ul class="list-inline">                            
+            <ul class="list-inline">
+                {% for icon, href, title in [
+                ['fa fa-envelope', 'mailto:yoav@yoavram.com', 'yoav@yoavram.com'],
+                ['ai ai-google-scholar', 'http://scholar.google.com/citations?hl=en&user=RIFmJvYAAAAJ', 'Scholar'],
+                ['fa fa-twitter', 'https://twitter.com/yoavram', 'Twitter'],
+                ['fa fa-github-alt', 'https://github.com/yoavram', 'GitHub'],
+                ['fa fa-linkedin', 'https://www.linkedin.com/in/yoavram', 'Linkedin'],
+                ['ai ai-orcid', 'http://orcid.org/0000-0002-9653-4458', 'ORCID'],
+                ['ai ai-impactstory', 'http://impactstory.org/yoavram', 'Impactstory'],
+                ['ai ai-researchgate', 'https://www.researchgate.net/profile/Yoav_Ram/', 'ResearchGate']
+                ] %}
+                <li><a href="{{ href }}"><i class="{{ icon }} fa-fw" aria-hidden="true"></i> {{ title }}</a></li>
+                {% if not loop.last %}
+                <li class="footer-menu-divider">&sdot;</li>
+                {% endif %}
+                {% endfor %}   
+              </ul>
+            <ul class="list-inline">
               <li>
                 Built with:
               </li>
