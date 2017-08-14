@@ -2,15 +2,40 @@ title: Research
 ---
 body:
 
-I developed a **theoretical basis** to explain the evolutionary origin of stress-induced mutagenesis and study its effect on adaptation. My results show that **stress-induced mutagenesis is favored by natural selection** in asexual organisms ([Ram & Hadany 2012](http://goo.gl/sai3Hk)) and that it increases the ability of populations to evolve complex adaptations, without jeopardizing their ability to remain adapted to stable environments ([Ram & Hadany 2014](http://goo.gl/SSH5Uc)). This suggests that stress-induced hypermutation should be common in bacteria and other asexual organisms and that it plays an **important role in adaptive evolution**.
+I study evolutionary biology and cultural evolution using mathematical analysis and computational tools.
 
-My research adds to the ongoing shift in our understanding of mutation—one of the basic forces of evolution. **Contrary to the classical view of mutation** as an inevitable copying error, kept at bay by accurate replication and error-correction mechanisms, it becomes increasingly evident that **mutation rates are controlled and regulated**. These results have important implications for many fields in the medical and life sciences, including epidemiology, oncology, ecology, and evolutionary biology.
+Some questions I am interested in:
 
-#### References
+#### **Evolution & Inheritance**
+- How do different inheritance modes (high-fidelity vs. low-fidelity, vertical vs. horizontal) affect adaptation and evolution?
+- How do these inheritance modes evolve and co-evolve?
 
-*   *Ram, Y.* and Hadany, L. (2014) **Stress-induced mutagenesis and complex adaptation**. *Proceeding of the Royal Society B*. 281: 20141025. DOI: [10.1098/rspb.2014.1025](http://dx.doi.org/10.1098/rspb.2014.1025)
-*   *Ram, Y.* and Hadany, L. (2012) **The evolution of stress-induced hypermutation in asexual populations**. *Evolution*, 66: 2315-2328. DOI: [10.1111/j.1558-5646.2012.01576.x](http://dx.doi.org/10.1111/j.1558-5646.2012.01576.x)
+#### **Adaptability & Adaptedness**
+- What sets the rate of adaptation? 
+- Can the adaptation rate be controlled and manipulated?
+- Is there a trade-off between the ability to adapt and the ability to remain adapted?
 
+#### **Forecasting Evolution**
+- Can we predict evolutionary outcomes?
+- ... time until an outcome?
+- ... probability of an outcome?
+- Can we use these predictions to change the course of evolution?
 
+#### **Fitness**
+- What is fitness? 
+- How do different definitions of fitness affect our understanding of evolutionary dynamics?
+- How do our models of fitness relate to natural and laboratory settings?
 
+### More details...
+
+During my PhD at Tel Aviv University I have developed a theoretical basis to explain **the evolution of stress-induced mutagenesis** – the phenomena in which stress induces a transient increase in mutation rates. 
+Stress-induced mutagenesis is prevalent in bacteria and empirical evidence suggests that it is common in many eukaryote species, from yeast to human cancer cells. 
+I used mathematical models and computer simulations to show that (i) **stress-induced mutagenesis is favored by natural selection** ([Ram & Hadany 2012](http://goo.gl/sai3Hk)); (ii) that this is also true in the **presence of rare recombination** (paper submitted); and (iii) that **stress-induced mutagenesis increases the rate of complex adaptation** without reducing the mean fitness of the population ([Ram & Hadany 2014](http://goo.gl/SSH5Uc)). 
+
+Because mutation is a fundamental force in evolution, my PhD research has important consequences for various aspects of biology. 
+Most importantly, my research is a crucial theoretical contribution to our understanding that **mutation is more likely to occur in individuals who are mal-adapted to their environments** and therefore are more likely to benefit from it.
+
+In a subsequent postdoc at Tel Aviv University, I focused on how microbial fitness is estimated from experiments. I led a team of collaborators to develop and test a new method for **predicting microbial growth in a mixed culture** solely from growth curve data ([see preprint](http://biorxiv.org/content/early/2016/08/03/022640)). 
+To validate this method, we performed growth curve and competition experiments with bacteria and yeast.
+Our new method not only results in a simple and cost-effective approach for estimating growth in a mixed culture and **inferring competitive fitness in microbes**, but also provides information on the specific growth traits that contribute to differences in fitness, thus helping to bridge the gap between population dynamics and evolutionary dynamics.
 
