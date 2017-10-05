@@ -1,18 +1,4 @@
 {% extends "page.html" %}
 {% block subtitle %}
 
-{% set pdf = this.attachments.filter(F._path.endswith('curriculum-vitae.pdf')).first() %}
-{% set word = this.attachments.filter(F._path.endswith('curriculum-vitae.docx')).first() %}
-{% set markdown = this.attachments.filter(F._path.endswith('curriculum-vitae.md')).first() %}
-
-{% if pdf %}
-	<a href="{{ pdf._path }}"><i class="fa fa-file-pdf-o fw"></i> pdf</a>
-{% endif %}
-{% if word %}
-	<a href="{{ word._path }}"><i class="fa fa-file-word-o fw"></i> word</a>
-{% endif %}
-{% if markdown %}
-	<a href="{{ markdown._path }}"><i class="fa fa-file-code-o fw"></i> markdown</a>
-{% endif %}
-
 {% endblock %}
