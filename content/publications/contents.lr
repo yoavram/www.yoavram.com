@@ -4,11 +4,16 @@ body:
 
 ### Manuscripts <a href="http://scholar.google.com/citations?hl=en&user=RIFmJvYAAAAJ"><i class="ai ai-google-scholar fa-fw" aria-hidden="true"></i></a>
 
+<i class="fae-book-open-o"></i> preprint available ⋅
+<i class="ai ai-open-access ai-1x"></i> open access ⋅
+<sup>eq</sup> equal contribution
+
 #### Lead author
+* *Ram, Y.*, and Hadany, L. **The evolution of stress-induced mutagenesis in the presence of recombination**. *Submitted*.
 
 *   *Ram, Y.*, Dellus-Gur, E., Bibi, M., Obolski, U., Berman, J., and Hadany, L. [**Predicting microbial relative growth in a mixed culture from growth curve data**](http://dx.doi.org/10.1101/022640). *Submitted*. Preprint available, DOI: 10.1101/022640 [<i class="fae-book-open-o"></i>](https://doi.org/10.1101/022640)
 
-*   Obolski, U.<sup data-toggle="tooltip" data-placement="top" title="Equal contribution">eq</sup>, *Ram, Y.<sup data-toggle="tooltip" data-placement="top" title="Equal contribution">eq</sup>*, Lilach Hadany. [**Evolution on rugged adaptive landscapes**](https://doi.org/10.1101/112177). In Review. Preprint available, 112177; DOI: 10.1101/112177 [<i class="fae-book-open-o"></i>](https://doi.org/10.1101/112177)
+*   Obolski, U.<sup data-toggle="tooltip" data-placement="top" title="Equal contribution">eq</sup>, *Ram, Y.<sup data-toggle="tooltip" data-placement="top" title="Equal contribution">eq</sup>*, and Hadany, L. (2017) [**Evolution on rugged adaptive landscapes**](https://doi.org/10.1101/112177). *Reports on Progress in Physics*, Accepted. Preprint available, DOI: 10.1101/112177 [<i class="fae-book-open-o"></i>](https://doi.org/10.1101/112177)
 
 *   *Ram, Y.*, and Hadany, L. (2016) [**Condition-dependent sex: who does it, when, and why?**](http://dx.doi.org/10.1098/rstb.2015.0539) *Philosophical Transactions of the Royal Society B*, 371: 20150539. DOI: 10.1098/rstb.2015.0539
 
@@ -20,13 +25,13 @@ body:
 
 #### Co-author
 
-* Dellus-Gur, E., *Ram, Y.*, and Hadany, L. (2017) **Errors in mutagenesis and the benefit of cell to cell signaling in the evolution of stress-induced mutagenesis**. *Royal Society Open Science*, Accepted. <i class="ai ai-open-access ai-1x"></i>
+*   Rougier, N.P., et al. [**Sustainable computational science: the _ReScience_ initiative**](https://arxiv.org/abs/1707.04393). Preprint available, arXiv:1707.04393. [<i class="fae-book-open-o"></i>](https://arxiv.org/abs/1707.04393)
+
+* Dellus-Gur, E., *Ram, Y.*, and Hadany, L. (2017) **Errors in mutagenesis and the benefit of cell to cell signaling in the evolution of stress-induced mutagenesis**. *Royal Society Open Science*, Accepted <i class="ai ai-open-access ai-1x"></i>
 
 *   Obolski, U.<sup data-toggle="tooltip" data-placement="top" title="Equal contribution">eq</sup>, Lewin-Epstein, O.<sup data-toggle="tooltip" data-placement="top" title="Equal contribution">eq</sup>, Even-Tov, E., *Ram, Y.*, Hadany, L. (2017) [**With a little help from my friends: cooperation can accelerate the rate of adaptive valley crossing**](http://dx.doi.org/10.1186/s12862-017-0983-2). *BMC Evolutionary Biology*, 17:143. DOI: 10.1186/s12862-017-0983-2 <i class="ai ai-open-access ai-1x"></i>
 
 *   Gueijman, A., Ayali, A., *Ram, Y.*, and Hadany, L. (2013) [**Dispersing away from bad environments: The evolution of fitness-associated dispersal (FAD) in homogeneous environments**](http://dx.doi.org/10.1186/1471-2148-13-125). *BMC Evolutionary Biology*, 13:125. DOI: 10.1186/1471-2148-13-125 <i class="ai ai-open-access ai-1x"></i>
-
-*   Rougier, N.P., et al. [**Sustainable computational science: the _ReScience_ initiative**](https://arxiv.org/abs/1707.04393). Preprint available, arXiv:1707.04393.
 
 ### Software & Datasets
 
