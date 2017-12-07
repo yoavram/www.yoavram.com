@@ -2,40 +2,34 @@ title: Research
 ---
 body:
 
-I study evolutionary biology and cultural evolution using mathematical analysis and computational tools.
+I study population biology and cultural evolution using mathematical analysis, computational tools, and microbial experiments.
 
 Some questions I am interested in:
 
+#### **Microbial Population Biology**
+- How do ecology and evolution shape each other in the microbial world?
+- What are the microbial equivalents for concepts such as *generation*, *age*, *death*, *birth*, and most importantly, *fitness*?
+
 #### **Evolution & Inheritance**
-- How do different inheritance modes (high-fidelity vs. low-fidelity, vertical vs. horizontal) affect adaptation and evolution?
+- How do different inheritance modes (high-fidelity vs. low-fidelity, vertical vs. horizontal) affect evolution in changing environments?
 - How do these inheritance modes evolve and co-evolve?
 
-#### **Adaptability & Adaptedness**
-- What sets the rate of adaptation? 
-- Can the adaptation rate be controlled and manipulated?
-- Is there a trade-off between the ability to adapt and the ability to remain adapted?
-
-#### **Forecasting Evolution**
-- Can we predict evolutionary outcomes?
-- ... time until an outcome?
-- ... probability of an outcome?
-- Can we use these predictions to change the course of evolution?
-
-#### **Fitness**
-- What is fitness? 
-- How do different definitions of fitness affect our understanding of evolutionary dynamics?
-- How do our models of fitness relate to natural and laboratory settings?
+#### **Cultural Evolution**
+- How do socially-transmitted trait spread in the population?
+- What are the similarities and differences between cultural and biological evolution?
 
 ### More details...
 
-During my PhD at Tel Aviv University I have developed a theoretical basis to explain **the evolution of stress-induced mutagenesis** – the phenomena in which stress induces a transient increase in mutation rates. 
+#### Stress-Induced Mutation
+I developed a theoretical basis to explain **the evolution of stress-induced mutagenesis** – the phenomena in which stress induces a transient increase in mutation rates. 
 Stress-induced mutagenesis is prevalent in bacteria and empirical evidence suggests that it is common in many eukaryote species, from yeast to human cancer cells. 
-I used mathematical models and computer simulations to show that (i) **stress-induced mutagenesis is favored by natural selection** ([Ram & Hadany 2012](http://goo.gl/sai3Hk)); (ii) that this is also true in the **presence of rare recombination** (paper submitted); and (iii) that **stress-induced mutagenesis increases the rate of complex adaptation** without reducing the mean fitness of the population ([Ram & Hadany 2014](http://goo.gl/SSH5Uc)). 
+I used mathematical models and computer simulations to show that (i) **stress-induced mutagenesis is favored by natural selection** ([Ram & Hadany 2012](http://goo.gl/sai3Hk); [Ram et al., submitted](https://www.biorxiv.org/content/early/2017/12/05/229351)); (ii) that this is also true in the **presence of rare recombination** (paper submitted); (iii) that **stress-induced mutagenesis increases the rate of complex adaptation** without reducing the mean fitness of the population ([Ram & Hadany 2014](http://goo.gl/SSH5Uc)); (iv) errors in regulation of mutagenesis can be compensated by cell-to-cell signalling ([Dellus-Gur et al., 2017](http://rsos.royalsocietypublishing.org/content/4/11/170529)).
 
-Because mutation is a fundamental force in evolution, my PhD research has important consequences for various aspects of biology. 
-Most importantly, my research is a crucial theoretical contribution to our understanding that **mutation is more likely to occur in individuals who are mal-adapted to their environments** and therefore are more likely to benefit from it.
+#### Microbial Fitness
+I led a team of collaborators to develop and test a new method for **predicting microbial growth in a mixed culture** solely from growth curve data ([Ram et al., submitted](http://biorxiv.org/content/early/2016/08/03/022640)). 
+To validate this method, we performed growth curve and competition experiments with bacteria.
+Our new method not only results in a simple and cost-effective approach for estimating growth in a mixed culture and inferring competitive fitness in microbes, but also provides information on the specific growth traits that contribute to differences in fitness, thus helping to bridge the gap between microbial ecology and evolution.
 
-In a subsequent postdoc at Tel Aviv University, I focused on how microbial fitness is estimated from experiments. I led a team of collaborators to develop and test a new method for **predicting microbial growth in a mixed culture** solely from growth curve data ([see preprint](http://biorxiv.org/content/early/2016/08/03/022640)). 
-To validate this method, we performed growth curve and competition experiments with bacteria and yeast.
-Our new method not only results in a simple and cost-effective approach for estimating growth in a mixed culture and **inferring competitive fitness in microbes**, but also provides information on the specific growth traits that contribute to differences in fitness, thus helping to bridge the gap between population dynamics and evolutionary dynamics.
+#### Cultural Evolution
+I studied the evolution of **oblique transmission**, in which offspring inherit their phenotype from a non-parental adult rather than their parents. This occurs, for example, in social learning, symbiont and pathogen transmission, and transfer of mobile genetic  elements in microbes. We found that the evolutionarily stable rate of oblique transmission differs markedly from the rate that maximizes the geometric mean fitness of the population ([Ram et al., submitted](https://www.biorxiv.org/content/early/2017/12/04/229179)).
 
