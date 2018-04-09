@@ -1,4 +1,4 @@
-title: Curriculum Vitae
+title: Curriculum Vitae: Yoav Ram
 ---
 _model: cv
 ---
@@ -6,8 +6,6 @@ body:
 
 ### Education
 
-* **Postdoctoral fellow**, [Feldman lab](http://www-evo.stanford.edu/), Stanford University, 2016-ongoing
-* **Postdoctoral fellow**, Hadany lab, Tel Aviv University, 2016
 * **Ph.D.**, Tel Aviv University, 2012 - 2016
   * *Mentor:* [Prof. Lilach Hadany](http://hadanylab.com)
   * *Ph.D. title:* The Evolution of Stress-Induced Mutagenesis: Causes and Consequences
@@ -18,9 +16,11 @@ body:
 
 ### Employment
 
+* **Senior lecturer**, [Efi Arazi School of Computer Science](https://www.idc.ac.il/he/schools/cs/pages/home.aspx), [IDC Herzliya](http://idc.ac.il), 2018-current.
 * Technical instructor, 2016-ongoing
   * Python for Engineers, Machine learning, Deep learning
-* Data scientist, Neura, 2016
+* **Postdoctoral fellow**, [Feldman lab](http://www-evo.stanford.edu/), Stanford University, 2016-2018
+* **Postdoctoral fellow**, Hadany lab, Tel Aviv University, 2016* Data scientist, Neura, 2016
 * Lecturer & TA, Tel Aviv University, 2011-2015
   * Programming for Engineers, Programming for Biologists, Evolution, Intro to CS
 * R&D, NetAlgin, 2008-2009
