@@ -2,16 +2,29 @@ title: Courses
 ---
 body:
 
-### 2018-2019
+Computer Science @ IDC: [B.Sc.](https://www.idc.ac.il/he/schools/cs/undergraduate/pages/tracks.aspx) | [M.Sc.](https://www.idc.ac.il/he/schools/cs/graduate/pages/home.aspx)
 
-#### Fall: **Introduction to Computer Science**
+#### Introduction to Computer Science
 
-#### Fall: **Scientific Computing with Python**
+- Mandatory undergraduate course
+- Fall 2018-2019
+
+#### Scientific Computing with Python [<i class="fa fa-github"></i>](https://github.com/yoavram/CompSciPy)
 
 Python is one of the leading programming languages for scientific research, data science, and machine learning. The course will familiarize students with the Python scientific stack, including NumPy, SciPy, Matplotlib, and Pandas, and best practices for scientific computing. Every class will present a scientific problem, a method for solving it, and an implementation in Python. Examples will include how to model bacterial growth, find stationary points for a predator-prey equation system, predict results of a tennis game, and plot a map of hurricane density.
 
-Book:
-IPython Interactive Computing and Visualization Cookbook by Cyrille Rossant
+- Elective undergraduate/graduate course
+- Fall 2018-2019
+- Book: [IPython Interactive Computing and Visualization Cookbook](http://ipython-books.github.io/) by [Cyrille Rossant](http://cyrille.rossant.net/)
+- Prerequisite: TODO
 
+#### Seminar: Computational Models in Biology
 
-#### Spring: **Seminar: Computational Models in Biology**
+We will examine fundamental models that arise in biology and their analysis through modern scientific computing. Covers discrete and continuous-time dynamics, in deterministic and stochastic settings, with application from molecular biology to population dynamics and population genetics; statistical analysis of experimental data; and theory.
+
+- Elective graduate course
+- Spring 2018-2019
+- Prerequisite: Introduction to probability, Calculus, Linear algebra
+- [Why We Need Computational Models in Biology
+](http://blogs.plos.org/thestudentblog/2016/07/29/why-we-need-computational-models-in-biology/); [Introduction to Computational Models in Biology
+](http://faculty.washington.edu/kamdh/teaching/422-522/)
