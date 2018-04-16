@@ -23,12 +23,12 @@
   <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
   <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
 <![endif]-->
-  <title>Yoav Ram</title>
+  <title>Ram Lab | Computational Evolution | IDC</title>
 {% block head %}{% endblock %}
 </head>
   <body>
     <!-- Navigation -->
-    <nav class="navbar navbar-default navbar-fixed-top topnav navbar-inverse" role="navigation">
+    <nav class="navbar navbar-default navbar-fixed-top topnav" role="navigation">
       <div class="container topnav">
         <!-- Brand and toggle get grouped for better mobile display -->
         <div class="navbar-header">
@@ -37,25 +37,25 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
-          </button>
-          <a class="navbar-brand" href="/">Yoav Ram</a>
+          </button>          
+          <a class="navbar-brand" href="/">Ram Lab | Computational Evolution | IDC</a>
         </div>
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
           <ul class="nav navbar-nav">
             <li{% if this._path == '/' %} class="active"{% endif
-            %}><a href="{{ '/'|url }}"><i class="fa fa-home fa-fw" aria-hidden="true"></i> Home</a></li>
+            %}><a href="{{ '/'|url }}" title="Home"><i class="fa fa-home fa-fw" aria-hidden="true"></i> <span class="hidden-sm">Home</span></a></li>
             {% for icon, href, title in [
             ['fa fa-flask', '/research', 'Research'],
-            ['fa fa-user', '/members', 'Members'],
-            ['fa fa-university', '/cv', 'CV'],
+            ['fa fa-users', '/members', 'Members'],
             ['fa fa-newspaper-o', '/publications', 'Publications'],
+            ['fa fa-graduation-cap', '/courses', 'Courses'],
             ['fa fa-microphone', '/talks', 'Talks'],
             ['fa fa-rss', '/blog', 'Blog'],
-            ['fa fae-python', 'http://python.yoavram.com', 'Python Training']             
+            ['fa fae-python', 'http://python.yoavram.com', 'Python']             
             ] %}
             <li{% if this.is_child_of(href) %} class="active"{% endif
-            %}><a href="{{ href }}"><i class="{{ icon }} fa-fw" aria-hidden="true"></i> {{ title }}</a></li>
+            %}><a href="{{ href }}" title="{{ title }}"><i class="{{ icon }} fa-fw" aria-hidden="true"></i> <span class="hidden-sm">{{ title }}</span></a></li>
             {% endfor %}
           </ul>
         </div>
@@ -78,20 +78,22 @@
             <ul class="list-inline">
                 {% for icon, href, title in [
                 ['fa fa-envelope', 'mailto:yoav@yoavram.com', 'yoav@yoavram.com'],
-                ['ai ai-google-scholar', 'http://scholar.google.com/citations?hl=en&user=RIFmJvYAAAAJ', 'Scholar'],
+                ['fa fa-phone', 'tel:97295xxxxx', '+972.9.5xxxxx'],
                 ['fa fa-twitter', 'https://twitter.com/yoavram', 'Twitter'],
+                ['ai ai-google-scholar', 'http://scholar.google.com/citations?hl=en&user=RIFmJvYAAAAJ', 'Scholar'],
                 ['fa fa-github-alt', 'https://github.com/yoavram', 'GitHub'],
                 ['fa fa-linkedin', 'https://www.linkedin.com/in/yoavram', 'Linkedin'],
                 ['ai ai-orcid', 'http://orcid.org/0000-0002-9653-4458', 'ORCID'],
                 ['ai ai-impactstory', 'https://impactstory.org/u/0000-0002-9653-4458', 'Impactstory'],
-                ['ai ai-researchgate', 'https://www.researchgate.net/profile/Yoav_Ram/', 'ResearchGate']
+                ['ai ai-researchgate', 'https://www.researchgate.net/profile/Yoav_Ram/', 'ResearchGate'],
+                ['fa fa-map-marker', 'https://goo.gl/maps/x9h7SRBrfbu', 'Efi Arazi School of Computer Science, IDC Herzliya, Kanfei Nesharim St., Herzliya, Israel']
                 ] %}
                 <li><a href="{{ href }}"><i class="{{ icon }} fa-fw" aria-hidden="true"></i> {{ title }}</a></li>
                 {% if not loop.last %}
                 <li class="footer-menu-divider">&sdot;</li>
                 {% endif %}
                 {% endfor %}   
-              </ul>
+             </ul>             
             <ul class="list-inline">
               <li>
                 Built with:

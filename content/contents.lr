@@ -1,8 +1,8 @@
-title: Ram Lab | Computational Evolution
+title: Ram Lab
 ---
 body:
 
-We study various areas in theoretical population biology, including **evolution, ecology, and cultural evolution**, using **mathematical analysis, simulations, statistical & computational tools**, and collaborate with experimental microbiologist.
+We study **evolutionary biology, ecology, and cultural evolution** using **mathematical, computational, and statistical models** and **collaborations with experimental biologists**.
 
 We are located at the [Efi Arazi School of Computer Science](http://idc.ac.il/en/schools/cs) at [IDC Herzliya](http://idc.ac.il).
 
@@ -14,4 +14,5 @@ We are located at the [Efi Arazi School of Computer Science](http://idc.ac.il/en
 - My second postdoc paper presents a [_modified mean fitness principle_ for the generation of genetic and phenotypic variation](https://doi.org/10.1016/j.tpb.2018.02.004).
 - My first postdoc paper, on [evolution of non-vertical inheritance in changing environments](http://www.pnas.org/content/early/2018/01/22/1719171115), was published in PNAS! You can also view a [presentation](https://speakerdeck.com/yoavram/evolution-of-non-vertical-inheritance-in-changing-environments#) I gave about our results at the Weizmann Institute for Science.
 
-
+---
+contact: yes
