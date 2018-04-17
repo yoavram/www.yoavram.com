@@ -1,0 +1,34 @@
+{% extends "layout.html" %}
+{% block title %}{{ this.title }}{% endblock %}
+{% block body %}
+	<h1>Members</h1>
+	<div class="row">
+  		{% for member in this.children %}
+  		<div class="col-sm-3 text-center">  	
+    		<img height="225px" width="150px" class="img-circle"
+        src="
+        {% if member.attachments.images.count() > 0 %}
+        {{ member.attachments.images.first()._path }}
+        {% else %}
+        https://www.paladinregistry.com/assets/default-avatar.png
+        {% endif %}
+        ">    	
+    	</div>
+    	{% endfor %}
+    </div>
+    <div class="row">      
+  	{% for member in this.children %}
+ 	  <div class="col-sm-3 text-center"
+    	<strong>
+        <a href="{{ member|url }}">{{ member.name }}</a>
+      </strong>, {{ member.role }}
+    </div>    
+  	{% endfor %}
+  	</div>
+    <p></p>
+    <div class="row">
+      <div class="col-sm-12">
+        {{ this.body }}
+      </div>
+    </div>
+{% endblock %}

@@ -4,7 +4,7 @@
   <div class="row">
   	<div
   	{% if this.attachments.images.count() > 0 %}
-  		class="col-sm-7"
+  		class="col-sm-9"
   	{% else %}
   		class="col-sm-12"
   	{% endif %}
@@ -13,9 +13,9 @@
     {% block subtitle %}{% endblock %}
   		{{ this.body }}
   	</div>
-  	<div class="col-sm-4 col-sm-offset-1 hidden-xs">
+  	<div class="col-sm-3 hidden-xs">
 		  <div class="logo center-block" style="max-width:225px;">
-			{% for image in this.attachments.images %}
+			{% for image in this.attachments.images | sort(attribute='_path') %}
 	  			<p>
 	  				<img class="img-responsive 
 	  				{% if 'avatar' in image._path %}
