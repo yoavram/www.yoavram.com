@@ -76,16 +76,13 @@
         <div class="col-sm-12">
           <footer>
             <ul class="list-inline">
+            	<li>
+            		Contact:
+            	</li>
                 {% for icon, href, title in [
                 ['fa fa-envelope', 'mailto:yoav@yoavram.com', 'yoav@yoavram.com'],
                 ['fa fa-phone', 'tel:97295xxxxx', '+972.9.5xxxxx'],
-                ['fa fa-twitter', 'https://twitter.com/yoavram', 'Twitter'],
-                ['ai ai-google-scholar', 'http://scholar.google.com/citations?hl=en&user=RIFmJvYAAAAJ', 'Scholar'],
-                ['fa fa-github-alt', 'https://github.com/yoavram', 'GitHub'],
-                ['fa fa-linkedin', 'https://www.linkedin.com/in/yoavram', 'Linkedin'],
-                ['ai ai-orcid', 'http://orcid.org/0000-0002-9653-4458', 'ORCID'],
-                ['ai ai-impactstory', 'https://impactstory.org/u/0000-0002-9653-4458', 'Impactstory'],
-                ['ai ai-researchgate', 'https://www.researchgate.net/profile/Yoav_Ram/', 'ResearchGate'],
+                ['fa fa-twitter', 'https://twitter.com/yoavram', 'Twitter'],                
                 ['fa fa-map-marker', 'https://goo.gl/maps/x9h7SRBrfbu', 'Efi Arazi School of Computer Science, IDC Herzliya, P.O. Box 167, Herzliya, Israel']
                 ] %}
                 <li><a href="{{ href }}"><i class="{{ icon }} fa-fw" aria-hidden="true"></i> {{ title }}</a></li>
@@ -93,7 +90,25 @@
                 <li class="footer-menu-divider">&sdot;</li>
                 {% endif %}
                 {% endfor %}   
-             </ul>             
+            </ul>
+            <ul class="list-inline">
+            	<li>
+            		Profiles:
+            	</li>
+                {% for icon, href, title in [
+                ['ai ai-google-scholar', 'http://scholar.google.com/citations?hl=en&user=RIFmJvYAAAAJ', 'Scholar'],
+                ['fa fa-github-alt', 'https://github.com/yoavram', 'GitHub'],
+                ['fa fa-linkedin', 'https://www.linkedin.com/in/yoavram', 'Linkedin'],
+                ['ai ai-orcid', 'http://orcid.org/0000-0002-9653-4458', 'ORCID'],
+                ['ai ai-impactstory', 'https://impactstory.org/u/0000-0002-9653-4458', 'Impactstory'],
+                ['ai ai-researchgate', 'https://www.researchgate.net/profile/Yoav_Ram/', 'ResearchGate'],                
+                ] %}
+                <li><a href="{{ href }}"><i class="{{ icon }} fa-fw" aria-hidden="true"></i> {{ title }}</a></li>
+                {% if not loop.last %}
+                <li class="footer-menu-divider">&sdot;</li>
+                {% endif %}
+                {% endfor %}   
+            </ul>
             <ul class="list-inline">
               <li>
                 Built with:
