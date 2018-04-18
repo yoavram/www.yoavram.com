@@ -2,33 +2,49 @@
 {% block title %}{{ this.title }}{% endblock %}
 {% block body %}
 	<h1>Members</h1>
-	<div class="row">
-  		{% for member in this.children %}
-  		<div class="col-sm-3 text-center">  	
-    		<img height="225px" width="150px" class="img-circle"
-        src="
-        {% if member.attachments.images.count() > 0 %}
-        {{ member.attachments.images.first()._path }}
-        {% else %}
-        https://www.paladinregistry.com/assets/default-avatar.png
-        {% endif %}
-        ">    	
-    	</div>
-    	{% endfor %}
+  <div class="row">
+    <div class="col-sm-12">
+      {{ this.body }}
     </div>
-    <div class="row">      
-  	{% for member in this.children %}
- 	  <div class="col-sm-3 text-center"
-    	<strong>
-        <a href="{{ member|url }}">{{ member.name }}</a>
-      </strong>, {{ member.role }}
-    </div>    
-  	{% endfor %}
-  	</div>
-    <p></p>
-    <div class="row">
-      <div class="col-sm-12">
-        {{ this.body }}
+  </div>	
+		{% for member in this.children.order_by('joined') %}
+      {% set image = member.attachments.images.first() %}
+      <div>
+        <hr class="section-title-spacer">
       </div>
-    </div>
+      <div class="row member">
+    		<div class="col-sm-3 text-center hidden-xsm">
+          <a href="{{ member|url }}">      
+          {% if image %}
+          <img class="img-circle"
+          src="{{ image.thumbnail(150)|url }}">
+          {% else %}
+          <img class="img-circle" src="https://www.paladinregistry.com/assets/default-avatar.png" width="150px">
+          {% endif %}
+          </a>
+      	</div>
+     	  <div class="col-sm-9">
+        	<i class="fa fa-user"></i> <strong>{{ member.name }}</strong>, {{ member.role }}
+          <br>
+          <i class="fa fa-envelope"></i> <a href="mailto:{{ member.email|url }}">{{ member.email }}</a>
+          <p>
+          {{ member.short}}
+          <a href="{{ member|url }}">Read more...</a>
+          </p>          
+        </div>    
+    	</div>  
+      {% if loop.last %}
+      <div>
+        <hr class="section-title-spacer">
+      </div>
+      {% endif %}    
+    {% endfor %}
+  	
+<!--     <div class="row">      
+    {% for member in this.children %}
+    <div class="col-sm-3 text-center">
+      {{ member.body|striptags|truncate(250, False, '\r') }}<a href="{{ member|url }}">...</a>
+    </div>    
+    {% endfor %}
+    </div>   -->  
 {% endblock %}
