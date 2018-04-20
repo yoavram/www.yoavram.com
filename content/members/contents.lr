@@ -3,6 +3,10 @@ title:
 Members
 _model: members
 ---
-body: **We are hiring** undergraduate, master, and doctoral students, postdoctoral fellows and research assistants, including for short periods. If you are interested, please email [Yoav](mailto:yoav@yoavram.com).
+body:
+
+<p class="bg-success">
+**We are hiring** undergraduate, master, and PhD students, postdoctoral fellows and research assistants, including for short periods. If you are interested, please email [Yoav](mailto:yoav@yoavram.com).
+
 ---
 _template: members.html
