@@ -46,12 +46,12 @@
             <li{% if this._path == '/' %} class="active"{% endif
             %}><a href="{{ '/'|url }}" title="Home"><i class="fa fa-home fa-fw" aria-hidden="true"></i> <span class="hidden-sm">Home</span></a></li>
             {% for icon, href, title in [
-            ['fa fa-flask', '/research', 'Research'],
+            ['fae fae-microscope', '/research', 'Research'],
             ['fa fa-users', '/members', 'Members'],
-            ['fa fa-newspaper-o', '/publications', 'Publications'],
+            ['fae fae-book-open-o', '/publications', 'Publications'],
             ['fa fa-graduation-cap', '/courses', 'Courses'],
             ['fa fa-microphone', '/talks', 'Talks'],
-            ['fa fa-rss', '/blog', 'Blog'],
+            ['fae fae-blogger-circle', '/blog', 'Blog'],
             ['fa fae-python', 'http://python.yoavram.com', 'Python']             
             ] %}
             <li{% if this.is_child_of(href) %} class="active"{% endif
@@ -101,7 +101,6 @@
                 ['fa fa-linkedin', 'https://www.linkedin.com/in/yoavram', 'Linkedin'],
                 ['ai ai-orcid', 'http://orcid.org/0000-0002-9653-4458', 'ORCID'],
                 ['ai ai-impactstory', 'https://impactstory.org/u/0000-0002-9653-4458', 'Impactstory'],
-                ['ai ai-researchgate', 'https://www.researchgate.net/profile/Yoav_Ram/', 'ResearchGate'],                
                 ] %}
                 <li><a href="{{ href }}"><i class="{{ icon }} fa-fw" aria-hidden="true"></i> {{ title }}</a></li>
                 {% if not loop.last %}
@@ -135,7 +134,7 @@
               </li>
               <li>
                 <i class="fae-real-heart" aria-hidden="true"></i> 
-                <a href="http://andrelgava.github.io/font-awesome-extension/" target="_blank">Font Awesome Extension</a>
+                <a href="http://andrelzgava.github.io/font-awesome-extension/" target="_blank">Font Awesome Extension</a>
               </li>
               <li>
                 <i class="ai ai-doi ai-1x" aria-hidden="true"></i> 
@@ -146,16 +145,19 @@
                 <a href="https://github.com/andreas-h/bibtex_js" target="_blank">BibTeX.js</a>
               </li>
               <li class="footer-menu-divider">&sdot;</li>
-              <li>
+             <!--  <li>
                 Portrait: <a href="http://www.amirslaney.com" target="_blank">Amir Slaney</a>
-              </li>
+              </li> -->
               <li class="footer-menu-divider">&sdot;</li>
               <li>
                 <i class="fa fa-github-alt" aria-hidden="true"></i> <a href="https://github.com/yoavram/www.yoavram.com" target="_blank"> Source code</a>
               </li>              
             </ul>
             <p class="copyright text-muted small">
-              This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>
+              This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">
+              Creative Commons Attribution-ShareAlike 4.0 International License
+              <i class="fae fae-cc-by"></i> <i class="fae fae-cc-sa"></i>
+          	  </a>
             </p>
             <p class="copyright text-muted small">
               Copyright &copy; Yoav Ram 2018
