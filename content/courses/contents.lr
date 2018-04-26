@@ -25,7 +25,7 @@ Python is one of the leading programming languages for scientific research, data
 
 ------------
 
-#### Seminar: Computational Models in Biology
+#### Seminar: Computational Models in Biology [<i class="fa fa-github"></i>](https://github.com/yoavram/CompModBiol)
 
 Students will present papers which analyse computational models that arise in biology. Models will include discrete and continuous-time dynamics, in deterministic and stochastic settings, with applications to molecular biology, population dynamics, and population genetics.
 
@@ -33,8 +33,5 @@ Students will present papers which analyse computational models that arise in bi
 - Spring 2019
 - Prerequisites: quantitative background is required, biology background is not required
 - Grading: seminar presentation (in English), participation in discussions
-- Read: [Why We Need Computational Models in Biology
-](http://blogs.plos.org/thestudentblog/2016/07/29/why-we-need-computational-models-in-biology/); [Introduction to Computational Models in Biology
-](http://faculty.washington.edu/kamdh/teaching/422-522/)
 
 ------------
