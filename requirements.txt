@@ -1,1 +1,2 @@
 lektor
+packages/lektor-math-markdown
