@@ -2,6 +2,7 @@ body {
     /*font-family: 'Verdana', sans-serif;*/
     margin: 50px 25px;
     color: initial;
+    line-height: 2;
 }
 
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
