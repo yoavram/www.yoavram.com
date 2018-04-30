@@ -72,103 +72,105 @@
           </div>
         </div>        
       </div>
-      <div class="row">
-        <div class="col-sm-12">
-          <footer>
-            <ul class="list-inline">
-            	<li>
-            		Contact:
-            	</li><!--['fa fa-phone', 'tel:97295xxxxx', '+972.9.5xxxxx'],-->
-                {% for icon, href, title in [
-                ['fa fa-envelope', 'mailto:yoav@yoavram.com', 'yoav@yoavram.com'],
-                ['fa fa-twitter', 'https://twitter.com/yoavram', 'Twitter'],                
-                ['fa fa-map-marker', 'https://goo.gl/maps/x9h7SRBrfbu', 'Efi Arazi School of Computer Science, IDC Herzliya, P.O. Box 167, Herzliya, Israel']
-                ] %}
-                <li><a href="{{ href }}"><i class="{{ icon }} fa-fw" aria-hidden="true"></i> {{ title }}</a></li>
-                {% if not loop.last %}
-                <li class="footer-menu-divider">&sdot;</li>
-                {% endif %}
-                {% endfor %}   
-            </ul>
-            <ul class="list-inline">
-            	<li>
-            		Profiles:
-            	</li>
-                {% for icon, href, title in [
-                ['ai ai-google-scholar', 'http://scholar.google.com/citations?hl=en&user=RIFmJvYAAAAJ', 'Scholar'],
-                ['fa fa-github-alt', 'https://github.com/yoavram', 'GitHub'],
-                ['fa fa-linkedin', 'https://www.linkedin.com/in/yoavram', 'Linkedin'],
-                ['ai ai-orcid', 'http://orcid.org/0000-0002-9653-4458', 'ORCID'],
-                ['ai ai-impactstory', 'https://impactstory.org/u/0000-0002-9653-4458', 'Impactstory'],
-                ] %}
-                <li><a href="{{ href }}"><i class="{{ icon }} fa-fw" aria-hidden="true"></i> {{ title }}</a></li>
-                {% if not loop.last %}
-                <li class="footer-menu-divider">&sdot;</li>
-                {% endif %}
-                {% endfor %}   
-            </ul>
-            <ul class="list-inline">
-              <li>
-                Built with:
-              </li>
-              <li>
-                <i class="fa fae-python" aria-hidden="true"></i> 
-                <a href="https://python.org/" target="_blank">Python</a>
-              </li>
-              <li class="footer-menu-divider">&sdot;</li>
-              <li>
-                <a href="https://www.getlektor.com/" target="_blank">Lektor</a>
-              </li>
-              <li class="footer-menu-divider">&sdot;</li>
-              <li>
-                <a href="http://getbootstrap.com/" target="_blank">Bootstrap</a>
-              </li>
-              <li class="footer-menu-divider">&sdot;</li>
-              <li>
-                <a href="https://bootswatch.com/simplex/" target="_blank">Simplex Bootswatch Theme</a>
-              </li>
-              <li>
-                <i class="fa fa-font-awesome" aria-hidden="true"></i> 
-                <a href="http://fontawesome.io/" target="_blank">Font Awesome</a>
-              </li>
-              <li>
-                <i class="fae-real-heart" aria-hidden="true"></i> 
-                <a href="http://andrelzgava.github.io/font-awesome-extension/" target="_blank">Font Awesome Extension</a>
-              </li>
-              <li>
-                <i class="ai ai-doi ai-1x" aria-hidden="true"></i> 
-                <a href="http://jpswalsh.github.io/academicons/" target="_blank">Academicons</a>
-              </li>
-              <li class="footer-menu-divider">&sdot;</li>
-              <li>
-                <a href="https://github.com/andreas-h/bibtex_js" target="_blank">BibTeX.js</a>
-              </li>
-              <li class="footer-menu-divider">&sdot;</li>
-             <!--  <li>
-                Portrait: <a href="http://www.amirslaney.com" target="_blank">Amir Slaney</a>
-              </li> -->
-              <li class="footer-menu-divider">&sdot;</li>
-              <li>
-                <i class="fa fa-github-alt" aria-hidden="true"></i> <a href="https://github.com/yoavram/www.yoavram.com" target="_blank"> Source code</a>
-              </li>              
-            </ul>
-            <p class="copyright text-muted small">
-              This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">
-              Creative Commons Attribution-ShareAlike 4.0 International License
-              <i class="fae fae-cc-by"></i> <i class="fae fae-cc-sa"></i>
-          	  </a>
-            </p>            
-            <p class="copyright text-muted small">
-              Copyright &copy; Yoav Ram 2018
-            </p>
-            <p class="copyright small">
-              Clear eyes, full heart, can't lose
-            </p>
-          </footer>
-        </div>
-      </div>
+    </div>
 
-      <!-- Bootstrap JavaScript -->
+    <footer>
+      <div class="container">
+        <ul class="list-inline">
+          <li>
+            Contact:
+          </li><!--['fa fa-phone', 'tel:97295xxxxx', '+972.9.5xxxxx'],-->
+          {% for icon, href, title in [
+          ['fa fa-envelope', 'mailto:yoav@yoavram.com', 'yoav@yoavram.com'],
+          ['fa fa-twitter', 'https://twitter.com/yoavram', 'Twitter'],
+          ['fa fa-map-marker', 'https://goo.gl/maps/x9h7SRBrfbu', 'Efi Arazi School of Computer Science, IDC Herzliya, P.O. Box 167, Herzliya, Israel']
+          ] %}
+          <li><a href="{{ href }}"><i class="{{ icon }} fa-fw" aria-hidden="true"></i> {{ title }}</a></li>
+          {% if not loop.last %}
+          <li class="footer-menu-divider">&sdot;</li>
+          {% endif %}
+          {% endfor %}
+        </ul>
+        <ul class="list-inline">
+          <li>
+            Profiles:
+          </li>
+          {% for icon, href, title in [
+          ['ai ai-google-scholar', 'http://scholar.google.com/citations?hl=en&user=RIFmJvYAAAAJ', 'Scholar'],
+          ['fa fa-github-alt', 'https://github.com/yoavram', 'GitHub'],
+          ['fa fa-linkedin', 'https://www.linkedin.com/in/yoavram', 'Linkedin'],
+          ['ai ai-orcid', 'http://orcid.org/0000-0002-9653-4458', 'ORCID'],
+          ['ai ai-impactstory', 'https://impactstory.org/u/0000-0002-9653-4458', 'Impactstory'],
+          ] %}
+          <li><a href="{{ href }}"><i class="{{ icon }} fa-fw" aria-hidden="true"></i> {{ title }}</a></li>
+          {% if not loop.last %}
+          <li class="footer-menu-divider">&sdot;</li>
+          {% endif %}
+          {% endfor %}
+        </ul>
+        <ul class="list-inline">
+          <li>
+            Built with:
+          </li>
+          <li>
+            <i class="fa fae-python" aria-hidden="true"></i>
+            <a href="https://python.org/" target="_blank">Python</a>
+          </li>
+          <li class="footer-menu-divider">&sdot;</li>
+          <li>
+            <a href="https://www.getlektor.com/" target="_blank">Lektor</a>
+          </li>
+          <li class="footer-menu-divider">&sdot;</li>
+          <li>
+            <a href="http://getbootstrap.com/" target="_blank">Bootstrap</a>
+          </li>
+          <li class="footer-menu-divider">&sdot;</li>
+          <li>
+            <a href="https://bootswatch.com/simplex/" target="_blank">Simplex Bootswatch Theme</a>
+          </li>
+          <li>
+            <i class="fa fa-font-awesome" aria-hidden="true"></i>
+            <a href="http://fontawesome.io/" target="_blank">Font Awesome</a>
+          </li>
+          <li>
+            <i class="fae-real-heart" aria-hidden="true"></i>
+            <a href="http://andrelzgava.github.io/font-awesome-extension/" target="_blank">Font Awesome Extension</a>
+          </li>
+          <li>
+            <i class="ai ai-doi ai-1x" aria-hidden="true"></i>
+            <a href="http://jpswalsh.github.io/academicons/" target="_blank">Academicons</a>
+          </li>
+          <li class="footer-menu-divider">&sdot;</li>
+          <li>
+            <a href="https://github.com/andreas-h/bibtex_js" target="_blank">BibTeX.js</a>
+          </li>
+          <li class="footer-menu-divider">&sdot;</li>
+          <!--  <li>
+             Portrait: <a href="http://www.amirslaney.com" target="_blank">Amir Slaney</a>
+           </li> -->
+          <li class="footer-menu-divider">&sdot;</li>
+          <li>
+            <i class="fa fa-github-alt" aria-hidden="true"></i> <a href="https://github.com/yoavram/www.yoavram.com" target="_blank"> Source code</a>
+          </li>
+        </ul>
+        <p class="copyright text-muted small">
+          This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">
+          Creative Commons Attribution-ShareAlike 4.0 International License
+          <i class="fae fae-cc-by"></i> <i class="fae fae-cc-sa"></i>
+        </a>
+        </p>
+        <p class="copyright text-muted small">
+          Copyright &copy; Yoav Ram 2018
+        </p>
+        <p class="copyright small">
+          Clear eyes, full heart, can't lose
+        </p>
+      </div>
+    </footer>
+
+
+
+    <!-- Bootstrap JavaScript -->
       <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
       <script type="text/javascript">
         $(function () {
