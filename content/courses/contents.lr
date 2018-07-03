@@ -15,13 +15,13 @@ Computer Science at IDC Herzliya: [B.Sc.](https://www.idc.ac.il/he/schools/cs/un
 
 #### Scientific Computing with Python [<i class="fa fa-github"></i>](https://github.com/yoavram/CompSciPy)
 
-Python is one of the leading programming languages for scientific research, data science, and machine learning. The course will familiarize students with the Python scientific stack, including NumPy, SciPy, Matplotlib, and Pandas, and best practices for scientific computing. Every class will present a scientific problem, a method for solving it, and an implementation in Python. Examples will include how to model bacterial growth, find stationary points for a predator-prey equation system, predict results of a tennis game, and plot a map of hurricane density.
+Python is one of the leading programming languages for scientific research, data science, and machine learning. The course will familiarize students with the Python scientific stack, including NumPy, SciPy, Matplotlib, and Pandas, and best practices for scientific computing. Every class will present a scientific problem, a method for solving it, and an implementation in Python. Examples will include how to model the spread of infectious diseases, find stationary points for a predator-prey equation system, identify an object in an image, calculate the extinction probability of a rare mutation, analyze results of a tennis game, and plot a map of hurricane density.
 
 - Elective undergraduate/graduate course
 - Fall 2018
 - Book: [IPython Interactive Computing and Visualization Cookbook](http://ipython-books.github.io/) by [Cyrille Rossant](http://cyrille.rossant.net/)
 - Grading: TBD
-- Prerequisites: Intro to CS, Intro to probability, Calculus, Linear algebra
+- Prerequisites: Intro to CS, Intro to Probability, Calculus, Linear Algebra
 
 ------------
 
