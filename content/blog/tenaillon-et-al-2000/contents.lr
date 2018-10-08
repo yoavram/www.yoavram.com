@@ -90,7 +90,7 @@ Rates are modified from the original to units of *events per genome per generati
 When the rate of genetic exchanges increases, the fixation probability of mutators 
 decreases. *Figure 1A* shows this very clearly for a 100-fold mutator:
 
-[![Figure 1]](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC27047/figure/F1/)
+[![Figure 1]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC27047/figure/F1/)
 
 > Figure 1 from (Tenaillon et al. 2000).
 >
@@ -146,7 +146,7 @@ The 2^nd^ effect is general - *competing adadptive strategy*. How is recombinati
 Asexual populations are limited by **clonal interference** (Gerrish & Lenski, 1998; Martens & Hallatschek, 2011). 
 The following figure illustrates the idea:
 
-[![Clonal Interference](http://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Evolsex-dia2a.svg/500px-Evolsex-dia2a.svg.png )](http://en.wikipedia.org/wiki/Clonal_interference)
+[![Clonal Interference](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Evolsex-dia2a.svg/500px-Evolsex-dia2a.svg.png )](http://en.wikipedia.org/wiki/Clonal_interference)
 
 > Clonal interference diagram from [Wikipedia](http://en.wikipedia.org/wiki/File:Evolsex-dia2a.svg).
 > This diagram illustrates how sex might create novel genotypes more rapidly. 
