@@ -1,6 +1,7 @@
 {% extends "page.html" %}
 {% block subtitle %}
 <div>
-	<h1>{{ this.name }}</h1>	
+	<h1>{{ this.name }}</h1>
+	<h5>Since {{ this.joined | dateformat('medium')}}</h5>
 </div>
 {% endblock %}
