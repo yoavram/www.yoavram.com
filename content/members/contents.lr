@@ -5,8 +5,7 @@ _model: members
 ---
 body:
 
-<p class="bg-success">
-**I'm looking** for undergraduate, master, and PhD students, postdoctoral fellows and research assistants, including for short periods. If you are interested, please email [Yoav](mailto:yoav@yoavram.com).
+We're looking for undergraduate, master, and PhD students, postdoctoral fellows and research assistants, including for short periods. If you are interested, please email [Yoav](mailto:yoav@yoavram.com).
 
 ---
 _template: members.html
