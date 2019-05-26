@@ -11,7 +11,7 @@ Computer Science at IDC Herzliya: [B.Sc.](https://www.idc.ac.il/he/schools/cs/un
 The course equips the students with a solid basis of computer programming, and exposes them to major themes in computer science such as digital architectures, algorithms, complexity and more. The course uses Java as a first programming language, and emphasizes object-oriented software development
 
 - Mandatory undergraduate course
-- Fall 2018
+- Fall 2018, Fall 2019
 - Prerequisites: None
 
 ------------
@@ -20,9 +20,9 @@ The course equips the students with a solid basis of computer programming, and e
 
 Python is one of the leading programming languages for scientific research, data science, and machine learning. The course will familiarize students with the Python scientific stack, including NumPy, SciPy, Matplotlib, and Pandas, and best practices for scientific computing. Every class will present a scientific problem, a method for solving it, and an implementation in Python. Examples will include how to model the spread of infectious diseases, find stationary points for a predator-prey equation system, identify an object in an image, calculate the extinction probability of a rare mutation, analyze results of a tennis game, and plot a map of hurricane density.
 
-- Elective undergraduate/graduate course
-- Fall 2018
-- Book: [IPython Interactive Computing and Visualization Cookbook](http://ipython-books.github.io/) by [Cyrille Rossant](http://cyrille.rossant.net/)
+- Elective advanced undergraduate/graduate course
+- Fall 2018, Spring 2020
+- Book: _[IPython Interactive Computing and Visualization Cookbook](http://ipython-books.github.io/)_ by [Cyrille Rossant](http://cyrille.rossant.net/)
 - Prerequisites: Intro to CS, Intro to Probability, Calculus, Linear Algebra
 
 ------------
@@ -33,7 +33,7 @@ Students will present papers that address modelling and data analysis in the con
 
 - Elective graduate seminar
 - Spring 2019
-- Book: A Biologist’s Guide to Mathematical Modeling in Ecology and Evolution by Otto and Day
+- Book: _A Biologist’s Guide to Mathematical Modeling in Ecology and Evolution_ by Otto and Day
 - Prerequisites: quantitative background is required, biology background is not required
 
 ------------

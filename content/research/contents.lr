@@ -2,11 +2,11 @@ title: Research
 ---
 body:
 
-We study *evolutionary biology* and *cultural evolution* using mathematical, computational, and statistical models and collaborations with experimental biologists.
+We study **evolutionary biology, ecology, and cultural evolution** using **mathematical, computational, and statistical models** and **collaborations with experimental biologists**.
 
 #### Main interests
 
-- **Generation & transmission of variation**
+- **Generation and transmission of phenotypic and genetic variation**
 - **Analysis of evolutionary experiments**
 
 #### Research questions
@@ -15,21 +15,19 @@ We study *evolutionary biology* and *cultural evolution* using mathematical, com
 - How do these **inheritance modes evolve** and co-evolve?
 - What are the similarities and differences between **cultural and genetic evolution**?
 - What can new insights and models from **machine and deep learning** teach us about evolution?
-- Which models are best suited to **analyse and interpret results from evolutionary experiments**?
+- What models are best suited to **analyse and interpret results from evolutionary experiments**?
 - How can we **integrate different levels of population biology** when analysing experimental results?
 
 #### Future projects
 
-If you want to be involved, please email [Yoav](mailto:yoav@yoavram.com).
+If you want to be involved in our research, please email [Yoav](mailto:yoav@yoavram.com).
 
-- Co-evolution of **learning and teaching**
-- Transmission of connections in **social networks** with applications to animals and human social networks
-- Implementing **evolutionary simulations using GPU** and computational graph frameworks like TensorFlow
-- Similarities and differences between **evolution and deep learning**
-- Adaptive **peak shifts** with non-vertical inheritance
 - Modeling the role of **aneuploidy** in adaptive evolution
-- Using experimental data to **predicting microbial competition results**
-- Analysing results of **evolutionary experiments** using Bayesian methods
+- Evolution with **non-vertical cultural transmission**
+- Evolution over **social networks** with applications to animals and human social networks
+- Applications of **deep learning in evolutionary theory**
+- Using experimental data to **predict microbial competition results**
+- Analysing results of **evolutionary experiments** using advanced statistical models
 - Evolution of learning using **neural networks** as a cognitive model
 - **Food culture**: mining and surveying data on food culture, the set of practices, norms, and institution that determine what, when, and why we eat
 
@@ -38,13 +36,13 @@ If you want to be involved, please email [Yoav](mailto:yoav@yoavram.com).
 #### Population genetics
 We developed a theoretical basis to explain **the evolution of stress-induced mutagenesis** – the phenomena in which stress induces a transient increase in mutation rates. 
 Stress-induced mutagenesis is prevalent in bacteria and empirical evidence suggests that it is common in many eukaryote species, from yeast to human cancer cells. 
-We used mathematical models and computer simulations to show that (i) **stress-induced mutagenesis is favored by natural selection** ([Ram & Hadany 2012](http://goo.gl/sai3Hk); [Ram, Altenberg, Liberman & Feldman, 2018](https://doi.org/10.1016/j.tpb.2018.02.004)); that (ii) this is also true in the **presence of horizontal gene transfer** (Ram & Hadany, in print); that (iii) **stress-induced mutagenesis increases the rate of complex adaptation** without reducing the mean fitness of the population ([Ram & Hadany, 2014](http://goo.gl/SSH5Uc)); and that (iv) errors in regulation of mutagenesis can be compensated by cell-to-cell signalling ([Dellus-Gur et al., 2017](http://rsos.royalsocietypublishing.org/content/4/11/170529)).
+We used mathematical models and computer simulations to show that (i) **stress-induced mutagenesis is favored by natural selection** ([Ram & Hadany 2012](http://dx.doi.org/10.1111/j.1558-5646.2012.01576.x); [Ram, Altenberg, Liberman & Feldman 2018](https://doi.org/10.1016/j.tpb.2018.02.004)); that (ii) this is also true in the **presence of horizontal gene transfer** ([Ram & Hadany 2019](http://doi.org/10.1086/703457)); that (iii) **stress-induced mutagenesis increases the rate of complex adaptation** without reducing the mean fitness of the population ([Ram & Hadany 2014](http://dx.doi.org/10.1098/rspb.2014.1025)); and that (iv) errors in regulation of mutagenesis can be compensated by cell-to-cell signalling ([Dellus-Gur et al. 2017](http://dx.doi.org/10.1098/rsos.170529)).
 
 #### Cultural evolution
-We studied the evolution of **oblique transmission**, in which offspring inherit their phenotype from a non-parental adult rather than their parents. This occurs, for example, in social learning, symbiont and pathogen transmission, and transfer of mobile genetic  elements in microbes. We found that the evolutionarily stable rate of oblique transmission differs markedly from the rate that maximizes the geometric mean fitness of the population, implying a form of "prisoner's dilemma" for social learning ([Ram, Liberman & Feldman, PNAS 2018](http://www.pnas.org/lookup/doi/10.1073/pnas.1719171115)). We've also studied how fluctuations in the rate of vertical vs. oblique transmission affect trait polymorphism ([Ram, Liberman & Feldman, TPB 2019](https://doi.org/10.1016/j.tpb.2018.11.001)).
+We studied the evolution of **oblique transmission**, in which offspring inherit their phenotype from a non-parental adult rather than their parents. This occurs, for example, in social learning, symbiont and pathogen transmission, and transfer of mobile genetic  elements in microbes. We found that the evolutionarily stable rate of oblique transmission differs markedly from the rate that maximizes the geometric mean fitness of the population, implying a form of "prisoner's dilemma" for social learning ([Ram, Liberman & Feldman 2018](http://doi.org/10.1073/pnas.1719171115)). We've also studied how fluctuations in the rate of vertical vs. oblique transmission affect trait polymorphism ([Ram, Liberman & Feldman 2019](https://doi.org/10.1016/j.tpb.2018.11.001)).
 
 #### Analysis of evolutionary experiments
-We collaborated to develop and test a new method for **predicting microbial growth in a mixed culture** solely from growth curve data ([Ram et al., submitted](http://biorxiv.org/content/early/2016/08/03/022640)). 
+We collaborated to develop and test a new method for **predicting microbial growth in a mixed culture** solely from growth curve data ([Ram et al., _Accepted_](http://biorxiv.org/content/early/2016/08/03/022640)). 
 To validate this method, we performed growth curve and competition experiments with bacteria.
 Our new method not only results in a simple and cost-effective approach for estimating growth in a mixed culture and inferring competitive fitness in microbes, but also provides information on the specific growth traits that contribute to differences in fitness, thus helping to bridge the gap between microbial ecology and evolution.
 
