@@ -6,25 +6,25 @@ We study **evolutionary biology, ecology, and cultural evolution** using **mathe
 
 #### Main interests
 
-- **Generation and transmission of phenotypic and genetic variation**
+- **Generation and transmission of phenotypic, genetic, and cultural variation**
 - **Analysis of evolutionary experiments**
 
 #### Research questions
 
-- How do different **inheritance modes** (small-effect vs. large-effect, high-fidelity vs. low-fidelity, vertical vs. non-vertical) affect evolution?
+- How do different **inheritance modes** (genetic vs. cultural, small-effect vs. large-effect, high-fidelity vs. low-fidelity, vertical vs. non-vertical) affect evolution?
 - How do these **inheritance modes evolve** and co-evolve?
 - What are the similarities and differences between **cultural and genetic evolution**?
 - What can new insights and models from **machine and deep learning** teach us about evolution?
-- What models are best suited to **analyse and interpret results from evolutionary experiments**?
-- How can we **integrate different levels of population biology** when analysing experimental results?
+- Which models are best suited to **analyse and interpret results from evolutionary experiments**?
+- How can we **integrate different levels of population biology**, especially when analysing experimental and observational results?
 
 #### Future projects
 
-If you want to be involved in our research, please email [Yoav](mailto:yoav@yoavram.com).
+To be involved in our research, please email [Yoav](mailto:yoav@yoavram.com).
 
 - Modeling the role of **aneuploidy** in adaptive evolution
 - Evolution with **non-vertical cultural transmission**
-- Evolution over **social networks** with applications to animals and human social networks
+- Evolution over **social networks** with applications to animal and human social networks
 - Applications of **deep learning in evolutionary theory**
 - Using experimental data to **predict microbial competition results**
 - Analysing results of **evolutionary experiments** using advanced statistical models
