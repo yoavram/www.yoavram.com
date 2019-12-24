@@ -6,15 +6,15 @@ We study **evolutionary biology, ecology, and cultural evolution** using **mathe
 
 #### Main interests
 
-- **Generation and transmission of phenotypic, genetic, and cultural variation**
-- **Analysis of evolutionary experiments**
+- Generation and transmission of phenotypic, genetic, and cultural variation
+- Analysis of evolutionary experiments
 
 #### Research questions
 
 - How do different **inheritance modes** (genetic vs. cultural, small-effect vs. large-effect, high-fidelity vs. low-fidelity, vertical vs. non-vertical) affect evolution?
 - How do these **inheritance modes evolve** and co-evolve?
 - What are the similarities and differences between **cultural and genetic evolution**?
-- What can new insights and models from **machine and deep learning** teach us about evolution?
+- How can new insights and models from **machine and deep learning** help us study evolution?
 - Which models are best suited to **analyse and interpret results from evolutionary experiments**?
 - How can we **integrate different levels of population biology**, especially when analysing experimental and observational results?
 
@@ -22,14 +22,12 @@ We study **evolutionary biology, ecology, and cultural evolution** using **mathe
 
 To be involved in our research, please email [Yoav](mailto:yoav@yoavram.com).
 
-- Modeling the role of **aneuploidy** in adaptive evolution
-- Evolution with **non-vertical cultural transmission**
-- Evolution over **social networks** with applications to animal and human social networks
-- Applications of **deep learning in evolutionary theory**
-- Using experimental data to **predict microbial competition results**
-- Analysing results of **evolutionary experiments** using advanced statistical models
-- Evolution of learning using **neural networks** as a cognitive model
-- **Food culture**: mining and surveying data on food culture, the set of practices, norms, and institution that determine what, when, and why we eat
+- Mathematical modelling of the role of **aneuploidy** and copy number variation in adaptive evolution
+- Evolution of **non-vertical cultural transmission** and its effect population structure and prosocial behaviour
+- Applications of **deep learning to the study of evolution**
+- Analysis of data from **evolutionary experiments** using advanced inference methods
+- Modelling the **evolution of learning and language** using **neural networks** as a cognitive model
+- Analysis of large-scale cultural and genetic data to infer **interactions between cultural and genetic evolution**
 
 ### Past research
 
@@ -39,7 +37,7 @@ Stress-induced mutagenesis is prevalent in bacteria and empirical evidence sugge
 We used mathematical models and computer simulations to show that (i) **stress-induced mutagenesis is favored by natural selection** ([Ram & Hadany 2012](https://doi.org/10.1111/j.1558-5646.2012.01576.x); [Ram et al. 2018](https://doi.org/10.1016/j.tpb.2018.02.004)); that (ii) this is also true in the **presence of horizontal gene transfer** ([Ram & Hadany 2019](https://doi.org/10.1086/703457)); that (iii) **stress-induced mutagenesis increases the rate of complex adaptation** without reducing the mean fitness of the population ([Ram & Hadany 2014](https://doi.org/10.1098/rspb.2014.1025)); and that (iv) errors in regulation of mutagenesis can be compensated by cell-to-cell signalling ([Dellus-Gur et al. 2017](https://doi.org/10.1098/rsos.170529)).
 
 #### Cultural evolution
-We studied the evolution of **oblique transmission**, in which offspring inherit their phenotype from a non-parental adult rather than their parents. This occurs, for example, in social learning, symbiont and pathogen transmission, and transfer of mobile genetic  elements in microbes. We found that the evolutionarily stable rate of oblique transmission differs markedly from the rate that maximizes the geometric mean fitness of the population, implying a form of "prisoner's dilemma" for social learning ([Ram, Liberman & Feldman 2018](https://doi.org/10.1073/pnas.1719171115)). We've also studied how fluctuations in the rate of vertical vs. oblique transmission affect trait polymorphism ([Ram, Liberman & Feldman 2019](https://doi.org/10.1016/j.tpb.2018.11.001)).
+We studied the evolution of **oblique transmission**, in which offspring inherit their phenotype from a non-parental adult rather than their parents. This occurs, for example, in social learning, symbiont and pathogen transmission, and transfer of mobile genetic  elements in microbes. We found that the evolutionarily stable rate of oblique transmission differs markedly from the rate that maximizes the geometric mean fitness of the population, implying a form of "prisoner's dilemma" for social learning ([Ram, Liberman & Feldman 2018](https://doi.org/10.1073/pnas.1719171115)). We've also studied how fluctuations in the rate of vertical vs. oblique transmission affect trait polymorphism ([Ram, Liberman & Feldman 2019](https://doi.org/10.1016/j.tpb.2018.11.001)) and what happens if the rate of vertical vs. oblique transmission depends on trait frequency ([Liberman, Ram, Altenberg & Feldman 2019](http://doi.org/10.1016/j.tpb.2019.12.004)) 
 
 #### Analysis of evolutionary experiments
 We collaborated to develop and test a new method for **predicting microbial growth in a mixed culture** solely from growth curve data ([Ram et al. 2019](https://doi.org/10.1073/pnas.1902217116)). 
