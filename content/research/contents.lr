@@ -2,12 +2,12 @@ title: Research
 ---
 body:
 
-We study **evolutionary biology, ecology, and cultural evolution** using **mathematical, computational, and statistical models** and **collaborations with experimental biologists**.
+We study **population biology**, including evolutionary biology, ecology, behaviour, and cultural evolution, using **mathematical, computational, and statistical models** and **collaborations** with experimental biologists.
 
 #### Main interests
 
-- Generation and transmission of phenotypic, genetic, and cultural variation
-- Analysis of evolutionary experiments
+- The mechanisms that produce and transmit of phenotypic, genetic, and cultural variation
+- Model-based analysis of evolutionary and ecological empirical data
 
 #### Research questions
 
@@ -15,19 +15,20 @@ We study **evolutionary biology, ecology, and cultural evolution** using **mathe
 - How do these **inheritance modes evolve** and co-evolve?
 - What are the similarities and differences between **cultural and genetic evolution**?
 - How can new insights and models from **machine and deep learning** help us study evolution?
-- Which models are best suited to **analyse and interpret results from evolutionary experiments**?
+- Which models are best suited to **analyse and interpret empirical evolutionary and ecological data**?
 - How can we **integrate different levels of population biology**, especially when analysing experimental and observational results?
 
-#### Future projects
+#### Current and future research projects
 
 To be involved in our research, please email [Yoav](mailto:yoav@yoavram.com).
 
-- Mathematical modelling of the role of **aneuploidy** and copy number variation in adaptive evolution
-- Evolution of **non-vertical cultural transmission** and its effect population structure and prosocial behaviour
-- Applications of **deep learning to the study of evolution**
-- Analysis of data from **evolutionary experiments** using advanced inference methods
-- Modelling the **evolution of learning and language** using **neural networks** as a cognitive model
-- Analysis of large-scale cultural and genetic data to infer **interactions between cultural and genetic evolution**
+- Evolution of **non-vertical cultural transmission** and its effect on social structure
+- The role of **aneuploidy** and copy number variation in adaptive evolution
+- **Gene-culture coevolution** and its inference in large-scale cultural and genetic data
+- Applications of **deep learning** to the study of population biology
+- Statistical inference from **evolutionary experiments** using likelihood-free methods
+- Adaptive evolution with **variable mutation rates**
+- The **evolution of learning and language** using **neural networks** as a cognitive model
 
 ### Past research
 
