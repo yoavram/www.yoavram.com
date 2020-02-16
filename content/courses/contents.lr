@@ -18,7 +18,7 @@ The course equips the students with a solid basis of computer programming, and e
 
 #### [Scientific Computing with Python](https://scicompy.yoavram.com)
 
-Python is one of the leading programming languages for scientific research, data science, and machine learning. The course will familiarize students with the Python scientific stack, including NumPy, SciPy, Matplotlib, and Pandas, and best practices for scientific computing. Every class will present a scientific problem, a method for solving it, and an implementation in Python. Examples will include how to model the spread of infectious diseases, find stationary points for a predator-prey equation system, identify an object in an image, calculate the extinction probability of a rare mutation, analyze results of a tennis game, and plot a map of hurricane density.
+Python is one of the leading programming languages for scientific research, data science, and machine learning. The course will familiarize students with the Python scientific stack, including NumPy, SciPy, Matplotlib, and Pandas, and best practices for scientific computing. Every class will present a scientific problem, a method for solving it, and an implementation in Python. Examples will include how to model the spread of infectious diseases, find stationary points for a predator-prey equation system, calculate the extinction probability of a rare mutation, analyse molecular dynamics, and plot a map of hurricane density.
 
 - Elective advanced undergraduate/graduate course
 - Fall 2018, Spring 2020
@@ -33,7 +33,7 @@ Students will present papers that address modelling and data analysis in the con
 
 - Elective graduate seminar
 - Spring 2019
-- Book: _A Biologist’s Guide to Mathematical Modeling in Ecology and Evolution_ by Otto and Day
+- Book: A Biologist’s Guide to Mathematical Modeling in Ecology and Evolution by Otto and Day
 - Prerequisites: quantitative background is required, biology background is not required
 
 ------------
