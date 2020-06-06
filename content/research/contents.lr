@@ -17,7 +17,7 @@ We study **population biology**, including evolutionary biology, ecology, behavi
 - How do different **inheritance modes** (genetic vs. cultural, small-effect vs. large-effect, high-fidelity vs. low-fidelity, vertical vs. non-vertical) affect evolution?
 - How do these **inheritance modes evolve** and co-evolve?
 - What are the similarities and differences between **cultural and genetic evolution**?
-- How can new insights and models from **machine and deep learning** help us study evolution?
+- How can new insights and models from **machine and deep learning** help us study ecology, evolution, and behaviour?
 - Which models are best suited to **analyse and interpret empirical evolutionary and ecological data**?
 - How can we **integrate different levels of population biology**, especially when analysing experimental and observational results?
 
@@ -28,10 +28,14 @@ To be involved in our research, please email [Yoav](mailto:yoav@yoavram.com).
 - Statistical inference of growth and interactions from empirical competition data
 - Evolution and consequences of **non-vertical cultural transmission** and social learning
 - The role of **aneuploidy** and copy number variation in adaptive evolution
-- **Gene-culture coevolution** and its inference in large-scale cultural and genetic data
+- **Gene-culture coevolution** and its inference in large-scale genetic and cultural data
 - Applications of **deep learning** to the study of population biology
 - Statistical inference from **evolutionary experiments** using Bayesian and likelihood-free methods
 - Adaptive evolution with **variable mutation rates**
+
+### Support
+
+Our work is supported by grants from the Israeli Science Foundation (ISF), the John Templeton Foundation, Minerva Stiftung (center for lab evolution), Amazon Web Services (AWS), and Nvidia. 
 
 ### Past research
 
