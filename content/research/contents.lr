@@ -12,6 +12,8 @@ We study **population biology**, including evolutionary biology, ecology, behavi
 
 #### Research questions
 
+- How do density- and frequency-dependent interactions determine competition outcomes?
+- How can we use easy-to-obtain empirical data to interpret and predict the results of competitions?
 - How do different **inheritance modes** (genetic vs. cultural, small-effect vs. large-effect, high-fidelity vs. low-fidelity, vertical vs. non-vertical) affect evolution?
 - How do these **inheritance modes evolve** and co-evolve?
 - What are the similarities and differences between **cultural and genetic evolution**?
@@ -23,13 +25,13 @@ We study **population biology**, including evolutionary biology, ecology, behavi
 
 To be involved in our research, please email [Yoav](mailto:yoav@yoavram.com).
 
-- Evolution of **non-vertical cultural transmission** and its effect on social structure
+- Statistical inference of growth and interactions from empirical competition data
+- Evolution and consequences of **non-vertical cultural transmission** and social learning
 - The role of **aneuploidy** and copy number variation in adaptive evolution
 - **Gene-culture coevolution** and its inference in large-scale cultural and genetic data
 - Applications of **deep learning** to the study of population biology
-- Statistical inference from **evolutionary experiments** using likelihood-free methods
+- Statistical inference from **evolutionary experiments** using Bayesian and likelihood-free methods
 - Adaptive evolution with **variable mutation rates**
-- The **evolution of learning and language** using **neural networks** as a cognitive model
 
 ### Past research
 
