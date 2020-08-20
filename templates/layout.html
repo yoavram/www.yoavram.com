@@ -38,7 +38,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>          
-          <a class="navbar-brand" href="/">Ram Lab <span class="hidden-sm">| Computational Ecology & Evolution</span> | Tel Aviv University</a>
+          <a class="navbar-brand" href="/">Ram Lab <span class="hidden-sm">| Computational Ecology & Evolution</span> <!--| Tel Aviv University--></a>
         </div>
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
@@ -121,8 +121,10 @@
           {% for icon, href, title in [
           ['fa fa-envelope', 'mailto:yoav@yoavram.com', 'yoav@yoavram.com'],
           ['fa fa-twitter', 'https://twitter.com/yoavram', 'Twitter'],
-          ['fa fa-map-marker', 'https://goo.gl/maps/Zwn667N7qxFtWX87A', 'School of Zoology, Tel Aviv University, P.O. Box 39040, Tel Aviv, 6997801, Israel']
-          ] %}
+          ['fa fa-map-marker', 'https://goo.gl/maps/x9h7SRBrfbu', 'Efi Arazi School of Computer Science, IDC Herzliya, P.O. Box 167, Herzliya, 4610101, Israel']
+          <!--['fa fa-map-marker', 'https://goo.gl/maps/Zwn667N7qxFtWX87A', 'School of Zoology, Tel Aviv University, P.O. Box 39040, Tel Aviv, 6997801, Israel']-->
+          ]
+          %}
           <li><a href="{{ href }}"><i class="{{ icon }} fa-fw" aria-hidden="true"></i> {{ title }}</a></li>
           {% if not loop.last %}
           <li class="footer-menu-divider">&sdot;</li>
