@@ -23,7 +23,7 @@
   <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
   <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
 <![endif]-->
-  <title>Ram Lab | IDC</title>
+  <title>Ram Lab | Computational Ecology & Evolution</title>
 {% block head %}{% endblock %}
 </head>
   <body>
@@ -38,7 +38,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>          
-          <a class="navbar-brand" href="/">Ram Lab <span class="hidden-sm">| Computational Evolution</span> at IDC</a>
+          <a class="navbar-brand" href="/">Ram Lab <span class="hidden-sm">| Computational Ecology & Evolution</span> <!--| Tel Aviv University--></a>
         </div>
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
@@ -48,8 +48,7 @@
             {% for icon, href, title in [
             ['fae fae-microscope', '/research', 'Research'],
             ['fa fa-users', '/members', 'Members'],
-            ['fae fae-book-open-o', '/publications', 'Publications'],
-            ['fa fa-graduation-cap', '/courses', 'Courses'],
+            ['fae fae-book-open-o', '/publications', 'Publications'],            
             ['fa fa-microphone', '/talks', 'Talks'],
             ['fae fae-blogger-circle', '/blog', 'Blog'],
             ] %}
@@ -83,7 +82,11 @@
             Templeton Foundation 
           </li>
           <li>
-            <a href="https://www.isf.org.il/" target="_blank">Israeli Science Foundation</a>
+            <a href="https://www.isf.org.il/" target="_blank">Israel Science Foundation</a>
+          </li>
+          <li class="footer-menu-divider">&sdot;</li>
+		  <li>
+            <a href="https://www.minerva.mpg.de" target="_blank">Minerva Stiftung</a>
           </li>
           <li class="footer-menu-divider">&sdot;</li>
           <li>
@@ -123,7 +126,9 @@
           ['fa fa-envelope', 'mailto:yoav@yoavram.com', 'yoav@yoavram.com'],
           ['fa fa-twitter', 'https://twitter.com/yoavram', 'Twitter'],
           ['fa fa-map-marker', 'https://goo.gl/maps/x9h7SRBrfbu', 'Efi Arazi School of Computer Science, IDC Herzliya, P.O. Box 167, Herzliya, 4610101, Israel']
-          ] %}
+          <!--['fa fa-map-marker', 'https://goo.gl/maps/Zwn667N7qxFtWX87A', 'School of Zoology, Tel Aviv University, P.O. Box 39040, Tel Aviv, 6997801, Israel']-->
+          ]
+          %}
           <li><a href="{{ href }}"><i class="{{ icon }} fa-fw" aria-hidden="true"></i> {{ title }}</a></li>
           {% if not loop.last %}
           <li class="footer-menu-divider">&sdot;</li>
@@ -182,10 +187,10 @@
         </a>
         </p>
         <p class="copyright text-muted small">
-          Copyright &copy; Yoav Ram 2018
+          Copyright &copy; Yoav Ram 2018-2020
         </p>
         <p class="copyright small">
-          Clear eyes, full heart, can't lose
+          I don't make things complicated. That's the way they get, all by themselves. -- Martin Riggs
         </p>
       </div>
     </footer>
