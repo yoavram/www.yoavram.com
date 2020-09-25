@@ -29,6 +29,10 @@ email: giladram@gmail.com
 ---
 joined: 2019-2-13
 ---
-role: MSc Student 
+role:
+
+MSc Student 
 ---
 short: Pursuing my MSc degree in Computer Science at IDC Herzliya, I use deep learning models to uncover the relations between compressibility space and language expressiveness in the area of human-machine interaction.
+---
+_hidden: yes

@@ -4,21 +4,21 @@ role: PI
 ---
 body:
 
-*Office: [Psychology & Economics building](https://goo.gl/maps/6XaL9QVVybq), room 309*
-
 I'm a **theoretical biologist** with a special interest in evolutionary theory, population dynamics, and cultural evolution.
 
-I'm a **mathematician**. I especially like applying probabilistic and statistical models to biological questions.
+I'm a **mathematician**. I especially like applying mathematical and statistical models to questions in population biology.
 
-I'm a **computational scientist**. I use numerical and stochastic simulations, statistics, machine and deep learning, and data visualization to extract insight from models and data.
+I'm a **computational scientist**. I use numerical and stochastic simulations, computational statistics, machine and deep learning, and data visualisation to extract insight from models and data.
 
-I'm a **senior lecturer** (asst. prof.) at the Efi Arazi School of Computer Science at IDC Herzliya since Fall 2018.
-I was a CEHG **postdoctoral fellow** at the [Feldman Lab](http://www-evo.stanford.edu/) in Stanford University. I did a direct **Ph.D.** in the [Hadany Lab](http://www.hadanylab.com) at Tel Aviv University and got a **B.Sc.** in math and biology from Tel Aviv University.
+I'm a **senior lecturer** (asst. prof.) at the [School of Zoology](https://en-lifesci.tau.ac.il/lp-en-zoology), Faculty of Life Sciences, Tel Aviv University.
+I was previously a **senior lecturer** at the [School of Computer Science](https://www.idc.ac.il/he/schools/cs/pages/home.aspx), at IDC Herzliya, 
+and a CEHG **postdoctoral fellow** at the [Feldman Lab](http://www-evo.stanford.edu/) in Stanford University
+I did a direct **Ph.D.** in the [Hadany Lab](http://www.hadanylab.com) at Tel Aviv University and got a **B.Sc.** in math and biology from Tel Aviv University.
 
 I'm also a **technical trainer**. I help engineers, analysts, and data scientists use [Python](https://python.yoavram.com/) for scientific computation and data science.
 
-I live with my partner, four kids, and two dogs.
-I enjoy walking, [eating, cooking, and gardening](http://www.thethirdplate.com), listening to [hip-hop](https://youtu.be/_VklRDoigWs) and [podcasts](http://soundcloud.com/the-bill-simmons-podcast), [reading](https://en.wikipedia.org/wiki/Leviathan_Wakes), and watching [NBA](https://www.nba.com/lakers/releases/180709-lakers-sign-lebron-james).
+I live with my partner, four kids, two dogs, and two cats.
+I enjoy walking, [eating, cooking, and gardening](http://www.thethirdplate.com), listening to [hip-hop](https://youtu.be/_VklRDoigWs) and [podcasts](http://soundcloud.com/the-bill-simmons-podcast), [reading](https://en.wikipedia.org/wiki/Mars_trilogy), and watching [NBA](https://www.nba.com/lakers/releases/180709-lakers-sign-lebron-james).
 
 ## Curriculum vitae 
 
@@ -36,8 +36,9 @@ I enjoy walking, [eating, cooking, and gardening](http://www.thethirdplate.com),
 
 ### Employment
 
-* 2018- Senior lecturer (=asst. prof.), [Efi Arazi School of Computer Science](https://www.idc.ac.il/he/schools/cs/pages/home.aspx), [IDC Herzliya](http://idc.ac.il).
-* [Technical instructor](https://python.yoavram.com/), 2016-ongoing
+* 2020-on Senior lecturer (=asst. prof.), [School of Zoology](https://en-lifesci.tau.ac.il/lp-en-zoology), Faculty of Life Sciences, Tel Aviv University.
+* 2018-2020 Senior lecturer (=asst. prof.), [Efi Arazi School of Computer Science](https://www.idc.ac.il/he/schools/cs/pages/home.aspx), IDC Herzliya.
+* [Technical instructor](https://python.yoavram.com/), 2016-on
   * Python for Engineers, Machine learning, Deep learning
 * 2016-2018 Postdoctoral fellow, [Feldman lab](http://www-evo.stanford.edu/), Stanford University
 * 2016 Postdoctoral fellow, [Hadany lab](http://hadanylab.com), Tel Aviv University
@@ -50,6 +51,7 @@ I enjoy walking, [eating, cooking, and gardening](http://www.thethirdplate.com),
 
 ### Selected Awards
 
+* **Israel Science Foundation** KillCorona research grant, Co-PI, 2020-2021
 * **Templeton Foundation** grant, Co-PI, 2021-2023
 * **Minerva** center for lab evolution, Co-PI, 2020-2025
 * **Israel Science Foundation** personal research grant, 2019-2023.
