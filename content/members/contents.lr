@@ -5,7 +5,10 @@ _model: members
 ---
 body:
 
-We're looking for undergraduate, master, and PhD students, postdoctoral fellows and research assistants, including for short periods, in a variety of [research topics](/research). If you are interested, please email [Yoav](mailto:yoav@yoavram.com).
+<div class="alert alert-warning" role="alert">
+We are looking for students, postdocs, and research assistants, including for short term or part time. <br>
+If you are interested in joining us, please email <a href="mailto:yoav@yoavram.com">Yoav</a>.
+</div>
 
 ---
 _template: members.html

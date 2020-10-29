@@ -12,14 +12,11 @@ We study **population biology**, including evolutionary biology, ecology, behavi
 
 #### Research questions
 
-- How do density- and frequency-dependent interactions determine **competition outcomes**?
-- How can we use **easy-to-obtain empirical data** to interpret and predict the results of competitions?
+- What determines the **outcomes of competitions**?
 - How do different **inheritance modes** (genetic vs. cultural, small-effect vs. large-effect, high-fidelity vs. low-fidelity, vertical vs. non-vertical) affect evolution?
 - How do these **inheritance modes evolve** and co-evolve?
-- What are the similarities and differences between **cultural and genetic evolution**?
-- How can new insights and models from **machine and deep learning** help us study ecology, evolution, and behaviour?
-- Which models are best suited to **analyse and interpret empirical evolutionary and ecological data**?
-- How can we **integrate different levels of population biology**, especially when analysing experimental and observational results?
+- How can **machine and deep learning** help us study ecology, evolution, and behaviour?
+- How can we **integrate different levels of population biology**?
 
 #### Current and future research projects
 
@@ -36,19 +33,13 @@ To be involved in our research, please email [Yoav](mailto:yoav@yoavram.com).
 
 ### Support
 
-Our work is supported by grants from the Israeli Science Foundation (ISF), the John Templeton Foundation, Minerva Stiftung Center for Lab Evolution, Amazon Web Services (AWS), and Nvidia. 
+Our work is supported by grants from Israel Science Foundation (ISF), John Templeton Foundation, Minerva Stiftung Center for Lab Evolution, Amazon Web Services (AWS), and NVIDIA. 
 
 ### Past research
 
-#### Population genetics
-We developed a theoretical basis to explain **the evolution of stress-induced mutagenesis** – the phenomena in which stress induces a transient increase in mutation rates. 
-Stress-induced mutagenesis is prevalent in bacteria and in many eukaryote species, from yeast to human cancer cells. 
-We used mathematical models and computer simulations to show that (i) **stress-induced mutagenesis is favored by natural selection** ([Ram & Hadany 2012](https://doi.org/10.1111/j.1558-5646.2012.01576.x)); that (ii) this is also true in the **presence of rare recombination** ([Ram & Hadany 2019](https://doi.org/10.1086/703457)); that (iii) **stress-induced mutagenesis increases the rate of complex adaptation** without reducing the mean fitness of the population ([Ram & Hadany 2014](https://doi.org/10.1098/rspb.2014.1025)); and that (iv) errors in regulation of mutagenesis can be compensated by population communication ([Dellus-Gur et al. 2017](https://doi.org/10.1098/rsos.170529)).
-
-We have also found a general principle underlying this phenomena, which we have termed the **_Modified Mean Fitness Principle_** ([Ram et al. 2018](https://doi.org/10.1016/j.tpb.2018.02.004)). It determines that if below-average individuals generate more variation (be it genetic or phenotypic) than above-average individuals, then the population mean fitness will increase. The mechanisms for generation of variation are not limited to mutation but rather may include dispersal ([Gueijman et al. 2013](http://doi.org/10.1186/1471-2148-13-125)), social learning, etc.
-
-#### Cultural evolution
-We studied the evolution of **oblique transmission**, in which offspring inherit their phenotype from a non-parental adult rather than their parents. This occurs primarily during social learning, but also in symbiont and pathogen transmission. We found that the evolutionarily stable rate of oblique transmission differs markedly from the rate that maximizes the geometric mean fitness of the population, implying a form of **_prisoner's dilemma_ for social learning** ([Ram, Liberman & Feldman 2018](https://doi.org/10.1073/pnas.1719171115)). We've also studied how fluctuations in the rate of vertical vs. oblique transmission affect trait polymorphism ([Ram, Liberman & Feldman 2019](https://doi.org/10.1016/j.tpb.2018.11.001)), what happens when the rate of vertical vs. oblique transmission depends on trait frequency ([Liberman, Ram, Altenberg & Feldman 2019](http://doi.org/10.1016/j.tpb.2019.12.004)), or when transmission is biased towards to the more (or less) common phenotype ([Krebs Denton, Ram, Liberman, Feldman 2020](http://doi.org/10.1073/pnas.2004102117)).
+#### The COVID-19 epidemic
+We used an SEIR model and MCMC parameter estimation to infer the effective start of non-pharmaceutical interventions during the initial outbreaks of COVID-19 is 12 countries. We found that in the majority of cases, the effective start date is significantly different from the official, and that this late effective start may lead to incorrect interpretation of the impact of interventions ([Kohanovski et al., preprint](https://doi.org/10.1101/2020.05.24.20092817)). 
+We also studied a model in which human behaviour changes in response to the number of infected individuals causes the transmission rate to decrease. We found cycles, chaos, and high sensitivity to model parameters. This suggests that the predictive power of epidemiological models is hampered by complex human behaviour ([Arthur et al., preprint](http://doi.org/10.1101/2020.04.14.028407)).
 
 #### Analysis of evolutionary experiments
 We collaborated to develop and test a new method for **predicting growth in a mixed culture** solely from growth curve data ([Ram et al. 2019a](https://doi.org/10.1073/pnas.1902217116), [Ram et al. 2019b](https://doi.org/10.1073/pnas.1917758117)). 
@@ -57,7 +48,12 @@ Our new method not only results in a simple and cost-effective approach for esti
 
 We also collaborated with the Kupiec lab at Tel Aviv University to analyse results of evolutionary experiments ([Harari et al. 2018a](https://doi.org/10.1016/j.cub.2018.01.062), [Harari et al. 2018b](http://doi.org/10.1007/s00294-018-0823-y)). In these experiments, haploid yeast cells frequently became diploid via two distinct genetic mechanisms. Using approximate Bayesian approximation (ABC), we estimated the rate of endoreduplication in these experiments, and found that in it was much higher than the mutation rate.
 
-#### The COVID-19 epidemic
-We used an SEIR model and MCMC parameter estimation to infer the effective start of non-pharmaceutical interventions during the initial outbreaks of COVID-19 is 12 countries. We found that in the majority of cases, the effective start date is significantly different from the official, and that this late effective start may lead to incorrect interpretation of the impact of interventions ([Kohanovski et al., preprint](https://doi.org/10.1101/2020.05.24.20092817)). 
-We also studied a model in which human behaviour changes in response to the number of infected individuals causes the transmission rate to decrease. We found cycles, chaos, and high sensitivity to model parameters. This suggests that the predictive power of epidemiological models is hampered by complex human behaviour ([Arthur et al., preprint](http://doi.org/10.1101/2020.04.14.028407)).
+#### Cultural evolution
+We studied the evolution of **oblique transmission**, in which offspring inherit their phenotype from a non-parental adult rather than their parents. This occurs primarily during social learning, but also in symbiont and pathogen transmission. We found that the evolutionarily stable rate of oblique transmission differs markedly from the rate that maximizes the geometric mean fitness of the population, implying a form of **_prisoner's dilemma_ for social learning** ([Ram, Liberman & Feldman 2018](https://doi.org/10.1073/pnas.1719171115)). We've also studied how fluctuations in the rate of vertical vs. oblique transmission affect trait polymorphism ([Ram, Liberman & Feldman 2019](https://doi.org/10.1016/j.tpb.2018.11.001)), what happens when the rate of vertical vs. oblique transmission depends on trait frequency ([Liberman, Ram, Altenberg & Feldman 2019](http://doi.org/10.1016/j.tpb.2019.12.004)), or when transmission is biased towards to the more (or less) common phenotype ([Krebs Denton, Ram, Liberman, Feldman 2020](http://doi.org/10.1073/pnas.2004102117)).
 
+#### Evolutionary genetics
+We developed a theoretical basis to explain **the evolution of stress-induced mutagenesis** – the phenomena in which stress induces a transient increase in mutation rates. 
+Stress-induced mutagenesis is prevalent in bacteria and in many eukaryote species, from yeast to human cancer cells. 
+We used mathematical models and computer simulations to show that (i) **stress-induced mutagenesis is favored by natural selection** ([Ram & Hadany 2012](https://doi.org/10.1111/j.1558-5646.2012.01576.x)); that (ii) this is also true in the **presence of rare recombination** ([Ram & Hadany 2019](https://doi.org/10.1086/703457)); that (iii) **stress-induced mutagenesis increases the rate of complex adaptation** without reducing the mean fitness of the population ([Ram & Hadany 2014](https://doi.org/10.1098/rspb.2014.1025)); and that (iv) errors in regulation of mutagenesis can be compensated by population communication ([Dellus-Gur et al. 2017](https://doi.org/10.1098/rsos.170529)).
+
+We have also found a general principle underlying this phenomena, which we have termed the **_Modified Mean Fitness Principle_** ([Ram et al. 2018](https://doi.org/10.1016/j.tpb.2018.02.004)). It determines that if below-average individuals generate more variation (be it genetic or phenotypic) than above-average individuals, then the population mean fitness will increase. The mechanisms for generation of variation are not limited to mutation but rather may include dispersal ([Gueijman et al. 2013](http://doi.org/10.1186/1471-2148-13-125)), social learning, etc.
