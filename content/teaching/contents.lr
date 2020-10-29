@@ -2,6 +2,8 @@ title: Teaching
 ---
 body:
 
+## Programs
+
 - MSc programs
   - [Zoology](https://en-lifesci.tau.ac.il/zoology/msc)
   - [Ecology and Environmental Protection](https://en-lifesci.tau.ac.il/EcologyandEnvironmentalProtectionTrack)
@@ -11,3 +13,35 @@ body:
   - [Life Sciences](https://en-lifesci.tau.ac.il/zoology/phd) 
   - [Neuroscience](https://www.sagol.tau.ac.il/en/phd-programs/)
 - [Postdoctoral fellowships](https://en-lifesci.tau.ac.il/midrasahPost-doc)
+
+## Courses
+
+#### [Scientific Computing with Python](https://scicompy.yoavram.com)
+
+Python is one of the leading programming languages for scientific research, data science, and machine learning. The course will familiarize students with the Python scientific stack, including NumPy, SciPy, Matplotlib, and Pandas, and best practices for scientific computing. Every class will present a scientific problem, a method for solving it, and an implementation in Python. Examples will include how to model the spread of infectious diseases, find stationary points for a predator-prey equation system, calculate the extinction probability of a rare mutation, analyse molecular dynamics, and plot a map of hurricane density.
+
+- Elective advanced undergraduate/graduate course
+- Fall 2018, Spring 2020 at IDC Herzliya
+- Book: _[IPython Interactive Computing and Visualization Cookbook](http://ipython-books.github.io/)_ by [Cyrille Rossant](http://cyrille.rossant.net/)
+- Prerequisites: Intro to CS, Intro to Probability, Calculus, Linear Algebra
+
+-------------
+
+#### [Seminar: Computational Models in Biology](http://seminar2019.yoavram.com)
+
+Students will present papers that address modelling and data analysis in the context of biology. We will talk about discrete- and continuous-time dynamics, both stochastic and deterministic. We will see, though the review of literature, how to apply such models to understand and study ecology, evolution, genetics, epidemiology, and behaviour.
+
+- Elective graduate seminar
+- Spring 2019 at IDC Herzliya
+- Book: A Biologist’s Guide to Mathematical Modeling in Ecology and Evolution by Otto and Day
+- Prerequisites: quantitative background is required, biology background is not required
+
+-------------
+
+#### [Introduction to Computer Science](http://moodle.idc.ac.il/2019/course/view.php?id=1901030)
+
+The course equips the students with a solid basis of computer programming, and exposes them to major themes in computer science such as digital architectures, algorithms, complexity and more. The course uses Java as a first programming language, and emphasizes object-oriented software development
+
+- Mandatory undergraduate course
+- Fall 2018, Fall 2019 at IDC Herzliya
+- Prerequisites: None
