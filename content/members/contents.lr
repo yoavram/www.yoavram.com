@@ -5,10 +5,10 @@ _model: members
 ---
 body:
 
-<div class="alert alert-warning" role="alert">
+<!--div class="alert alert-warning" role="alert">
 We are looking for students, postdocs, and research assistants, including for short term or part time. <br>
 If you are interested in joining us, please email <a href="mailto:yoav@yoavram.com">Yoav</a>.
-</div>
+</div-->
 
 ---
 _template: members.html
