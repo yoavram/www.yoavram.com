@@ -57,3 +57,22 @@ Stress-induced mutagenesis is prevalent in bacteria and in many eukaryote specie
 We used mathematical models and computer simulations to show that (i) **stress-induced mutagenesis is favored by natural selection** ([Ram & Hadany 2012](https://doi.org/10.1111/j.1558-5646.2012.01576.x)); that (ii) this is also true in the **presence of rare recombination** ([Ram & Hadany 2019](https://doi.org/10.1086/703457)); that (iii) **stress-induced mutagenesis increases the rate of complex adaptation** without reducing the mean fitness of the population ([Ram & Hadany 2014](https://doi.org/10.1098/rspb.2014.1025)); and that (iv) errors in regulation of mutagenesis can be compensated by population communication ([Dellus-Gur et al. 2017](https://doi.org/10.1098/rsos.170529)).
 
 We have also found a general principle underlying this phenomena, which we have termed the **_Modified Mean Fitness Principle_** ([Ram et al. 2018](https://doi.org/10.1016/j.tpb.2018.02.004)). It determines that if below-average individuals generate more variation (be it genetic or phenotypic) than above-average individuals, then the population mean fitness will increase. The mechanisms for generation of variation are not limited to mutation but rather may include dispersal ([Gueijman et al. 2013](http://doi.org/10.1186/1471-2148-13-125)), social learning, etc.
+
+### Collaborators
+#### At Tel Aviv University
+- Lilach Hadany
+- Judith Berman, Tel Aviv University
+- Uri Liberman, Tel Aviv University
+- Uri Obolski, Tel Aviv University
+- Eli Geffen, Tel Aviv University
+- Yoni Belmaker, Tel Aviv University
+- Martin Kupiec, Tel Aviv University
+- Adi Stern, Tel Aviv University
+
+#### At other institutions
+- Marc Feldman, Stanford University
+- Tzachi Pilpel, Weizmann Institute of Science
+- Oren Kolodny, Hebrew University
+- Tim Cooper, Massey University
+- David Gresham, New York University
+- Kevin Laland, University of St Andrews
