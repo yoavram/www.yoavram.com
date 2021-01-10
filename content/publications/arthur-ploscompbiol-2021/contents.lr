@@ -1,0 +1,24 @@
+title: Adaptive social contact rates induce complex dynamics during epidemics
+---
+published: true
+---
+authors: 
+Arthur RF,
+Jones JH,
+Bonds MH,
+*Ram Y,
+Feldman, MW.
+---
+doi: 10.1101/2020.04.14.028407
+---
+journal: PLOS Computational Biology, Accepted
+---
+date: 2020-7-14
+---
+preprint: http://doi.org/10.1101/2020.04.14.028407
+---
+github: https://github.com/yoavram/SanJose
+---
+abstract:
+The COVID-19 pandemic has posed a significant dilemma for governments across the globe. The public health consequences of inaction are catastrophic; but the economic consequences of drastic action are likewise catastrophic. Governments must therefore strike a balance in the face of these trade-offs. But with critical uncertainty about how to find such a balance, they are forced to experiment with their interventions and await the results of their experimentation. Models have proved inaccurate because behavioral response patterns are either not factored in or are hard to predict. One crucial behavioral response in a pandemic is adaptive social contact: potentially infectious contact between people is deliberately reduced either individually or by fiat; and this must be balanced against the economic cost of having fewer people in contact and therefore active in the labor force. We develop a model for adaptive optimal control of the effective social contact rate within a Susceptible-Infectious-Susceptible (SIS) epidemic model using a dynamic utility function with delayed information. This utility function trades off the population-wide contact rate with the expected cost and risk of increasing infections. Our analytical and computational analysis of this simple discrete-time deterministic model reveals the existence of a non-zero equilibrium, oscillatory dynamics around this equilibrium under some parametric conditions, and complex dynamic regimes that shift under small parameter perturbations. These results support the supposition that infectious disease dynamics under adaptive behavior-change may have an indifference point, may produce oscillatory dynamics without other forcing, and constitute complex adaptive systems with associated dynamics. Implications for COVID-19 include an expectation of fluctuations, for a considerable time, around a quasi-equilibrium that balances public health and economic priorities, that shows multiple peaks and surges in some scenarios, and that implies a high degree of uncertainty in mathematical projections.
+

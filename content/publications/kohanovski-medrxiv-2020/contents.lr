@@ -1,0 +1,21 @@
+title: Inferring the effective start dates of non-pharmaceutical interventions during COVID-19 outbreaks
+---
+published: false
+---
+authors: 
+*Kohanovski I,
+Obolski U,
+*Ram Y.
+---
+doi: 10.1101/2020.05.24.20092817
+---
+journal: medRxiv
+---
+status: Submitted
+---
+date: 2020-7-13
+---
+preprint: https://doi.org/10.1101/2020.05.24.20092817
+---
+abstract:
+During Feb-Apr 2020, many countries implemented non-pharmaceutical interventions, such as school closures and lockdowns, with variable schedules, to control the COVID-19 pandemic caused by the SARS-CoV-2 virus. Overall, these interventions seem to have successfully reduced the spread of the pandemic. We hypothesise that the official and effective start date of such interventions can significantly differ, for example due to slow adoption by the population, or because the authorities and the public are unprepared. We fit an SEIR model to case data from 12 countries to infer the effective start dates of interventions and contrast them with the official dates. We find mostly late, but also early effects of interventions. For example, Italy implemented a nationwide lockdown on Mar 11, but we infer the effective date on Mar 17 (±2.99 days 95% CI). In contrast, Germany announced a lockdown on Mar 22, but we infer an effective start date on Mar 19 (± 1.05 days 95% CI). We demonstrate that differences between the official and effective start of NPIs can distort conclusions about their impact, and discuss potential causes and consequences of our results.

@@ -1,0 +1,50 @@
+{% extends "layout.html" %}
+{% block title %}{{ this.title }}{% endblock %}
+{% block body %}
+	<h1>Publications</h1>
+	<div class="row">
+    <div class="col-sm-12">
+      {{ this.body }}
+    </div>
+  </div>
+<div class="row member">
+	<div class="col-sm-12">
+		<h2>Preprints &amp; Submitted</h2>
+		<ul>
+{% for paper in this.children.order_by('date')|rejectattr("published") %}
+		<li>
+		{% for author in paper.authors %}
+  			{% if author.startswith("*") %}<strong>{{ author|replace("*", "")|trim }}</strong>
+  			{% else %}{{ author|trim }}		
+  			{% endif %}  			
+		{% endfor %}
+		<a href="https://doi.org/{{ doi }}"><strong>{{ paper.title}}</strong></a>. <em>{{ paper.journal }}</em>. DOI:{{ paper.doi }}
+		{% if paper.preprint %}<a href="{{ paper.preprint }}"><i class="fae-book-open-o"></i></a>{% endif %}
+		</li>
+{% endfor %}
+		</ul>
+	</div>
+</div>
+<div class="row member">
+	<div class="col-sm-12">
+		<h2>Published &amp; Accepted</h2>
+		<ul>
+{% for paper in this.children.order_by('date')|selectattr("published") %}
+		<li>
+		{% for author in paper.authors %}
+  			{% if author.startswith("*") %}<strong>{{ author|replace("*", "")|trim }}</strong>
+  			{% else %}{{ author|trim }}		
+  			{% endif %}  			
+		{% endfor %}
+		({{ paper.date|dateformat('yyyy') }})
+		<a href="https://doi.org/{{ doi }}"><strong>{{ paper.title}}</strong></a>. <em>{{ paper.journal }}</em>. DOI:{{ paper.doi }}
+		{% if paper.preprint %}<a href="{{ paper.preprint }}"><i class="fae-book-open-o"></i></a>{% endif %}
+		{% if paper.github %}<a href="{{ paper.github }}"><i class="fa fa-github"></i></a>{% endif %}
+		
+		</li>
+{% endfor %}
+		</ul>
+	</div>
+</div>
+
+{% endblock %}
