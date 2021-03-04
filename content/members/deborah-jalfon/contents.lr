@@ -20,3 +20,5 @@ joined: 2020-12-1
 role: Research Assistant
 ---
 short: I am interested in computational biology and data science. Currently doing research on modeling the effect of social behaviour and non-pharmaceutical interventions on COVID19 transmission dynamics. 
+---
+_hidden: yes
