@@ -46,11 +46,11 @@
             <li{% if this._path == '/' %} class="active"{% endif
             %}><a href="{{ '/'|url }}" title="Home"><i class="fa fa-home fa-fw" aria-hidden="true"></i> <span class="hidden-sm">Home</span></a></li>
             {% for icon, href, title in [
-            ['fae fae-microscope', '/research', 'Research'],
-            ['fa fa-users', '/members', 'Members'],
-            ['fae fae-book-open-o', '/publications', 'Publications'],   
-            ['fa fa-graduation-cap', '/teaching', 'Teaching'],         
-            ['fa fa-microphone', '/talks', 'Talks'],
+              ['fae fae-microscope', '/research', 'Research'],
+              ['fa fa-users', '/members', 'Members'],
+              ['fae fae-book-open-o', '/publications', 'Publications'],
+              ['fa fa-microphone', '/talks', 'Talks'],
+              ['fa fa-graduation-cap', '/teaching', 'Study'],
             ] %}
             <li{% if this.is_child_of(href) %} class="active"{% endif
             %}><a href="{{ href }}" title="{{ title }}"><i class="{{ icon }} fa-fw" aria-hidden="true"></i> <span class="hidden-sm">{{ title }}</span></a></li>
