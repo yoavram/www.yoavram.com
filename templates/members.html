@@ -8,6 +8,7 @@
     </div>
   </div>	
 		{% for member in this.children.order_by('joined') %}
+      {% if not member.alumni %}
       {% set image = member.attachments.images.first() %}
       <div>
         <hr class="section-title-spacer">
@@ -33,18 +34,29 @@
           </p>          
         </div>    
     	</div>  
+      {% endif %}    
       {% if loop.last %}
-      <div>
-        <hr class="section-title-spacer">
-      </div>
+        <div>
+          <hr class="section-title-spacer">
+        </div>
       {% endif %}    
     {% endfor %}
   	
-<!--     <div class="row">      
-    {% for member in this.children %}
-    <div class="col-sm-3 text-center">
-      {{ member.body|striptags|truncate(250, False, '\r') }}<a href="{{ member|url }}">...</a>
-    </div>    
-    {% endfor %}
-    </div>   -->  
+<div class="row">          
+      <h1>Alumni</h1>
+      <div class="col-sm-12">
+        <ul class="list-unstyled">          
+        {% for member in this.children %}
+          {% if member.alumni %}
+          <li>
+          <i class="fa fa-user"></i> <a href="{{ member|url }}"><strong>{{ member.name }}</strong></a>, {{ member.role }}<br>
+          <i class="fae fae-book-open-o"></i> <em>{{ member.research}}</em>
+          </li>
+          <li>
+            <hr class="section-title-spacer">
+          </li>
+          {% endif %}
+        {% endfor %}
+      </div>
+</div>   
 {% endblock %}
