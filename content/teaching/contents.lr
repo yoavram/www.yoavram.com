@@ -19,12 +19,24 @@ body:
 
 ## Courses
 
+#### [Evolution](https://www.ims.tau.ac.il/tal/syllabus/Syllabus_L.aspx?course=0455253601&year=2021)
+
+הקורס מציג לתלמיד את שדה המחקר של האבולוציה, ואת הכוחות העיקריים המניעים תהליכים אבולוציוניים. חלקו הראשון של הקורס עוסק בהיבטים בסיסיים של האבולוציה כתיאוריה וכתהליך. בחלקו השני מקשר הקורס בין גנטיקה של אוכלוסיות וגנטיקה כמותית מצד אחד, לבין סלקציה וסחיפה גנטית מצד שני. חלקו האחרון של הקורס מוקדש לנושאים מתקדמים יותר, ובכלל זה שאלות פתוחות בחקר האבולוציה. 
+
+- Mandatory undergraduate course
+- Spring 2022 
+- Faculty of Life Sciences, Tel Aviv University
+- Additional lectureres: Arnon Lotem, Itay Mayrose
+
+-------------
+
 #### [Scientific Computing with Python](https://scicompy.yoavram.com)
 
 Python is one of the leading programming languages for scientific research, data science, and machine learning. The course will familiarize students with the Python scientific stack, including NumPy, SciPy, Matplotlib, and Pandas, and best practices for scientific computing. Every class will present a scientific problem, a method for solving it, and an implementation in Python. Examples will include how to model the spread of infectious diseases, find stationary points for a predator-prey equation system, calculate the extinction probability of a rare mutation, analyse molecular dynamics, and plot a map of hurricane density.
 
 - Elective advanced undergraduate/graduate course
-- Fall 2018, Spring 2020 at IDC Herzliya
+- Fall 2018, Spring 2020 
+- School of Computer Science, IDC Herzliya
 - Book: _[IPython Interactive Computing and Visualization Cookbook](http://ipython-books.github.io/)_ by [Cyrille Rossant](http://cyrille.rossant.net/)
 - Prerequisites: Intro to CS, Intro to Probability, Calculus, Linear Algebra
 
@@ -35,7 +47,8 @@ Python is one of the leading programming languages for scientific research, data
 Students will present papers that address modelling and data analysis in the context of biology. We will talk about discrete- and continuous-time dynamics, both stochastic and deterministic. We will see, though the review of literature, how to apply such models to understand and study ecology, evolution, genetics, epidemiology, and behaviour.
 
 - Elective graduate seminar
-- Spring 2019 at IDC Herzliya
+- Spring 2019
+- School of Computer Science, IDC Herzliya
 - Book: A Biologist’s Guide to Mathematical Modeling in Ecology and Evolution by Otto and Day
 - Prerequisites: quantitative background is required, biology background is not required
 
@@ -46,5 +59,6 @@ Students will present papers that address modelling and data analysis in the con
 The course equips the students with a solid basis of computer programming, and exposes them to major themes in computer science such as digital architectures, algorithms, complexity and more. The course uses Java as a first programming language, and emphasizes object-oriented software development
 
 - Mandatory undergraduate course
-- Fall 2018, Fall 2019 at IDC Herzliya
+- Fall 2018, Fall 2019 
+- School of Computer Science, IDC Herzliya
 - Prerequisites: None
