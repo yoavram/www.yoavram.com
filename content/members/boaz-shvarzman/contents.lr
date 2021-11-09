@@ -36,4 +36,6 @@ role: MSc Student
 ---
 short: Pursuing my MSc degree in Computer Science at Reichman University (IDC Herzliya), I'm studying the interesting relations between deep learning models and artificial evolution.
 ---
-alumni: no
+alumni: yes
+---
+research: Self-Replicating Artificial Neural Networks Give Rise to Complex Evolutionary Dynamics
