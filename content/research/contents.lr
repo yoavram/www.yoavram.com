@@ -64,7 +64,7 @@ We used an SEIR model and MCMC parameter estimation to infer the effective start
 
 We studied a model in which human behaviour changes in response to the number of infected individuals causes the transmission rate to decrease. We found cycles, chaos, and high sensitivity to model parameters. This suggests that the predictive power of epidemiological models is hampered by complex human behaviour ([Arthur et al., 2021](10.1371/journal.pcbi.1008639); [Stanford News](https://news.stanford.edu/2021/02/10/behaviors-complicate-epidemic-outcomes/)).
 
-We used evo-epidemiological models to examine the effect of non-pharmaceutical interventions (social distancing, lockdowns, etc.) and PCR testing on the evolution of virulence, attenuation, and test-evasiveness in SARS-CoV-2. We find conditions under which stronger measures select for less virulent strains, and more testing select for less detectable strains, even if those strains are also less infectious ([Gurevich, Ram & Hadany, medRxiv](https://doi.org/10.1101/2021.02.20.21252133)).
+We used evo-epidemiological models to examine the effect of non-pharmaceutical interventions (social distancing, lockdowns, etc.) and PCR testing on the evolution of virulence, attenuation, and test-evasiveness in SARS-CoV-2. We find conditions under which stronger measures select for less virulent strains, and more testing select for less detectable strains, even if those strains are also less infectious ([Gurevich, Ram & Hadany, 2022](https://doi.org/10.1093/emph/eoac013)).
 
 ### Collaborators
 #### Tel Aviv University
@@ -80,10 +80,10 @@ We used evo-epidemiological models to examine the effect of non-pharmaceutical i
 
 #### Elsewhere
 - Marc Feldman, Stanford University
+- David Gresham, New York University
 - Tzachi Pilpel, Weizmann Institute of Science
 - Oren Kolodny, Hebrew University of Jerusalem
 - Shay Covo, Hebrew University of Jerusalem
 - Shimon Harrus, Hebrew University of Jerusalem
 - Tim Cooper, Massey University
-- David Gresham, New York University
 - Kevin Laland, University of St Andrews
