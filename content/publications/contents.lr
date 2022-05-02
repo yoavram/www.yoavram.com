@@ -13,88 +13,109 @@ body:
 
 ### Preprints
 
-*	<u>Lobinska G</u>, Pilpel Y, <u>Ram Y</u>. [**Epigenetically Inherited Mutation Rates Predicted to Maximize Adaptation Rates**](https://doi.org/10.1101/2021.07.14.452333). *bioRxiv*. DOI: 10.1101/2021.07.14.452333 <i class="fae-book-open-o"></i>
+*	<u>Lobinska G</u>, Pilpel Y, <u>Ram Y</u>. [**Epigenetically Inherited Mutation Rates Predicted to Maximize Adaptation Rates**](https://doi.org/10.1101/2021.07.14.452333). *bioRxiv*. DOI:10.1101/2021.07.14.452333 <i class="fae-book-open-o"></i>
 
 *	Cohen O, <u>Ram Y</u>, Hadany L, Gafny S, Geffen E. **The effect of habitat and climatic factors on microsatellite allele length variation**. *Submitted*.
 
 ### Published & Accepted
 
-*	Avecilla G, Chuong JN, Li F, Sherlock G, Gresham D, <u>Ram Y</u>. (2022) **Simulation-Based Inference of Evolutionary Parameters from Adaptation Dynamics Using Neural Networks**. *PLOS Biology*, Accepted. *bioRxiv* DOI: 10.1101/2021.09.30.462581 [<i class="fae-book-open-o"></i>](https://doi.org/10.1101/2021.09.30.462581)
-
-*	Gurevich Y, <u>Ram Y</u>, Hadany L. (2022) [**Modeling the evolution of SARS-CoV-2 under non-pharmaceutical interventions and testing**](https://doi.org/10.1093/emph/eoac013). *Evolution, Medicine, and Public Health*.  DOI: 10.1093/emph/eoac013 <i class="ai ai-open-access ai-1x"></i>
-
-* 	 Galke L, <u>Ram Y</u>, Raviv L. (2022) [**Emergent Communication for Understanding Human Language Evolution: What’s Missing?**](https://openreview.net/references/pdf?id=ruOcvkunM5). *Emergent Communication Workshop at ICLR 2022*, Accepted.
+*	Avecilla G, Chuong JN, Li F, Sherlock G, Gresham D, <u>Ram Y</u>. (2022) **Simulation-Based Inference of Evolutionary Parameters from Adaptation Dynamics Using Neural Networks**. *PLOS Biology*, Accepted. *bioRxiv* DOI:10.1101/2021.09.30.462581 [<i class="fae-book-open-o"></i>](https://doi.org/10.1101/2021.09.30.462581) [<i class="fa fa-github"></i>](https://github.com/graceave/cnv_sims_inference)
 
 *	Denton KK, <u>Ram Y</u>, Feldman MW. (2022) **Conditions that favor cumulative cultural evolution**. *Philosophical Transactions B*, Accepted.
 
-*	<u>Kohanovski I</u>, Obolski U, <u>Ram Y</u>. (2022) [**Inferring the effective start dates of non-pharmaceutical interventions during COVID-19 outbreaks**](https://doi.org/10.1016/j.ijid.2021.12.364). *International Journal of Infectious Diseases*. DOI: 10.1016/j.ijid.2021.12.364 [<i class="fae-book-open-o"></i>](https://doi.org/10.1101/2020.05.24.20092817) [<i class="fa fa-github"></i>](https://github.com/yoavram-lab/EffectiveNPI) [<i class="fa fa-slideshare"></i>](https://www.dropbox.com/s/nxx3e4mezzfz9yk/Kohanovski-IJID-2022_Presentation.pdf?dl=0)
+*	Gurevich Y, <u>Ram Y</u>, Hadany L. (2022) [**Modeling the evolution of SARS-CoV-2 under non-pharmaceutical interventions and testing**](https://doi.org/10.1093/emph/eoac013). *Evolution, Medicine, and Public Health*. DOI:10.1093/emph/eoac013 <i class="ai ai-open-access ai-1x"></i> [<i class="fa fa-github"></i>](
+https://github.com/hadanylab/attenuation)
 
-*	Denton KK, <u>Ram Y</u>, Feldman MW. (2021) [**Conformity and content-biased cultural transmission in the evolution of altruism**](https://doi.org/10.1016/j.tpb.2021.10.004). *Theoretical Population Biology*. DOI: 10.1016/j.tpb.2021.10.004 [<i class="fae-book-open-o"></i>](https://doi.org/10.1101/2020.12.10.420513) <i class="ai ai-open-access ai-1x"></i>
+* 	 Galke L, <u>Ram Y</u>, Raviv L. (2022) [**Emergent Communication for Understanding Human Language Evolution: What’s Missing?**](https://arxiv.org/abs/2204.10590) *Emergent Communication Workshop at ICLR 2022*. DOI:10.48550/arXiv.2204.10590
+ <i class="ai ai-open-access ai-1x"></i>
 
-*   Cohen O, <u>Ram Y</u>, Hadany L, Gafny S, Geffen E. (2021) [**Annual climatic fluctuations and short-term genetic variation in the eastern spadefoot toad**](http://doi.org/10.1038/s41598-021-92696-w). *Scientific Reports*. DOI: 10.1038/s41598-021-92696-w <i class="ai ai-open-access ai-1x"></i>
+*	<u>Kohanovski I</u>, Obolski U, <u>Ram Y</u>. (2022) [**Inferring the effective start dates of non-pharmaceutical interventions during COVID-19 outbreaks**](https://doi.org/10.1016/j.ijid.2021.12.364). *International Journal of Infectious Diseases*. DOI:10.1016/j.ijid.2021.12.364
+[<i class="fae-book-open-o"></i>](https://doi.org/10.1101/2020.05.24.20092817)
+[<i class="fa fa-github"></i>](https://github.com/yoavram-lab/EffectiveNPI)
+[<i class="fa fa-slideshare"></i>](https://www.dropbox.com/s/nxx3e4mezzfz9yk/Kohanovski-IJID-2022_Presentation.pdf?dl=0)
+[<i class=""fa fa-youtube-play""></i>](https://youtu.be/RVb_iOFSAbI)
 
-*	Gutiérrez R, <u>Ram Y</u>, Berman J, de Sousa KCM, Nachum-Biala Y, Britzi M, Elad D, Glaser G, Covo S, Harrus S. (2021) [**Adaptive resistance mutations at supra-inhibitory concentrations independent of SOS mutagenesis**](http://doi.org/10.1093/molbev/msab196). *Molecular Biology and Evolution*. DOI: 10.1093/molbev/msab196 <i class="ai ai-open-access ai-1x"></i>
+*	Denton KK, <u>Ram Y</u>, Feldman MW. (2021) [**Conformity and content-biased cultural transmission in the evolution of altruism**](https://doi.org/10.1016/j.tpb.2021.10.004). *Theoretical Population Biology*. DOI:10.1016/j.tpb.2021.10.004 [<i class="fae-book-open-o"></i>](https://doi.org/10.1101/2020.12.10.420513) <i class="ai ai-open-access ai-1x"></i>
 
-*	<u>Cohen D</u>, Lewin-Epstein O, Feldman MW, <u>Ram Y</u>. (2021) [**Non-Vertical Cultural Transmission, Assortment, and the Evolution of Cooperation**](http://doi.org/10.1098/rspb.2020.3162). *Proceedings of the Royal Society B*. DOI: 10.1098/rspb.2020.3162 <i class="ai ai-open-access ai-1x"></i> [<i class="fa fa-github"></i>](https://github.com/yoavram-lab/CulturalCooperation) [<i class="fa fa-slideshare"></i>](https://www.dropbox.com/s/ybos7kj8bxy041y/Cohen-PRSB-2021_presentation.pdf?dl=0)
+*   Cohen O, <u>Ram Y</u>, Hadany L, Gafny S, Geffen E. (2021) [**Annual climatic fluctuations and short-term genetic variation in the eastern spadefoot toad**](http://doi.org/10.1038/s41598-021-92696-w). *Scientific Reports*. DOI:10.1038/s41598-021-92696-w <i class="ai ai-open-access ai-1x"></i>
 
-*   Arthur RF, Jones JH, Bonds MH, <u>Ram Y</u>, Feldman, MW. (2021) [**Adaptive social contact rates induce complex dynamics during epidemics**](http://doi.org/10.1371/journal.pcbi.1008639). *PLOS Computational Biology*. DOI: 10.1371/journal.pcbi.1008639 <i class="ai ai-open-access ai-1x"></i> [<i class="fae-book-open-o"></i>](http://doi.org/10.1101/2020.04.14.028407) [Stanford News](https://news.stanford.edu/2021/02/10/behaviors-complicate-epidemic-outcomes/) [ACSH](https://www.acsh.org/news/2021/03/01/modeling-human-behavior-hardest-all-15374)
+*	Gutiérrez R, <u>Ram Y</u>, Berman J, de Sousa KCM, Nachum-Biala Y, Britzi M, Elad D, Glaser G, Covo S, Harrus S. (2021) [**Adaptive resistance mutations at supra-inhibitory concentrations independent of SOS mutagenesis**](http://doi.org/10.1093/molbev/msab196). *Molecular Biology and Evolution*. DOI:10.1093/molbev/msab196 <i class="ai ai-open-access ai-1x"></i>
 
-*   Kolodny O, Berger M, Feldman MW, <u>Ram Y</u>. (2020) [**A new perspective for mitigation of SARS-CoV-2 infection: priming the immune system for attack**](https://doi.org/10.1098/rsob.200138). *Open Biology*. DOI: 10.1098/rsob.200138 <i class="ai ai-open-access ai-1x"></i>
+*	<u>Cohen D</u>, Lewin-Epstein O, Feldman MW, <u>Ram Y</u>. (2021) [**Non-Vertical Cultural Transmission, Assortment, and the Evolution of Cooperation**](http://doi.org/10.1098/rspb.2020.3162). *Proceedings of the Royal Society B*. DOI:10.1098/rspb.2020.3162
+<i class="ai ai-open-access ai-1x"></i>
+[<i class="fa fa-github"></i>](https://github.com/yoavram-lab/CulturalCooperation) 
+[<i class="fa fa-slideshare"></i>](https://www.dropbox.com/s/ybos7kj8bxy041y/Cohen-PRSB-2021_presentation.pdf?dl=0)
 
-*   Denton KK, <u>Ram Y</u>, Liberman U, Feldman MW. (2020) [**Cultural evolution of conformity and anticonformity**](http://doi.org/10.1073/pnas.2004102117). *Proceedings of the National Academy of Sciences USA*. DOI: 10.1073/pnas.2004102117 <i class="ai ai-open-access ai-1x"></i>
+*   Arthur RF, Jones JH, Bonds MH, <u>Ram Y</u>, Feldman, MW. (2021) [**Adaptive social contact rates induce complex dynamics during epidemics**](http://doi.org/10.1371/journal.pcbi.1008639). *PLOS Computational Biology*. DOI:10.1371/journal.pcbi.1008639 <i class="ai ai-open-access ai-1x"></i> [<i class="fae-book-open-o"></i>](http://doi.org/10.1101/2020.04.14.028407)
+[<i class="fa fa-github"></i>](https://github.com/yoavram/SanJose)
+[Stanford News](https://news.stanford.edu/2021/02/10/behaviors-complicate-epidemic-outcomes/) | 
+[ACSH](https://www.acsh.org/news/2021/03/01/modeling-human-behavior-hardest-all-15374)
 
-*   <u>Ram Y</u>, Obolski U, Feldman MW, Berman J, Hadany L (2020) [**Reply to Balsa-Canto et al.: Growth models are applicable to growth data, not to stationary-phase data**](http://doi.org/10.1073/pnas.1917758117). *Proceedings of the National Academy of Sciences USA*. DOI: 10.1073/pnas.1917758117
+*   Kolodny O, Berger M, Feldman MW, <u>Ram Y</u>. (2020) [**A new perspective for mitigation of SARS-CoV-2 infection: priming the immune system for attack**](https://doi.org/10.1098/rsob.200138). *Open Biology*. DOI:10.1098/rsob.200138 <i class="ai ai-open-access ai-1x"></i>
 
-*   Liberman U, <u>Ram Y</u>, Altenberg L, Feldman MW (2019) [**The Evolution of frequency-dependent cultural transmission**](http://doi.org/10.1016/j.tpb.2019.12.004). *Theoretical Population Biology*. DOI: 10.1016/j.tpb.2019.12.004 <i class="ai ai-open-access ai-1x"></i>
+*   Denton KK, <u>Ram Y</u>, Liberman U, Feldman MW. (2020) [**Cultural evolution of conformity and anticonformity**](http://doi.org/10.1073/pnas.2004102117). *Proceedings of the National Academy of Sciences USA*. DOI:10.1073/pnas.2004102117 <i class="ai ai-open-access ai-1x"></i>
 
-*   <u>Ram Y</u>, Hadany L (2019) [**The evolution of stress-induced mutagenesis in the presence of horizontal gene transfer**](http://doi.org/10.1086/703457). *The American Naturalist*. DOI: 10.1086/703457 <i class="ai ai-open-access ai-1x"></i>
+*   <u>Ram Y</u>, Obolski U, Feldman MW, Berman J, Hadany L (2020) [**Reply to Balsa-Canto et al.: Growth models are applicable to growth data, not to stationary-phase data**](http://doi.org/10.1073/pnas.1917758117). *Proceedings of the National Academy of Sciences USA*. DOI:10.1073/pnas.1917758117
+
+*   Liberman U, <u>Ram Y</u>, Altenberg L, Feldman MW (2019) [**The Evolution of frequency-dependent cultural transmission**](http://doi.org/10.1016/j.tpb.2019.12.004). *Theoretical Population Biology*. DOI:10.1016/j.tpb.2019.12.004 <i class="ai ai-open-access ai-1x"></i>
+
+*   <u>Ram Y</u>, Hadany L (2019) [**The evolution of stress-induced mutagenesis in the presence of horizontal gene transfer**](http://doi.org/10.1086/703457). *The American Naturalist*. DOI:10.1086/703457 <i class="ai ai-open-access ai-1x"></i>
 
 *   <u>Ram Y</u>, Dellus-Gur E, Bibi M, Karkare K, Obolski U, Feldman MW, Cooper TF, Berman J, Hadany L. (2019) [**Predicting microbial relative growth in a mixed culture from growth curve data**](http://doi.org/10.1073/pnas.1902217116). *Proceedings of the National Academy of Sciences USA*. DOI:10.1073/pnas.1902217116 <i class="ai ai-open-access ai-1x"></i> [<i class="fae-book-open-o"></i>](https://doi.org/10.1101/022640) [<i class="fa fa-slideshare"></i>](https://speakerdeck.com/yoavram/predicting-competition-dynamics-from-growth-curve-data)
 
-*   Zinger E, Guiejman A, Obolski U, <u>Ram Y</u>, Ruby E, Binder M, Yechieli N, Ohad N, Hadany L (2019) [**Less fit _Lamium amplexicaule_ plants produce more dispersible seeds**](http://doi.org/10.1038/s41598-019-42158-1). *Scientific Reports*. DOI: 10.1038/s41598-019-42158-1 <i class="ai ai-open-access ai-1x"></i>
+*   Zinger E, Guiejman A, Obolski U, <u>Ram Y</u>, Ruby E, Binder M, Yechieli N, Ohad N, Hadany L (2019) [**Less fit _Lamium amplexicaule_ plants produce more dispersible seeds**](http://doi.org/10.1038/s41598-019-42158-1). *Scientific Reports*. DOI:10.1038/s41598-019-42158-1 <i class="ai ai-open-access ai-1x"></i>
 
-*   <u>Ram Y</u>, Liberman U, Feldman MW (2019) [**Vertical and oblique cultural transmission fluctuating in time and in space**](https://doi.org/10.1016/j.tpb.2018.11.001). *Theoretical Population Biology*. DOI: 10.1016/j.tpb.2018.11.001 <i class="ai ai-open-access ai-1x"></i>
+*   <u>Ram Y</u>, Liberman U, Feldman MW (2019) [**Vertical and oblique cultural transmission fluctuating in time and in space**](https://doi.org/10.1016/j.tpb.2018.11.001). *Theoretical Population Biology*. DOI:10.1016/j.tpb.2018.11.001 <i class="ai ai-open-access ai-1x"></i>
 
-*   <u>Ram Y</u>, Liberman U, Feldman MW (2018) [**Vertical and oblique transmission under fluctuating selection**](http://doi.org/10.1073/pnas.1719171115). *Proceedings of the National Academy of Sciences USA*. DOI: 10.1073/pnas.1719171115 <i class="ai ai-open-access ai-1x"></i>[<i class="fae-book-open-o"></i>](https://doi.org/10.1101/229179) [<i class="fa fa-slideshare"></i>](https://speakerdeck.com/yoavram/evolution-of-non-vertical-inheritance-in-changing-environments)
+*   <u>Ram Y</u>, Liberman U, Feldman MW (2018) [**Vertical and oblique transmission under fluctuating selection**](http://doi.org/10.1073/pnas.1719171115). *Proceedings of the National Academy of Sciences USA*. DOI:10.1073/pnas.1719171115
+<i class="ai ai-open-access ai-1x"></i>
+[<i class="fae-book-open-o"></i>](https://doi.org/10.1101/229179)
+[<i class="fa fa-slideshare"></i>](https://speakerdeck.com/yoavram/evolution-of-non-vertical-inheritance-in-changing-environments)
+[<i class="fa fa-youtube-play"></i>](https://youtu.be/Q1OVdnunMP8?t=2756)
 
-*   <u>Ram Y</u>, Altenberg L, Liberman U, Feldman MW (2018) [**Generation of variation and a modified mean fitness principle: Necessity is the mother of genetic invention**](https://doi.org/10.1016/j.tpb.2018.02.004). *Theoretical Population Biology*. DOI: 10.1016/j.tpb.2018.02.004 <i class="ai ai-open-access ai-1x"></i> [<i class="fae-book-open-o"></i>](https://doi.org/10.1101/229351) [<i class="fa fa-github"></i>](https://github.com/yoavram/Cupertino) [<i class="fa fa-slideshare"></i>](https://speakerdeck.com/yoavram/necessity-is-the-mother-of-invention)
+*   <u>Ram Y</u>, Altenberg L, Liberman U, Feldman MW (2018) [**Generation of variation and a modified mean fitness principle: Necessity is the mother of genetic invention**](https://doi.org/10.1016/j.tpb.2018.02.004). *Theoretical Population Biology*. DOI:10.1016/j.tpb.2018.02.004 
+<i class="ai ai-open-access ai-1x"></i>
+[<i class="fae-book-open-o"></i>](https://doi.org/10.1101/229351)
+[<i class="fa fa-github"></i>](https://github.com/yoavram/Cupertino) 
+[<i class="fa fa-slideshare"></i>](https://speakerdeck.com/yoavram/necessity-is-the-mother-of-invention)
+[<i class="fa fa-youtube-play"></i>](https://youtu.be/JdG65hKqRW0)
 
-*   Obolski U<sup data-toggle="tooltip" data-placement="top" title="Equal contribution">eq</sup>, <u>Ram Y</u><sup data-toggle="tooltip" data-placement="top" title="Equal contribution">eq</sup>, Hadany L. (2018) [**Evolution on rugged adaptive landscapes**](http://iopscience.iop.org/article/10.1088/1361-6633/aa94d4). *Reports on Progress in Physics*. DOI: 10.1088/1361-6633/aa94d4 [<i class="fae-book-open-o"></i>](https://doi.org/10.1101/112177) [<i class="fa fa-github"></i>](https://github.com/yoavram/UnderTheRug)
+*   Obolski U<sup data-toggle="tooltip" data-placement="top" title="Equal contribution">eq</sup>, <u>Ram Y</u><sup data-toggle="tooltip" data-placement="top" title="Equal contribution">eq</sup>, Hadany L. (2018) [**Evolution on rugged adaptive landscapes**](http://iopscience.iop.org/article/10.1088/1361-6633/aa94d4). *Reports on Progress in Physics*. DOI:10.1088/1361-6633/aa94d4 [<i class="fae-book-open-o"></i>](https://doi.org/10.1101/112177) [<i class="fa fa-github"></i>](https://github.com/yoavram/UnderTheRug)
 
-*   Harari Y, <u>Ram Y</u>, Kupiec M (2018) [**Frequent ploidy changes in growing yeast cultures**](https://doi.org/10.1007/s00294-018-0823-y). *Current Genetics*. DOI: 10.1007/s00294-018-0823-y
+*   Harari Y, <u>Ram Y</u>, Kupiec M (2018) [**Frequent ploidy changes in growing yeast cultures**](https://doi.org/10.1007/s00294-018-0823-y). *Current Genetics*. DOI:10.1007/s00294-018-0823-y
 
-*   Harari Y, <u>Ram Y</u>, Rappoport N, Hadany L, Kupiec M (2018) [**Spontaneous changes in ploidy are common in yeast**](https://doi.org/10.1016/j.cub.2018.01.062). *Current Biology*. DOI: 10.1016/j.cub.2018.01.062 <i class="ai ai-open-access ai-1x"></i>
+*   Harari Y, <u>Ram Y</u>, Rappoport N, Hadany L, Kupiec M (2018) [**Spontaneous changes in ploidy are common in yeast**](https://doi.org/10.1016/j.cub.2018.01.062). *Current Biology*. DOI:10.1016/j.cub.2018.01.062 <i class="ai ai-open-access ai-1x"></i>
 
-*   Rougier NP, et al. (2017) [**Sustainable computational science: the ReScience initiative**](http://doi.org/10.7717/peerj-cs.142). *PeerJ Computer Science*. DOI: 10.7717/peerj-cs.142. [<i class="fae-book-open-o"></i>](https://arxiv.org/abs/1707.04393) <i class="ai ai-open-access ai-1x"></i>
+*   Rougier NP, et al. (2017) [**Sustainable computational science: the ReScience initiative**](http://doi.org/10.7717/peerj-cs.142). *PeerJ Computer Science*. DOI:10.7717/peerj-cs.142. [<i class="fae-book-open-o"></i>](https://arxiv.org/abs/1707.04393) <i class="ai ai-open-access ai-1x"></i>
 
-*   Dellus-Gur E, <u>Ram Y</u>, Hadany L (2017) [**Errors in mutagenesis and the benefit of cell-to-cell signalling in the evolution of stress-induced mutagenesis**](http://dx.doi.org/10.1098/rsos.170529). *Royal Society Open Science*. DOI: 10.1098/rsos.170529 <i class="ai ai-open-access ai-1x"></i>
+*   Dellus-Gur E, <u>Ram Y</u>, Hadany L (2017) [**Errors in mutagenesis and the benefit of cell-to-cell signalling in the evolution of stress-induced mutagenesis**](http://dx.doi.org/10.1098/rsos.170529). *Royal Society Open Science*. DOI:10.1098/rsos.170529 <i class="ai ai-open-access ai-1x"></i>
 
-*   Obolski U<sup data-toggle="tooltip" data-placement="top" title="Equal contribution">eq</sup>, Lewin-Epstein O<sup data-toggle="tooltip" data-placement="top" title="Equal contribution">eq</sup>, Even-Tov E, <u>Ram Y</u>, Hadany L (2017) [**With a little help from my friends: cooperation can accelerate the rate of adaptive valley crossing**](http://dx.doi.org/10.1186/s12862-017-0983-2). *BMC Evolutionary Biology*. DOI: 10.1186/s12862-017-0983-2 <i class="ai ai-open-access ai-1x"></i> [<i class="fae-book-open-o"></i>](https://doi.org/10.1101/062323)
+*   Obolski U<sup data-toggle="tooltip" data-placement="top" title="Equal contribution">eq</sup>, Lewin-Epstein O<sup data-toggle="tooltip" data-placement="top" title="Equal contribution">eq</sup>, Even-Tov E, <u>Ram Y</u>, Hadany L (2017) [**With a little help from my friends: cooperation can accelerate the rate of adaptive valley crossing**](http://dx.doi.org/10.1186/s12862-017-0983-2). *BMC Evolutionary Biology*. DOI:10.1186/s12862-017-0983-2 <i class="ai ai-open-access ai-1x"></i> [<i class="fae-book-open-o"></i>](https://doi.org/10.1101/062323)
 
-*   <u>Ram Y</u>, Hadany L (2016) [**Condition-dependent sex: who does it, when, and why?**](http://dx.doi.org/10.1098/rstb.2015.0539) *Philosophical Transactions of the Royal Society B*. DOI: 10.1098/rstb.2015.0539
+*   <u>Ram Y</u>, Hadany L (2016) [**Condition-dependent sex: who does it, when, and why?**](http://dx.doi.org/10.1098/rstb.2015.0539) *Philosophical Transactions of the Royal Society B*. DOI:10.1098/rstb.2015.0539
 
-*   <u>Ram Y</u>, Hadany L (2015) [**The probability of improvement in Fisher's geometric model: a probabilistic approach**](http://dx.doi.org/10.1016/j.tpb.2014.10.004). *Theoretical Population Biology*. DOI: 10.1016/j.tpb.2014.10.004 [<i class="fae-book-open-o"></i>](https://arxiv.org/abs/1512.00163) [<i class="fa fa-github"></i>](https://github.com/yoavram/FGMProb)
+*   <u>Ram Y</u>, Hadany L (2015) [**The probability of improvement in Fisher's geometric model: a probabilistic approach**](http://dx.doi.org/10.1016/j.tpb.2014.10.004). *Theoretical Population Biology*. DOI:10.1016/j.tpb.2014.10.004 [<i class="fae-book-open-o"></i>](https://arxiv.org/abs/1512.00163) [<i class="fa fa-github"></i>](https://github.com/yoavram/FGMProb)
 
-*   <u>Ram Y</u>, Hadany L (2014) [**Stress-induced mutagenesis and complex adaptation**](http://dx.doi.org/10.1098/rspb.2014.1025). *Proceedings of the Royal Society B*. DOI: 10.1098/rspb.2014.1025 [<i class="fae-book-open-o"></i>](http://biorxiv.org/content/early/2014/08/25/007096) [<i class="fa fa-github"></i>](https://github.com/yoavram/ruggedsim/) [<i class="fa fa-slideshare"></i>](https://speakerdeck.com/yoavram/stress-induced-mutagenesis-and-complex-adaptation)
+*   <u>Ram Y</u>, Hadany L (2014) [**Stress-induced mutagenesis and complex adaptation**](http://dx.doi.org/10.1098/rspb.2014.1025). *Proceedings of the Royal Society B*. DOI:10.1098/rspb.2014.1025 [<i class="fae-book-open-o"></i>](http://biorxiv.org/content/early/2014/08/25/007096) [<i class="fa fa-github"></i>](https://github.com/yoavram/ruggedsim/) [<i class="fa fa-slideshare"></i>](https://speakerdeck.com/yoavram/stress-induced-mutagenesis-and-complex-adaptation)
 
-*   Gueijman A, Ayali A, <u>Ram Y</u>, Hadany L (2013) [**Dispersing away from bad environments: The evolution of fitness-associated dispersal (FAD) in homogeneous environments**](http://dx.doi.org/10.1186/1471-2148-13-125). *BMC Evolutionary Biology*. DOI: 10.1186/1471-2148-13-125 <i class="ai ai-open-access ai-1x"></i>
+*   Gueijman A, Ayali A, <u>Ram Y</u>, Hadany L (2013) [**Dispersing away from bad environments: The evolution of fitness-associated dispersal (FAD) in homogeneous environments**](http://dx.doi.org/10.1186/1471-2148-13-125). *BMC Evolutionary Biology*. DOI:10.1186/1471-2148-13-125 <i class="ai ai-open-access ai-1x"></i>
 
-*   <u>Ram Y</u>, Hadany L (2012) [**The evolution of stress-induced hypermutation in asexual populations**](http://dx.doi.org/10.1111/j.1558-5646.2012.01576.x). *Evolution*. DOI: 10.1111/j.1558-5646.2012.01576.x [<i class="fae-book-open-o"></i>](https://www.researchgate.net/publication/228113924_The_evolution_of_stress-induced_hypermutation_in_asexual_populations)
+*   <u>Ram Y</u>, Hadany L (2012) [**The evolution of stress-induced hypermutation in asexual populations**](http://dx.doi.org/10.1111/j.1558-5646.2012.01576.x). *Evolution*. DOI:10.1111/j.1558-5646.2012.01576.x [<i class="fae-book-open-o"></i>](https://www.researchgate.net/publication/228113924_The_evolution_of_stress-induced_hypermutation_in_asexual_populations)
 
 ### Software & Datasets
 
-*   Zinger E, <u>Ram Y</u>, Hadany L, Ohad N (2019) [**Lamium amplexicaule seed photo set for image characterization**](http://doi.org/10.6084/m9.figshare.11446380). *FigShare*. DOI: 10.6084/m9.figshare.11446380
+*   Zinger E, <u>Ram Y</u>, Hadany L, Ohad N (2019) [**Lamium amplexicaule seed photo set for image characterization**](http://doi.org/10.6084/m9.figshare.11446380). *FigShare*. DOI:10.6084/m9.figshare.11446380
 
-*   <u>Ram Y</u> (2019) [**Curveball: Predicting microbial growth in a mixed culture from growth curve data**](https://doi.org/10.5281/zenodo.3263379). *Zenodo*. DOI: 10.5281/zenodo.3263379.
+*   <u>Ram Y</u> (2019) [**Curveball: Predicting microbial growth in a mixed culture from growth curve data**](https://doi.org/10.5281/zenodo.3263379). *Zenodo*. DOI:10.5281/zenodo.3263379.
 
-*   <u>Ram Y</u>, Hadany L (2019) [**Mamba: Version Baptiste**](http://doi.org/10.5281/zenodo.2563549). *Zenodo*. DOI: 10.5281/zenodo.2563549.
+*   <u>Ram Y</u>, Hadany L (2019) [**Mamba: Version Baptiste**](http://doi.org/10.5281/zenodo.2563549). *Zenodo*. DOI:10.5281/zenodo.2563549.
 
-*   <u>Ram Y</u>, Hadany L (2019) [**Data from: Evolution of stress-induced mutagenesis in the presence of horizontal gene transfer**](https://doi.org/10.5061/dryad.5t9211b). *Dryad Digital Repository*. DOI: 10.5061/dryad.5t9211b.
+*   <u>Ram Y</u>, Hadany L (2019) [**Data from: Evolution of stress-induced mutagenesis in the presence of horizontal gene transfer**](https://doi.org/10.5061/dryad.5t9211b). *Dryad Digital Repository*. DOI:10.5061/dryad.5t9211b.
 
-*   <u>Ram Y</u>, Zinger E, Hadany L (2017). [**Sid: Image processing for seed images**](http://doi.org/10.5281/zenodo.344898). *Zenodo*. DOI: 10.5281/zenodo.344898.
+*   <u>Ram Y</u>, Zinger E, Hadany L (2017). [**Sid: Image processing for seed images**](http://doi.org/10.5281/zenodo.344898). *Zenodo*. DOI:10.5281/zenodo.344898.
 
-*   <u>Ram Y</u>, Hadany L (2014) [**Data from: Stress-induced mutagenesis and complex adaptation**](http://dx.doi.org/10.5061/dryad.3066j). *Dryad Digital Repository*. DOI: 10.5061/dryad.3066j.
+*   <u>Ram Y</u>, Hadany L (2014) [**Data from: Stress-induced mutagenesis and complex adaptation**](http://dx.doi.org/10.5061/dryad.3066j). *Dryad Digital Repository*. DOI:10.5061/dryad.3066j.
 
-*   <u>Ram Y</u>, Guiejman A, Hadany L (2014). [**proevolution simulation: Version Dobzhansky**](http://dx.doi.org/10.5281/zenodo.11400). * Zenodo*. DOI: 10.5281/zenodo.11400.
+*   <u>Ram Y</u>, Guiejman A, Hadany L (2014). [**proevolution simulation: Version Dobzhansky**](http://dx.doi.org/10.5281/zenodo.11400). * Zenodo*. DOI:10.5281/zenodo.11400.
 
-*   <u>Ram Y</u>, Hadany L (2014) [**proevolution simulation: Version Charles**](http://dx.doi.org/10.5281/zenodo.11401). * Zenodo*.  DOI: 10.5281/zenodo.11401.
+*   <u>Ram Y</u>, Hadany L (2014) [**proevolution simulation: Version Charles**](http://dx.doi.org/10.5281/zenodo.11401). * Zenodo*.  DOI:10.5281/zenodo.11401.
