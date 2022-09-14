@@ -6,11 +6,19 @@
     <div class="col-sm-12">
       {{ this.body }}
     </div>
+  </div>
+  <div class="row">
+    <div class="col-sm-12">
+      {% for member in this.children.order_by('name') %}
+      <a href="#{{ member.name }}"> {{ member.name }} </a>
+        {% if not loop.last %} | {% endif %}
+      {% endfor %}
+    </div>
   </div>	
 		{% for member in this.children.order_by('joined') %}
       {% if not member.alumni %}
       {% set image = member.attachments.images.first() %}
-      <div>
+      <div id="{{ member.name }}">
         <hr class="section-title-spacer">
       </div>
       <div class="row member">
@@ -48,7 +56,7 @@
         <ul class="list-unstyled">          
         {% for member in this.children %}
           {% if member.alumni %}
-          <li>
+          <li id="{{ member.name }}">
           <i class="fa fa-user"></i> <a href="{{ member|url }}"><strong>{{ member.name }}</strong></a>, {{ member.role }}<br>
           <i class="fae fae-book-open-o"></i> <em>{{ member.research}}</em>
           </li>
