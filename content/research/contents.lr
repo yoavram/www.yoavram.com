@@ -6,17 +6,17 @@ We study **population biology**, including evolutionary biology, ecology, behavi
 
 #### Main interests
 
-- Competition and cooperation in population dynamics
 - Evolution of the mechanisms that generate and transmit phenotypic, genetic, behavioural, and cultural variation
+- Gene-culture co-evolution
 - Statistical inference from evolutionary and ecological empirical data
 
 #### Research questions
 
-- What determines the **outcomes of competitions**?
 - How do different **inheritance modes** (genetic vs. cultural, small-effect vs. large-effect, high-fidelity vs. low-fidelity, vertical vs. non-vertical) affect evolution?
 - How do these **inheritance modes evolve** and co-evolve?
 - How can **machine and deep learning** help us study ecology, evolution, and behaviour?
 - How can we **integrate different levels of population biology**?
+- How do **genes** and **culture** co-evolve, and how can we detect this co-evolution from **empirical data**?
 
 #### Current and future research projects
 
@@ -33,7 +33,7 @@ To be involved in our research, please email [Yoav](mailto:yoav@yoavram.com).
 
 ### Support
 
-Our work is supported by grants from Israel Science Foundation (ISF), Templeton Foundation, Minerva Stiftung, AWS, and NVIDIA. 
+Our work is supported by grants from Israel Science Foundation (ISF), US–Israel Binational Science Foundation (BSF), Templeton Foundation, Minerva Stiftung, AWS, and NVIDIA. 
 
 ### Past research
 
