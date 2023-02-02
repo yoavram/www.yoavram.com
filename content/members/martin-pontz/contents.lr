@@ -1,6 +1,6 @@
 name: Martin Pontz
 ---
-body: 
+body:
 
 [**Personal website**](https://martin-pontz.jimdosite.com)
 
@@ -19,10 +19,14 @@ I live together with my partner and two daughters.
   -  Mathematics
  
 ---
-email:   martin.pontz@gmail.com
+email: martin.pontz@gmail.com
 ---
 joined: 2021-1-1
 ---
 role: Postdoctoral fellow
 ---
 short: I am a mathematician working in evolutionary biology.
+---
+alumni: yes
+---
+research: Mathematical modelling of recurrent mutation and aneuploidy

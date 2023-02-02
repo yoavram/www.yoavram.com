@@ -2,19 +2,22 @@ title: Study
 ---
 body:
 
-## Postgraduate Programs
+## Postgraduate programs
 
-- MSc:
+- MSc tracks:
   - [Zoology](https://en-lifesci.tau.ac.il/zoology/msc)
   - [Ecology and Environmental Protection](https://en-lifesci.tau.ac.il/EcologyandEnvironmentalProtectionTrack)
   - [Theoretical and Mathematical Biology](https://en-lifesci.tau.ac.il/TheoreticalandMathematicalBiologyTrack)
-  - [Neurosciences](https://www.sagol.tau.ac.il/graduate/candidates/programs/)
   - [Bioinformatics](https://safrabio.cs.tau.ac.il/safrabio)
-- PhD:
+  - [Neurosciences](https://www.sagol.tau.ac.il/graduate/candidates/programs/)
+
+- PhD tracks:
   - [Life Sciences](https://en-lifesci.tau.ac.il/zoology/phd) 
   - [Neurosciences](https://www.sagol.tau.ac.il/en/phd-programs/)
   - [Bioinformatics](https://safrabio.cs.tau.ac.il/safrabio)
-- [Postdoc](https://en-lifesci.tau.ac.il/midrasahPost-doc):
+
+- Postdoctoral fellows:
+  - [Guidelines](https://en-lifesci.tau.ac.il/midrasahPost-doc)
   - [Fellowships](https://acad-sec.tau.ac.il/grantsite/abr)
 
 ## Courses
@@ -23,10 +26,22 @@ body:
 
 הקורס מציג לתלמיד את שדה המחקר של האבולוציה, ואת הכוחות העיקריים המניעים תהליכים אבולוציוניים. חלקו הראשון של הקורס עוסק בהיבטים בסיסיים של האבולוציה כתיאוריה וכתהליך. בחלקו השני מקשר הקורס בין גנטיקה של אוכלוסיות וגנטיקה כמותית מצד אחד, לבין סלקציה וסחיפה גנטית מצד שני. חלקו האחרון של הקורס מוקדש לנושאים מתקדמים יותר, ובכלל זה שאלות פתוחות בחקר האבולוציה. 
 
-- Mandatory undergraduate course
-- Spring 2022 
+- Undergraduate course
+- Spring 2022, 2023
 - Faculty of Life Sciences, Tel Aviv University
-- Additional lectureres: Arnon Lotem, Itay Mayrose
+- Additional lecturers: Arnon Lotem, Itay Mayrose
+
+-------------
+
+#### [Models in Population Biology](https://modelspopbiol.yoavram.com)
+
+The course will introduce graduate students to models in population biology. We will build models, analyze them using mathematical and computational methods, and fit them to empirical data using statistical methods such as maximum likelihood and Bayesian inference. Every class will present a scientific problem in population biology, a computational method for tackling it, and a Python implementation of the method. Examples will include models from ecology, evolution, epidemiology, and social behavior. In each case, we will introduce a research question, design a model, choose a method, apply it using the Python program language (a leading programming language for scientific research, data science, and machine learning), analyze and visualize the results, and discuss the conclusions.
+
+- Graduate course
+- Spring 2023
+- Faculty of Life Sciences, Tel Aviv University
+- Book: A Biologist’s Guide to Mathematical Modeling in Ecology and Evolution by Otto and Day
+- Language: English
 
 -------------
 
@@ -59,6 +74,6 @@ Students will present papers that address modelling and data analysis in the con
 The course equips the students with a solid basis of computer programming, and exposes them to major themes in computer science such as digital architectures, algorithms, complexity and more. The course uses Java as a first programming language, and emphasizes object-oriented software development
 
 - Mandatory undergraduate course
-- Fall 2018, Fall 2019 
+- Fall 2018, 2019 
 - School of Computer Science, IDC Herzliya
 - Prerequisites: None
