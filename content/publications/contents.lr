@@ -21,29 +21,31 @@ body:
 
 1. Borofsky T, Feldman MW, <u>Ram Y</u>. [**Cultural transmission, competition for prey, and the evolution of cooperative hunting**](https://biorxiv.org/cgi/content/short/2022.12.14.520505). *bioRxiv*. DOI:10.1101/2022.12.14.520505 <i class="fae-book-open-o"></i>
 
-1. Caspi, I, Meir M, <u>Ben Nun N</u>, Yakhini U, Stern A, <u>Ram Y</u>. [**Mutation Rate, Selection, and Epistasis Inferred from RNA Virus Haplotypes via Neural Posterior Estimation**](https://doi.org/10.1101/2023.01.09.523230). *bioRxiv*. DOI: 10.1101/2023.01.09.523230 <i class="fae-book-open-o"></i>
+1. Caspi I, Meir M, <u>Ben Nun N</u>, Yakhini U, Stern A, <u>Ram Y</u>. [**Mutation Rate, Selection, and Epistasis Inferred from RNA Virus Haplotypes via Neural Posterior Estimation**](https://doi.org/10.1101/2023.01.09.523230). *bioRxiv*. DOI: 10.1101/2023.01.09.523230 <i class="fae-book-open-o"></i>
+
+1. <u>Egozi S</u>, <u>Ram Y</u>. **Prestige bias in cultural evolutionary dynamics**.
 
 ### Published & Accepted
 
-1. Cohen O, <u>Ram Y</u>, Hadany L, Gafny S, Geffen E. (2022) [**The effect of habitat and climatic on microsatellite diversity and allele length variation**](https://doi.org/10.3389/fevo.2022.893856). *Frontiers in Ecology and Evolution*. DOI:10.3389/fevo.2022.893856
-
-1. Kolodny O, Feldman MW, Lotem A, <u>Ram Y</u>. (2022) [**Differential application of cultural practices at the family and individual levels may alter heritability estimates**](https://doi.org/10.1017/S0140525X21001576). *Behavioral and Brain Sciences*. DOI:10.1017/S0140525X21001576
-
-1. Denton KK, <u>Ram Y</u>, Feldman MW. (2022) [**Conditions that favor cumulative cultural evolution**](https://doi.org/10.1098/rstb.2021.0400). *Philosophical Transactions B*. DOI:10.1098/rstb.2021.0400 <i class="ai ai-open-access ai-1x"></i>
-
 1. Avecilla G, Chuong JN, Li F, Sherlock G, Gresham D, <u>Ram Y</u>. (2022) [**Neural networks allow efficient and accurate simulation-based inference of evolutionary parameters from adaptation dynamics**](https://doi.org/10.1371/journal.pbio.3001633). *PLOS Biology*. DOI:10.1371/journal.pbio.3001633 [<i class="fae-book-open-o"></i>](https://doi.org/10.1101/2021.09.30.462581) [<i class="fa fa-github"></i>](https://github.com/graceave/cnv_sims_inference)
 
-1. Gurevich Y, <u>Ram Y</u>, Hadany L. (2022) [**Modeling the evolution of SARS-CoV-2 under non-pharmaceutical interventions and testing**](https://doi.org/10.1093/emph/eoac013). *Evolution, Medicine, and Public Health*. DOI:10.1093/emph/eoac013 <i class="ai ai-open-access ai-1x"></i> [<i class="fa fa-github"></i>](
-https://github.com/hadanylab/attenuation)
-
-1. Galke L, <u>Ram Y</u>, Raviv L. (2022) [**Emergent Communication for Understanding Human Language Evolution: What’s Missing?**](https://arxiv.org/abs/2204.10590) *Emergent Communication Workshop at ICLR 2022*. DOI:10.48550/arXiv.2204.10590
- <i class="ai ai-open-access ai-1x"></i>
+1. Denton KK, <u>Ram Y</u>, Feldman MW. (2022) [**Conditions that favor cumulative cultural evolution**](https://doi.org/10.1098/rstb.2021.0400). *Philosophical Transactions B*. DOI:10.1098/rstb.2021.0400 <i class="ai ai-open-access ai-1x"></i>
 
 1. <u>Kohanovski I</u>, Obolski U, <u>Ram Y</u>. (2022) [**Inferring the effective start dates of non-pharmaceutical interventions during COVID-19 outbreaks**](https://doi.org/10.1016/j.ijid.2021.12.364). *International Journal of Infectious Diseases*. DOI:10.1016/j.ijid.2021.12.364
 [<i class="fae-book-open-o"></i>](https://doi.org/10.1101/2020.05.24.20092817)
 [<i class="fa fa-github"></i>](https://github.com/yoavram-lab/EffectiveNPI)
 [<i class="fa fa-slideshare"></i>](https://www.dropbox.com/s/nxx3e4mezzfz9yk/Kohanovski-IJID-2022_Presentation.pdf?dl=0)
 [<i class="fa fa-youtube-play"></i>](https://youtu.be/RVb_iOFSAbI)
+
+1. Cohen O, <u>Ram Y</u>, Hadany L, Gafny S, Geffen E. (2022) [**The effect of habitat and climatic on microsatellite diversity and allele length variation**](https://doi.org/10.3389/fevo.2022.893856). *Frontiers in Ecology and Evolution*. DOI:10.3389/fevo.2022.893856
+
+1. Kolodny O, Feldman MW, Lotem A, <u>Ram Y</u>. (2022) [**Differential application of cultural practices at the family and individual levels may alter heritability estimates**](https://doi.org/10.1017/S0140525X21001576). *Behavioral and Brain Sciences*. DOI:10.1017/S0140525X21001576
+
+1. Gurevich Y, <u>Ram Y</u>, Hadany L. (2022) [**Modeling the evolution of SARS-CoV-2 under non-pharmaceutical interventions and testing**](https://doi.org/10.1093/emph/eoac013). *Evolution, Medicine, and Public Health*. DOI:10.1093/emph/eoac013 <i class="ai ai-open-access ai-1x"></i> [<i class="fa fa-github"></i>](
+https://github.com/hadanylab/attenuation)
+
+1. Galke L, <u>Ram Y</u>, Raviv L. (2022) [**Emergent Communication for Understanding Human Language Evolution: What’s Missing?**](https://arxiv.org/abs/2204.10590) *Emergent Communication Workshop at ICLR 2022*. DOI:10.48550/arXiv.2204.10590
+ <i class="ai ai-open-access ai-1x"></i>
 
 1. Denton KK, <u>Ram Y</u>, Feldman MW. (2021) [**Conformity and content-biased cultural transmission in the evolution of altruism**](https://doi.org/10.1016/j.tpb.2021.10.004). *Theoretical Population Biology*. DOI:10.1016/j.tpb.2021.10.004 [<i class="fae-book-open-o"></i>](https://doi.org/10.1101/2020.12.10.420513) <i class="ai ai-open-access ai-1x"></i>
 
