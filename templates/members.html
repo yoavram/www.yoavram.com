@@ -9,16 +9,13 @@
   </div>
   <div class="row">
     <div class="col-sm-12">
-      {% for member in this.children.order_by('name') %}
-      {% if not member.alumni %}
+      {% for member in this.children.order_by('name') if not member.alumni %}
       <a href="#{{ member.name }}"> {{ member.name }} </a>
         {% if not loop.last %} | {% endif %}
-        {% endif %}
       {% endfor %}
     </div>
   </div>	
-		{% for member in this.children.order_by('joined') %}
-      {% if not member.alumni %}
+		{% for member in this.children.order_by('joined') if not member.alumni %}      
       {% set image = member.attachments.images.first() %}
       <div id="{{ member.name }}">
         <hr class="section-title-spacer">
@@ -44,7 +41,6 @@
           </p>          
         </div>    
     	</div>  
-      {% endif %}    
       {% if loop.last %}
         <div>
           <hr class="section-title-spacer">
