@@ -2,58 +2,59 @@ title: Research
 ---
 body:
 
-We study **population biology**, including evolutionary biology, ecology, and cultural evolution, using **mathematical, computational, and statistical models** and **collaborations** with empirical biologists. We are interested in a vareity of biological systems: from viruses, bacteria, and fungi, to whales, hyrax, and humans.
-Our long-term goal is to understand how mechanisms that generate and transmit variation at different levels-genetic, behavioral, cultural-interact to shape the evolutionary process. 
+We study **population biology**, including evolutionary biology, ecology, and cultural evolution, using **mathematical, computational, and statistical models** and **collaborations** with empirical biologists. 
 
+We are interested in a variety of biological systems: from viruses, bacteria, and fungi, to whales, hyrax, and humans.
+Our long-term goal is to understand how mechanisms that generate and transmit variation at different levels-genetic, behavioral, cultural-interact to shape the evolutionary process.
 
 #### Current and future research projects
 
 To be involved in our research, please email [Yoav](mailto:yoav@yoavram.com).
 
-- Statistical inference of **growth and ecological interactions** from empirical competition data
-- Evolution and consequences of **non-vertical cultural transmission** and social learning
-- The role of **aneuploidy and copy number variation** in adaptive evolution
-- **Gene-culture coevolution** and its inference in large-scale genetic and cultural data
-- Applications of **deep learning** to the study of population biology
-- Statistical inference from **evolutionary experiments** using Bayesian and likelihood-free methods
-- Effect of social structure on genetic and cultural variation and differentiation
+- The role of aneuploidy and copy number variation in adaptive evolution
+- Non-vertical cultural transmission and social learning
+- Inference of cultural evolution in large-scale anthropological data
+- Deep learning and Bayesian inference in experimental evolution
+- Effects of social structure on genetic and cultural variation and differentiation
+- Cultural evolution of social behavior
+- Emergence of language and communication in non-human animals and artificial intelligence
 
 ### Support
 
-Our work is supported by grants from Israel Science Foundation (ISF), US–Israel Binational Science Foundation (BSF), Templeton Foundation, Minerva Stiftung, Tel Aviv University Data Science Center, Amazon, and NVIDIA. 
+Our work is supported by grants from the Israel Science Foundation (ISF), US–Israel Binational Science Foundation (BSF), Templeton Foundation, Minerva Stiftung, Tel Aviv University Data Science Center, Amazon, and NVIDIA. 
 
 ### Our research
 
 #### Evolutionary genetics
 We developed a theoretical basis to explain **the evolution of stress-induced mutagenesis** – the phenomena in which stress induces a transient increase in mutation rates. 
-Stress-induced mutagenesis is prevalent in bacteria and in many eukaryote species, from yeast to human cancer cells. 
+Stress-induced mutagenesis is prevalent in bacteria and many eukaryote species, from yeast to human cancer cells. 
 We used mathematical models and computer simulations to show that (i) **stress-induced mutagenesis is favored by natural selection** ([Ram & Hadany 2012](https://doi.org/10.1111/j.1558-5646.2012.01576.x)); that (ii) this is also true in the **presence of rare recombination** ([Ram & Hadany 2019](https://doi.org/10.1086/703457)); that (iii) **stress-induced mutagenesis increases the rate of complex adaptation** without reducing the mean fitness of the population ([Ram & Hadany 2014](https://doi.org/10.1098/rspb.2014.1025)); and that (iv) errors in regulation of mutagenesis can be compensated by population communication ([Dellus-Gur et al. 2017](https://doi.org/10.1098/rsos.170529)).
 
-We have also found a general principle underlying this phenomena, which we have termed the **_Modified Mean Fitness Principle_** ([Ram et al. 2018](https://doi.org/10.1016/j.tpb.2018.02.004)). It determines that if below-average individuals generate more variation (be it genetic or phenotypic) than above-average individuals, then the population mean fitness will increase. The mechanisms for generation of variation are not limited to mutation but rather may include dispersal ([Gueijman et al. 2013](http://doi.org/10.1186/1471-2148-13-125)), social learning, etc.
+We have also found a general principle underlying this phenomenon, which we have termed the **_Modified Mean Fitness Principle_** ([Ram et al. 2018](https://doi.org/10.1016/j.tpb.2018.02.004)). It determines that if below-average individuals generate more variation (be it genetic or phenotypic) than above-average individuals, then the population mean fitness will increase. The mechanisms for the generation of variation are not limited to mutation but rather may include dispersal ([Gueijman et al. 2013](http://doi.org/10.1186/1471-2148-13-125)), social learning, etc.
 We have also investigated how phenotypic switching of the mutation rate affects evolution ([Lobinska et a. 2023](https://doi.org/10.1093/genetics/iyad111)).
 
 #### Cultural evolution
 We studied the evolution of **oblique transmission**, in which offspring inherit their phenotype from a non-parental adult rather than their parents. This occurs primarily during social learning, but also in symbiont and pathogen transmission. We found that the evolutionarily stable rate of oblique transmission differs markedly from the rate that maximizes the geometric mean fitness of the population, implying a form of **_prisoner's dilemma_ for social learning** ([Ram, Liberman & Feldman 2018](https://doi.org/10.1073/pnas.1719171115)). We've also studied how fluctuations in the rate of vertical vs. oblique transmission affect trait polymorphism ([Ram, Liberman & Feldman 2019](https://doi.org/10.1016/j.tpb.2018.11.001)), what happens when the rate of vertical vs. oblique transmission depends on trait frequency ([Liberman et al. 2019](http://doi.org/10.1016/j.tpb.2019.12.004)), or when transmission is biased towards to the more (or less) common phenotype ([Denton et al. 2020](http://doi.org/10.1073/pnas.2004102117)), and how such transmission biases affect cumulative culture ([Denton et al. 2022](https://doi.org/10.1098/rstb.2021.0400))
 
-We also examined the evolution of cooperative behaviour under non-vertical cultural transmission, focusing on the effect of assortment between cultural transmission and social interactions ([Cohen et al. 2021](https://doi.org/10.1098/rspb.2020.3162)) and the effect of conformity and non-conformity ([Denton, Ram & Feldman 2021](https://doi.org/10.1016/j.tpb.2021.10.004)).
+We also examined the evolution of cooperative behavior under non-vertical cultural transmission, focusing on the effect of assortment between cultural transmission and social interactions ([Cohen et al. 2021](https://doi.org/10.1098/rspb.2020.3162)), the effect of conformity and non-conformity ([Denton, Ram & Feldman 2021](https://doi.org/10.1016/j.tpb.2021.10.004)), and the emergence of cooperative hunting ([Borofsky, Feldman & Ram 2024](https://doi.org/10.1016/j.tpb.2023.12.005)).
 
 #### Analysis of evolutionary experiments
 
 We developed and tested a new method for **predicting growth in a mixed culture** solely from growth curve data ([Ram et al. 2019a](https://doi.org/10.1073/pnas.1902217116), [Ram et al. 2019b](https://doi.org/10.1073/pnas.1917758117)) in collaboration with the Berman lab at Tel Aviv University, Cooper lab at University of Houston, and with Marc Feldman and Lilach Hadany.
 We validated this method by performing growth curve and competition experiments with bacteria.
-Our new method not only results in a simple and cost-effective approach for estimating growth in a mixed culture and inferring competitive fitness, but also provides information on the specific growth traits that contribute to differences in fitness, thus helping to **bridge the gap between ecology and evolution**.
+Our new method not only results in a simple and cost-effective approach for estimating growth in a mixed culture and inferring competitive fitness but also provides information on the specific growth traits that contribute to differences in fitness, thus helping to **bridge the gap between ecology and evolution**.
 
-We also collaborated with experimental microbiologists to **analyse results of evolutionary experiments**.
-In experiments performed by the *Kupiec lab* at Tel Aviv University, haploid yeast cells frequently became diploid via two distinct genetic mechanisms. Using approximate Bayesian approximation (ABC), we estimated the rate of endoreduplication in these experiments, and found that in it was much higher than the mutation rate ([Harari et al. 2018a](https://doi.org/10.1016/j.cub.2018.01.062), [Harari et al. 2018b](http://doi.org/10.1007/s00294-018-0823-y)).
-With the *Gresham lab* at New York University, we inferred the formation rate and fitness effect of beneficial copy number variation mutations at a specific locus in yeast growing in a chemostat. This was performed using a state-of-the-art neural-network based method, NPE, and evolutionary simulations ([Avecilla et al. 2022](http://doi.org/10.1371/journal.pbio.3001633)).
-We also applied this novel technique to estimated the mutation rate of the MS2 bacteriophage from evolutionary experiments together with the *Stern lab* at Tel Aviv University ([Capsi et al. 2023](https://doi.org/10.1093/ve/vead033)). 
+We also collaborated with experimental microbiologists to **analyze the results of evolutionary experiments**.
+In experiments performed by the *Kupiec lab* at Tel Aviv University, haploid yeast cells frequently became diploid via two distinct genetic mechanisms. Using approximate Bayesian approximation (ABC), we estimated the rate of endoreduplication in these experiments and found that it was much higher than the mutation rate ([Harari et al. 2018a](https://doi.org/10.1016/j.cub.2018.01.062), [Harari et al. 2018b](http://doi.org/10.1007/s00294-018-0823-y)).
+With the *Gresham lab* at New York University, we inferred the formation rate and fitness effect of beneficial copy number variation mutations at a specific locus in yeast growing in a chemostat. This was performed using a state-of-the-art neural-network-based method, NPE, and evolutionary simulations ([Avecilla et al. 2022](http://doi.org/10.1371/journal.pbio.3001633)).
+We also applied this novel technique to estimate the mutation rate of the MS2 bacteriophage from evolutionary experiments together with the *Stern lab* at Tel Aviv University ([Capsi et al. 2023](https://doi.org/10.1093/ve/vead033)). 
 
 #### The COVID-19 epidemic
-We used an SEIR model and MCMC parameter estimation to infer the effective start of non-pharmaceutical interventions (e.g., lockdowns) during the initial outbreaks of COVID-19 is 12 countries. We found that in the majority of cases, the effective start date is significantly different from the official, and that this late effective start may lead to incorrect interpretation of the impact of interventions ([Kohanovski et al. 2022](https://doi.org/10.1016/j.ijid.2021.12.364)). 
+We used an SEIR model and MCMC parameter estimation to infer the effective start of non-pharmaceutical interventions (e.g., lockdowns) during the initial outbreaks of COVID-19 in 12 countries. We found that in the majority of cases, the effective start date is significantly different from the official and that this late effective start may lead to incorrect interpretation of the impact of interventions ([Kohanovski et al. 2022](https://doi.org/10.1016/j.ijid.2021.12.364)). 
 
-We studied a model in which human behaviour changes in response to the number of infected individuals causes the transmission rate to decrease. We found cycles, chaos, and high sensitivity to model parameters. This suggests that the predictive power of epidemiological models is hampered by complex human behaviour ([Arthur et al 2021](10.1371/journal.pcbi.1008639); [Stanford News](https://news.stanford.edu/2021/02/10/behaviors-complicate-epidemic-outcomes/)).
+We studied a model in which human behavior changes in response to the number of infected individuals causing the transmission rate to decrease. We found cycles, chaos, and high sensitivity to model parameters. This suggests that the predictive power of epidemiological models is hampered by complex human behavior ([Arthur et al 2021](10.1371/journal.pcbi.1008639); [Stanford News](https://news.stanford.edu/2021/02/10/behaviors-complicate-epidemic-outcomes/)).
 
-We used evo-epidemiological models to examine the effect of non-pharmaceutical interventions (social distancing, lockdowns, etc.) and PCR testing on the evolution of virulence, attenuation, and test-evasiveness in SARS-CoV-2. We find conditions under which stronger measures select for less virulent strains, and more testing select for less detectable strains, even if those strains are also less infectious ([Gurevich et al. 2022](https://doi.org/10.1093/emph/eoac013)).
+We used evo-epidemiological models to examine the effect of non-pharmaceutical interventions (social distancing, lockdowns, etc.) and PCR testing on the evolution of virulence, attenuation, and test-evasiveness in SARS-CoV-2. We find conditions under which stronger measures select for less virulent strains, and more testing selects for less detectable strains, even if those strains are also less infectious ([Gurevich et al. 2022](https://doi.org/10.1093/emph/eoac013)).
 
 ### Collaborators
 #### Tel Aviv University
@@ -82,3 +83,4 @@ We used evo-epidemiological models to examine the effect of non-pharmaceutical i
 - Anna Selmecki, University of Minnesota
 - Limor Raviv, Max Planck Institute for Psycholinguistics
 - Lee Altenberg, University of Hawaiʻi at Mānoa
+
