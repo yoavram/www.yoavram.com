@@ -2,23 +2,24 @@ title: Ram Lab
 ---
 body:
 
-We study **evolutionary biology, ecology, and cultural evolution**, using **mathematical, computational, statistical, and machine-learning models** and **collaborations** with empirical biologists. We are interested in a variety of biological systems: from viruses, bacteria, and fungi, to whales, hyrax, and humans.
-See the [research page](/research) to read more about our research interests and projects.
+We study **evolutionary biology, ecology, and cultural evolution**, using **mathematical, computational, statistical, and machine-learning models** and **collaborations** with empirical biologists. Our interests span a wide range of biological systems, from viruses, bacteria, and fungi to whales and humans.
+See the [research page](/research) to learn about our research interests and projects.
 
 **Our lab is in the [School of Zoology](https://en-lifesci.tau.ac.il/zoology/) in the [Faculty of Life Sciences](https://en-lifesci.tau.ac.il/) at [Tel Aviv University](https://english.tau.ac.il)**.<br>
-We are also affiliated with the [Sagol School of Neuroscience](https://en-sagol.tau.ac.il) and the [Safra Center for Bioinformatics](https://safrabio.cs.tau.ac.il) at Tel Aviv University.
+We are also affiliated with the [Sagol School of Neuroscience](https://en-sagol.tau.ac.il), the [Safra Center for Bioinformatics](https://safrabio.cs.tau.ac.il), the [Center for AI & Data Science](https://datascience.tau.ac.il/yoav-ram), and the [Center for Combating Pandemics](https://en-pandemics.tau.ac.il) at Tel Aviv University.
 
-If you are interested in joining us, please email [Yoav](mailto:yoav@yoavram.com).
+<!--Please email [Yoav](mailto:yoav@yoavram.com) if you want to join us.-->
 
-<!--div class="alert alert-warning" role="alert">
-I am looking for students, postdocs, research assistants, and technicians. <br>
-If you are interested in joining us, please email <a href="mailto:yoav@yoavram.com">Yoav</a>.
-</div-->
+<div class="alert alert-warning" role="alert">
+We are currently seeking students, postdocs, research assistants, and technicians to join our lab. <br>
+Please email <a href="mailto:yoav@yoavram.com">Yoav</a> if you want to join us.
+</div>
 
 ### News
 - [Boaz](/members/boaz-shvartzman)'s paper on [**the evolution of self-replicating artificial neural networks**](https://doi.org/10.1371/journal.pcbi.1012004) is now published at _PLOS Computational Biology_.
 - New paper suggests that [**aneuploidy can be an evolutionary diversion on the path to adaptation**](https://doi.org/10.1093/molbev/msae052), now published in _Molecular Biology and Evolution_. The research was performed by [Ilia](/members/ilia-kohanovski/) and [Martin](/members/martin-pontz/), with help from Selmecki, Pilpel, and Yona labs.
 - Read Yoav's journal club on [the evolution of modifier genes](https://rdcu.be/dBKgL), now available at _Nature Reviews Genetics_.
+- We say goodbye to [Remus](/members/remus-stana) and congratulate him on his future adventures in research!
 - Our new paper on [cultural transmission of cooperative hunting](https://doi.org/10.1016/j.tpb.2023.12.005) is now online! This study was performed by [Talia Borofsky](https://scholar.google.com/citations?user=zbxm15gAAAAJ) while on her visit to our lab; she has recently completed her PhD at the Feldman lab in Stanford.
 - Gabriela's paper is now published in [_Genetics_](https://doi.org/10.1093/genetics/iyad111)! This is a collaboration with [Tzachi Pilpel](https://longitude.weizmann.ac.il/).
 - Remus has presented his work on evolutionary rescue in cancer at the [_Mathematical Models of Evolutionary Rescue_](https://workshops.evolbio.mpg.de/event/82/) meeting at the MPI in Plon, Germany.
