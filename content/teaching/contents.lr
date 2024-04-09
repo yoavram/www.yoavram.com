@@ -4,19 +4,23 @@ body:
 
 ## Postgraduate programs
 
-- MSc tracks:
+- MSc
   - [Zoology](https://en-lifesci.tau.ac.il/zoology/msc)
   - [Ecology and Environmental Protection](https://en-lifesci.tau.ac.il/EcologyandEnvironmentalProtectionTrack)
   - [Mathematical and Theoretical Biology](https://en-lifesci.tau.ac.il/TheoreticalandMathematicalBiologyTrack)
   - [Bioinformatics](https://safrabio.cs.tau.ac.il/safrabio)
   - [Neurosciences](https://www.sagol.tau.ac.il/graduate/candidates/programs/)
 
-- PhD tracks:
-  - [Life Sciences](https://en-lifesci.tau.ac.il/zoology/phd) 
+- Direct PhD
+  - [Life Sciences](https://lifesci.tau.ac.il/midrasahPHDdirecttrack)
+  - [Center for AI and Data Science](https://datascience.tau.ac.il/graduate-programs)
+
+- PhD
+  - [Life Sciences](https://en-lifesci.tau.ac.il/zoology/phd)
   - [Neurosciences](https://www.sagol.tau.ac.il/en/phd-programs/)
   - [Bioinformatics](https://safrabio.cs.tau.ac.il/safrabio)
 
-- Postdoctoral fellows:
+- Postdoc
   - [Guidelines](https://en-lifesci.tau.ac.il/midrasahPost-doc)
   - [Fellowships](https://acad-sec.tau.ac.il/grantsite/abr)
 
@@ -27,9 +31,22 @@ body:
 הקורס מציג לתלמיד את שדה המחקר של האבולוציה, ואת הכוחות העיקריים המניעים תהליכים אבולוציוניים. חלקו הראשון של הקורס עוסק בהיבטים בסיסיים של האבולוציה כתיאוריה וכתהליך. בחלקו השני מקשר הקורס בין גנטיקה של אוכלוסיות וגנטיקה כמותית מצד אחד, לבין סלקציה וסחיפה גנטית מצד שני. חלקו האחרון של הקורס מוקדש לנושאים מתקדמים יותר, ובכלל זה שאלות פתוחות בחקר האבולוציה. 
 
 - Undergraduate course
-- Spring 2022, 2023
+- Spring 2022, 2023, 2024
 - Faculty of Life Sciences, Tel Aviv University
+- Language: Hebrew
 - Additional lecturers: Arnon Lotem, Itay Mayrose
+
+-------------
+
+#### Evolution, culture and sociality in whales and dolphins
+
+קורס זה בוחן את המבנים החברתיים, ההתנהגויות המתוחכמות והאבולוציה הביולוגית והתרבותית של לווייתנאים, עם דגש על ארבעת המינים הנחקרים ביותר: קטלנים, לווייתנים גדולי-סנפיר, ראשתנים, ודולפיננים. באמצעות השימוש בספר ״החיים התרבותיים של לווייתנים ודולפינים״ מאת וייטהד ורנדל כטקסט יסוד, ותוך שימוש במאמרים מהספרות, הקורס יחקור איך יונקים ימיים נבונים אלו מתקשרים, משחרים מזון, מתחברים חברתית, מתרבים ומעבירים ידע בין דורות, תוך הדגשת המשמעויות להבנת האבולוציה הביולוגית, החברתית והתרבותית בלוויתנאים, באדם ובחיות אחרות.
+
+- Undergraduate course
+- Spring 2025
+- Faculty of Life Sciences, Tel Aviv University
+- Book: The Cultural Lives of Whales and Dolphins by Whitehead and Rendell
+- Language: Hebrew
 
 -------------
 
@@ -51,9 +68,8 @@ Python is one of the leading programming languages for scientific research, data
 
 - Elective advanced undergraduate/graduate course
 - Fall 2018, Spring 2020 
-- School of Computer Science, IDC Herzliya
+- School of Computer Science, Reichman University
 - Book: _[IPython Interactive Computing and Visualization Cookbook](http://ipython-books.github.io/)_ by [Cyrille Rossant](http://cyrille.rossant.net/)
-- Prerequisites: Intro to CS, Intro to Probability, Calculus, Linear Algebra
 
 -------------
 
@@ -63,9 +79,8 @@ Students will present papers that address modelling and data analysis in the con
 
 - Elective graduate seminar
 - Spring 2019
-- School of Computer Science, IDC Herzliya
+- School of Computer Science, Reichman University
 - Book: A Biologist’s Guide to Mathematical Modeling in Ecology and Evolution by Otto and Day
-- Prerequisites: quantitative background is required, biology background is not required
 
 -------------
 
@@ -75,5 +90,4 @@ The course equips the students with a solid basis of computer programming, and e
 
 - Mandatory undergraduate course
 - Fall 2018, 2019 
-- School of Computer Science, IDC Herzliya
-- Prerequisites: None
+- School of Computer Science, Reichman University
