@@ -52,10 +52,10 @@
       <h1>Past members</h1>
       <div class="col-sm-12">
         <ul class="list-unstyled">          
-        {% for member in this.children %}
+        {% for member in this.children.order_by('name') %}
           {% if member.alumni %}
           <li id="{{ member.name }}">
-          <i class="fa fa-user"></i> <a href="{{ member|url }}"><strong>{{ member.name }}</strong></a>, {{ member.role }}<br>
+          <i class="fa fa-user"></i> <a href="{{ member|url }}"><strong>{{ member.name }}</strong></a>, {{ member.role }}, {{member.joined.year}}<br>
           <i class="fae fae-book-open-o"></i> <em>{{ member.research}}</em>
           </li>
           <li>
