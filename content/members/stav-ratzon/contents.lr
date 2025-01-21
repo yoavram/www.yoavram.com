@@ -8,7 +8,7 @@ role: MSc student
 ---
 body:
 
-I am an MSc student focusing on cultural evolution, studying the relationship between climate conditions of cultures and specific characteristics in their rituals. I am also interested in math and how it can explain human behavior and biological phenomena.
+I am an MSc student focusing on cultural evolution. I am also interested in math and how it can explain human behavior and biological phenomena.
 
 ## Curriculum vitae
 
@@ -18,3 +18,7 @@ I am an MSc student focusing on cultural evolution, studying the relationship be
 
 ---
 short: I am an MSc student focusing on cultural evolution.
+---
+alumni: yes
+---
+research: Cultural evolution of cooperation
