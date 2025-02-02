@@ -2,7 +2,7 @@ title: Ram Lab
 ---
 body:
 
-We study **evolutionary biology, ecology, and cultural evolution**, using **mathematical, computational, statistical, and machine-learning models** and **collaborations** with empirical biologists. Our interests span a wide range of biological systems, from viruses, bacteria, and fungi to whales and humans.
+We study **evolutionary biology, ecology, and cultural evolution**, using **mathematical, computational, statistical, and AI models** and **collaborations** with empirical biologists. Our interests span a wide range of biological systems, from viruses, bacteria, and fungi to whales and humans.
 See the [research page](/research) to learn about our research interests and projects.
 
 **Our lab is in the [School of Zoology](https://en-lifesci.tau.ac.il/zoology/) in the [Faculty of Life Sciences](https://en-lifesci.tau.ac.il/) at [Tel Aviv University](https://english.tau.ac.il)**.<br>
@@ -11,13 +11,18 @@ We are also part of the [Minerva Center on Lab Evolution](https://www.weizmann.a
 
 <!--Please email [Yoav](mailto:yoav@yoavram.com) if you want to join us.-->
 
-<!--div class="alert alert-warning" role="alert">
-We are currently seeking students, postdocs, research assistants, and technicians to join our lab. <br>
-Please email <a href="mailto:yoav@yoavram.com">Yoav</a> if you want to join us.
-</div-->
+<div class="alert alert-warning" role="alert">
+We are currently seeking students and postdocs for research on: <br>
+<ul>
+<li> Self-supervised deep learning for animal movement and vocalization </li>
+ <li> Biology-informed neural networks for microbial communities </li>
+ <li> Evolution of social behavior using mathematical and computational models  </li>
+</ul>
+Please email <a href="mailto:yoavram@tauex.tau.ac.il">Yoav</a> if you want to join us.
+</div>
 
 ### News
-- New paper in [Nature Communications](https://doi.org/10.1038/s41467-024-55158-1) with Limor Raviv and Lukas Galke demonstrates that deep neural networks exhibit improved language learning with compositionally.
+- New paper in [_Nature Communications_](https://doi.org/10.1038/s41467-024-55158-1) with Limor Raviv and Lukas Galke demonstrates that deep neural networks exhibit improved language learning with compositionally.
 - [Josh](/members/joshua-macdonald)'s paper on cultural evolution in the Austronesean people of the Pacific Ocean in [now published on _Evolutionary Human Sciences_](https://doi.org/10.1017/ehs.2024.45).
 - Our new paper with Gresham lab is now [availabe on _eLife_](https://doi.org/10.7554/eLife.98934.1). It suggests that DNA replication errors are a major source of adaptive gene amplification in yeast.
 - Congratulations and good luck to Remus and Josh on their new postdoc positions! [Remus](https://connects.catalyst.harvard.edu/Profiles/display/Person/219115) is now at Harvard Medical School, and [Josh](https://sites.google.com/view/macs-math/home) is at Johns Hopkins University.
@@ -29,7 +34,7 @@ Please email <a href="mailto:yoav@yoavram.com">Yoav</a> if you want to join us.
 - Our new paper on [cultural transmission of cooperative hunting](https://doi.org/10.1016/j.tpb.2023.12.005) is now online! This study was performed by [Talia Borofsky](https://scholar.google.com/citations?user=zbxm15gAAAAJ) while on her visit to our lab; she has recently completed her PhD at the Feldman lab in Stanford.
 - Gabriela's paper is now published in [_Genetics_](https://doi.org/10.1093/genetics/iyad111)! This is a collaboration with [Tzachi Pilpel](https://longitude.weizmann.ac.il/).
 - Remus has presented his work on evolutionary rescue in cancer at the [_Mathematical Models of Evolutionary Rescue_](https://workshops.evolbio.mpg.de/event/82/) meeting at the MPI in Plon, Germany.
-- Our new paper with the [Stern lab](https://www.sternadi.com) is now available on [*Virus Evolution*](https://doi.org/10.1093/ve/vead033). We used neural networks and simulations to infer the parameters that govern the evolution of the MS2 bacteriophage.
+- Our new paper with the [Stern lab](https://www.sternadi.com) is now available at [_Virus Evolution_](https://doi.org/10.1093/ve/vead033). We used neural networks and simulations to infer the parameters that govern the evolution of the MS2 bacteriophage.
 At the 2023 meeting of the [Israeli Society for Evolutionary Biology](https://www.iseb.org.il/2023-programme/), our lab presented talks by Remus Stana and Yoav Ram and posters by Yoav Livne and Nadav Ben-Nun.
 - We recieved a grant from the [TAU Center for AI and Data Science](https://datascience.tau.ac.il/announcing-the-awardees-of-the-2023-tad-center-research-grants-9-3-2023), together with Yoni Belmaker and Yossi Yovel, to develop an AI-bsaed acoustic monitoring tool for coral reef health.
 - Congratulations to [Remus Stana](/members/remus-stana/) for winning the Ela Kodesz travel grant!
