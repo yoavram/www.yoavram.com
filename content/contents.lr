@@ -2,21 +2,20 @@ title: Ram Lab
 ---
 body:
 
-We study **evolutionary biology, ecology, and cultural evolution**, using **mathematical, computational, statistical, and AI models** and **collaborations** with empirical biologists. Our interests span a wide range of biological systems, from viruses, bacteria, and fungi to whales and humans.
+We study **evolutionary biology**, **ecology**, **cultural evolution**, **behavior**, and **communication**, using mathematical, computational, statistical, and AI models and collaborations with empirical biologists. 
+Our interests span various biological systems, from viruses and microbes to cetaceans and hominids.
 See the [research page](/research) to learn about our research interests and projects.
 
 **Our lab is in the [School of Zoology](https://en-lifesci.tau.ac.il/zoology/) in the [Faculty of Life Sciences](https://en-lifesci.tau.ac.il/) at [Tel Aviv University](https://english.tau.ac.il)**.<br>
-We are affiliated with the [Sagol School of Neuroscience](https://en-sagol.tau.ac.il), the [Safra Center for Bioinformatics](https://safrabio.cs.tau.ac.il), the [Center for AI & Data Science](https://datascience.tau.ac.il/yoav-ram), and the [Center for Combating Pandemics](https://en-pandemics.tau.ac.il) at Tel Aviv University.
-We are also part of the [Minerva Center on Lab Evolution](https://www.weizmann.ac.il/center/LabEvolution/) and the [Minerva Center for the study of Population Fragmentation](https://www.mcpopfrag.com).
+We are members of the [Safra Center for Bioinformatics](https://safrabio.cs.tau.ac.il), the [Center for AI & Data Science](https://datascience.tau.ac.il/yoav-ram), and the [Sagol School of Neuroscience](https://en-sagol.tau.ac.il) at Tel Aviv University.
+We are also part of the [Minerva Center on Lab Evolution](https://www.weizmann.ac.il/center/LabEvolution/) and the [Minerva Center for the Study of Population Fragmentation](https://www.mcpopfrag.com).
 
-<!--Please email [Yoav](mailto:yoav@yoavram.com) if you want to join us.-->
-
-<div class="alert alert-warning" role="alert">
-We are currently seeking students and postdocs for research on: <br>
+<div class="alert alert-info" role="alert">
+We are currently seeking students and postdocs with a background in evolution, ecology, math, computer science, or engineering for research on <br>
 <ul>
-<li> Self-supervised deep learning for animal movement and vocalization </li>
- <li> Biology-informed neural networks for microbial communities </li>
- <li> Evolution of social behavior using mathematical and computational models  </li>
+<li> Evolution of social behavior using mathematical models and simulations  </li>
+<li> Animal movement and vocalization using self-supervised deep learning </li>
+<li> Microbial ecology using biology-informed neural networks </li>
 </ul>
 Please email <a href="mailto:yoavram@tauex.tau.ac.il">Yoav</a> if you want to join us.
 </div>
