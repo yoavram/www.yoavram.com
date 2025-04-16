@@ -7,20 +7,21 @@ Our interests span various biological systems, from viruses and microbes to ceta
 See the [research page](/research) to learn about our research interests and projects.
 
 **Our lab is in the [School of Zoology](https://en-lifesci.tau.ac.il/zoology/) in the [Faculty of Life Sciences](https://en-lifesci.tau.ac.il/) at [Tel Aviv University](https://english.tau.ac.il)**.<br>
-We are members of the [Safra Center for Bioinformatics](https://safrabio.cs.tau.ac.il), the [Center for AI & Data Science](https://datascience.tau.ac.il/yoav-ram), and the [Sagol School of Neuroscience](https://en-sagol.tau.ac.il) at Tel Aviv University.
+The lab is a member of the [Safra Center for Bioinformatics](https://safrabio.cs.tau.ac.il), the [Center for AI & Data Science](https://datascience.tau.ac.il/yoav-ram), and the [Sagol School of Neuroscience](https://en-sagol.tau.ac.il) at Tel Aviv University. <br>
 We are also part of the [Minerva Center on Lab Evolution](https://www.weizmann.ac.il/center/LabEvolution/) and the [Minerva Center for the Study of Population Fragmentation](https://www.mcpopfrag.com).
 
 <div class="alert alert-info" role="alert">
-We are currently seeking students and postdocs with a background in evolution, ecology, math, computer science, or engineering for research on <br>
+We are currently seeking students and postdocs with a quantitative background (math/stats/CS/eng) for research on: <br>
 <ul>
-<li> Evolution of social behavior using mathematical models and simulations  </li>
-<li> Animal movement and vocalization using self-supervised deep learning </li>
-<li> Microbial ecology using biology-informed neural networks </li>
+<li> Evolution of social behavior using mathematical models and simulations </li>
+<li> Animal movement and vocalization using self-supervised AI </li>
+<li> Modelling ecology using biology-informed neural networks </li>
 </ul>
 Please email <a href="mailto:yoavram@tauex.tau.ac.il">Yoav</a> if you want to join us.
 </div>
 
 ### News
+- We recieved a grant from the [TAU Center for AI and Data Science](https://datascience.tau.ac.il/), together with Shay Rotics and Orr Spiegel, to develop an unsupervised learning AI model for animal biologgers.
 - New paper in [_Nature Communications_](https://doi.org/10.1038/s41467-024-55158-1) with Limor Raviv and Lukas Galke demonstrates that deep neural networks exhibit improved language learning with compositionally.
 - [Josh](/members/joshua-macdonald)'s paper on cultural evolution in the Austronesean people of the Pacific Ocean in [now published on _Evolutionary Human Sciences_](https://doi.org/10.1017/ehs.2024.45).
 - Our new paper with Gresham lab is now [availabe on _eLife_](https://doi.org/10.7554/eLife.98934.3). We suggest that DNA replication errors are a major source of adaptive gene amplification in yeast.
@@ -35,7 +36,7 @@ Please email <a href="mailto:yoavram@tauex.tau.ac.il">Yoav</a> if you want to jo
 - Remus has presented his work on evolutionary rescue in cancer at the [_Mathematical Models of Evolutionary Rescue_](https://workshops.evolbio.mpg.de/event/82/) meeting at the MPI in Plon, Germany.
 - Our new paper with the [Stern lab](https://www.sternadi.com) is now available at [_Virus Evolution_](https://doi.org/10.1093/ve/vead033). We used neural networks and simulations to infer the parameters that govern the evolution of the MS2 bacteriophage.
 At the 2023 meeting of the [Israeli Society for Evolutionary Biology](https://www.iseb.org.il/2023-programme/), our lab presented talks by Remus Stana and Yoav Ram and posters by Yoav Livne and Nadav Ben-Nun.
-- We recieved a grant from the [TAU Center for AI and Data Science](https://datascience.tau.ac.il/announcing-the-awardees-of-the-2023-tad-center-research-grants-9-3-2023), together with Yoni Belmaker and Yossi Yovel, to develop an AI-bsaed acoustic monitoring tool for coral reef health.
+- We recieved a grant from the [TAU Center for AI and Data Science](https://datascience.tau.ac.il/announcing-the-awardees-of-the-2023-tad-center-research-grants-9-3-2023), together with Yoni Belmaker and Yossi Yovel, to develop an AI-based acoustic monitoring tool for coral reef health.
 - Congratulations to [Remus Stana](/members/remus-stana/) for winning the Ela Kodesz travel grant!
 - Two new MSc students in the lab: Welcome [Stav](/members/stav-ratzon), and [Nadav](/members/nadav-ben-nun/)!
 Congratulations to [Saar](members/saar-egozi) on successfully defending his MSc thesis, "Cultural Evolutionary Dynamics with Success and Influence Bias."
