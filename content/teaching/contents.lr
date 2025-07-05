@@ -31,22 +31,10 @@ body:
 הקורס מציג לתלמיד את שדה המחקר של האבולוציה, ואת הכוחות העיקריים המניעים תהליכים אבולוציוניים. חלקו הראשון של הקורס עוסק בהיבטים בסיסיים של האבולוציה כתיאוריה וכתהליך. בחלקו השני מקשר הקורס בין גנטיקה של אוכלוסיות וגנטיקה כמותית מצד אחד, לבין סלקציה וסחיפה גנטית מצד שני. חלקו האחרון של הקורס מוקדש לנושאים מתקדמים יותר, ובכלל זה שאלות פתוחות בחקר האבולוציה. 
 
 - Undergraduate course
-- Spring 2022, 2023, 2024
+- Spring 2022, 2023, 2024, 2026
 - Faculty of Life Sciences, Tel Aviv University
 - Language: Hebrew
-- Additional lecturers: Arnon Lotem, Itay Mayrose
-
--------------
-
-#### Evolution, Culture and Sociality in Whales and Dolphins
-
-קורס זה בוחן את המבנים החברתיים, ההתנהגויות המתוחכמות והאבולוציה הביולוגית והתרבותית של לווייתנאים, עם דגש על ארבעת המינים הנחקרים ביותר: קטלנים, לווייתנים גדולי-סנפיר, ראשתנים, ודולפיננים. באמצעות השימוש בספר ״החיים התרבותיים של לווייתנים ודולפינים״ מאת וייטהד ורנדל כטקסט יסוד, ותוך שימוש במאמרים מהספרות, הקורס יחקור איך יונקים ימיים נבונים אלו מתקשרים, משחרים מזון, מתחברים חברתית, מתרבים ומעבירים ידע בין דורות, תוך הדגשת המשמעויות להבנת האבולוציה הביולוגית, החברתית והתרבותית בלוויתנאים, באדם ובחיות אחרות.
-
-- Undergraduate course
-- Spring 2025
-- Faculty of Life Sciences, Tel Aviv University
-- Book: The Cultural Lives of Whales and Dolphins by Whitehead and Rendell
-- Language: Hebrew
+- Additional lecturers: Arnon Lotem, Lilach Hadany, Itay Mayrose, Yosef Kiat
 
 -------------
 
@@ -55,10 +43,22 @@ body:
 The course will introduce graduate students to models in population biology. We will build models, analyze them using mathematical and computational methods, and fit them to empirical data using statistical methods such as maximum likelihood and Bayesian inference. Every class will present a scientific problem in population biology, a computational method for tackling it, and a Python implementation of the method. Examples will include models from ecology, evolution, epidemiology, and social behavior. In each case, we will introduce a research question, design a model, choose a method, apply it using the Python program language (a leading programming language for scientific research, data science, and machine learning), analyze and visualize the results, and discuss the conclusions.
 
 - Graduate course
-- Spring 2023
+- Spring 2023, 2024, 2026
 - Faculty of Life Sciences, Tel Aviv University
 - Book: A Biologist’s Guide to Mathematical Modeling in Ecology and Evolution by Otto and Day
 - Language: English
+
+-------------
+
+#### Evolution, Culture and Sociality in Whales and Dolphins
+
+קורס זה בוחן את המבנים החברתיים, ההתנהגויות המתוחכמות והאבולוציה הביולוגית והתרבותית של לווייתנאים, עם דגש על ארבעת המינים הנחקרים ביותר: קטלנים, לווייתנים גדולי-סנפיר, ראשתנים, ודולפיננים. באמצעות השימוש בספר ״החיים התרבותיים של לווייתנים ודולפינים״ מאת וייטהד ורנדל כטקסט יסוד, ותוך שימוש במאמרים מהספרות, הקורס יחקור איך יונקים ימיים נבונים אלו מתקשרים, משחרים מזון, מתחברים חברתית, מתרבים ומעבירים ידע בין דורות, תוך הדגשת המשמעויות להבנת האבולוציה הביולוגית, החברתית והתרבותית בלוויתנאים, באדם ובחיות אחרות.
+
+- Undergraduate course
+- TBD
+- Faculty of Life Sciences, Tel Aviv University
+- Book: The Cultural Lives of Whales and Dolphins by Whitehead and Rendell
+- Language: Hebrew
 
 -------------
 

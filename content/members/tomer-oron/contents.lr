@@ -17,3 +17,7 @@ role: MSc student
 short:
 
 I am MSc student in Bioinformatics. 
+---
+alumni: yes
+---
+research: Inferring models of hand preference in humans
