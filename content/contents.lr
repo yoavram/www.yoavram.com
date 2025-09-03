@@ -11,16 +11,17 @@ The lab is a member of the [Safra Center for Bioinformatics](https://safrabio.cs
 We are also part of the [Minerva Center on Lab Evolution](https://www.weizmann.ac.il/center/LabEvolution/) and the [Minerva Center for the Study of Population Fragmentation](https://www.mcpopfrag.com).
 
 <div class="alert alert-info" role="alert">
-We are currently seeking students and postdocs with a quantitative background (math/stats/CS/eng) for research on: <br>
+We are currently <b>seeking students and postdocs</b> with a quantitative background (math/stats/CS/eng) for research on: <br>
 <ul>
-<li> Evolution of social behavior using mathematical models and simulations </li>
-<li> AI for animal movement, vocalization and re-identification  </li>
-<li> Biology-informed neural networks for complex microbial ecology </li>
+<li> Evolution of social behavior using mathematical models and simulations; </li>
+<li> AI for animal movement, vocalization and identification;  </li>
+<li> Biology-informed neural networks for ecological dynamics. </li>
 </ul>
-Please email <a href="mailto:yoavram@tauex.tau.ac.il">Yoav</a> if you want to join us.
+Email <a href="mailto:yoavram@tauex.tau.ac.il">Yoav</a> if you want to join us.
 </div>
 
 ### News
+- New [preprint](https://www.biorxiv.org/content/10.1101/2025.07.21.665951v1),with Nadav Ben Nun, Titir De, and David Gresham, shows that segmental CNV amplifications are largely stable after removal of selection, while aneuploidies revert rapidly.
 - Fantastic news! Our lab has recieved a grant from the [Israel Science Foundation](https://isf.org.il) for studying evolution under female biased social structures.
 - [Yoav](members/yoav-ram) and [Nadav](members/nadav-ben-nun) presented results in the [BioInference 2025](https://bioinference.github.io/2025/) conference in Bardonecchia, Italy.
 - [Lior](members/lior-zlotorinsky) presented a poster at the annual Safra Center for Bioinformatics retreat.
