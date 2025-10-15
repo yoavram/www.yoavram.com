@@ -1,6 +1,3 @@
 [project]
 name = www.yoavram.com
 url = www.yoavram.com
-
-[packages]
-lektor-google-analytics = 0.1.3
