@@ -30,7 +30,7 @@
           var tags = $li.find('.pub-tag').map(function () {
             return $(this).data('tag');
           }).get();
-          $li.toggle(tags.length === 0 || $.inArray(activeTag, tags) !== -1);
+          $li.toggle($.inArray(activeTag, tags) !== -1);
         });
       }
 
