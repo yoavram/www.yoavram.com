@@ -44,6 +44,16 @@ div.member {
     margin-bottom: 20px;
 }
 
+.hf-icon {
+    display: inline-block;
+    width: 1em;
+    height: 1em;
+    vertical-align: middle;
+    background-color: currentColor;
+    -webkit-mask: url(/static/img/huggingface.svg) no-repeat center / contain;
+    mask: url(/static/img/huggingface.svg) no-repeat center / contain;
+}
+
 @media only screen and (max-width: 500px) {
     body {
         margin-bottom: 400px;
