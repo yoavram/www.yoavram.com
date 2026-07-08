@@ -2,8 +2,9 @@ name: Yotam Caspy
 ---
 body:
 
-M.Sc. student in mathematical and theoretical biology. Using mathematical tools developed in population genetics, I research the cultural co-evolution of epistemic and economic structures in human societies. 
+MSc student in mathematical and theoretical biology and of The Adi Lautman Interdisciplinary Program for Outstanding Students. Using mathematical tools developed in population genetics, I research the cultural co-evolution of epistemic and economic structures in human societies. Within the framework of the quantitative study of culture, the research  operationalizes theoretical insights from philosophy, cognitive psychology and anthropology to test foundational claims regarding the dynamics of social structures. 
 
+I am also involved in Middle Meets, a Jewish-Palestinian student led dialogue initiative, founded in response to the current situation in the Middle East.
 ---
 email: yotamcaspy@mail.tau.ac.il
 ---
@@ -13,5 +14,9 @@ role: MSc student
 ---
 short:
 
-M.Sc. student in mathematical and theoretical biology. Using mathematical tools developed in population genetics, I research the cultural co-evolution of epistemic and economic structures in human societies. 
+MSc student in mathematical and theoretical biology. Using mathematical tools developed in population genetics, I research the cultural co-evolution of epistemic and economic structures in human societies. 
 
+---
+research:
+
+Cultural co-evolution of epistemic and economic structures in human societies. 
