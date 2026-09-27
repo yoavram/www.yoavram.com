@@ -69,6 +69,10 @@ We also applied this novel technique to estimate the mutation rate of the MS2 ba
 #### Language and communication
 With Limor Raviv and Lukas Galke, we study how the structure of a language affects the way it is learned, by humans and by machines. We found that deep neural networks, like humans, learn compositional languages faster and generalize from them better, suggesting that domain-general learning pressures can contribute to the emergence of linguistic structure ([Galke et al. 2024](https://doi.org/10.1038/s41467-024-55158-1)). We have also outlined what is missing from emergent communication research if it is to inform theories of human language evolution ([Galke et al. 2022](https://arxiv.org/abs/2204.10590)).
 
+With Inbal Arnon, Amiyaal Ilany, Mirjam Knörnschild, and Yossi Yovel, we examined a key challenge in using AI to decode non-human animal communication: models that identify acoustic patterns in vocalizations do not necessarily recover their meaning, since meaning depends on how a call is interpreted and acted upon by its receiver. Using pre-verbal human toddlers' vocalizations as a test case, where the interpretation of listeners can be assessed, we show that acoustic pattern recognition alone is not sufficient for decoding communicative meaning ([Taub et al. 2026](https://doi.org/10.1016/j.cub.2026.06.064)).
+
+We are also using self-supervised learning to study rock hyrax vocalizations. Using animal2vec, a self-supervised model for animal sounds, we asked whether representations learned from other species' calls (meerkats, Egyptian fruit bats) can transfer to rock hyrax vocalizations. We find that self-supervised pretraining directly on hyrax recordings substantially improves individual identification compared with cross-species transfer, that meerkat-derived representations offer only a partial, non-additive advantage, and that transfer from fruit bat recordings is considerably less effective — indicating that learned representations do not generalize universally across species, tasks, and recording conditions (Zlotorinsky et al., in preparation).
+
 #### Deep learning for ecology
 In collaboration with the *Geffen lab* at Tel Aviv University, Uri Roll, and Sarig Gafny, we developed a photo-identification pipeline for the critically endangered Hula painted frog (_Latonia nigriventer_). Using zero-shot deep local-feature matching, without any species-specific training, we achieved near-perfect re-identification of individuals from field photographs, offering a non-invasive alternative to physical tagging for monitoring rare populations ([Yesharim et al. 2026](https://doi.org/10.1016/j.ecoinf.2026.103942)).
 We are now applying the same approach to photo-ID of the fire salamander (Yesharim et al., in preparation).
@@ -117,3 +121,4 @@ We used evo-epidemiological models to examine the effect of non-pharmaceutical i
 - Liran Samuni, German Primate Centre
 - Uri Roll, Ben-Gurion University of the Negev
 - Sarig Gafny, Ruppin Academic Center
+- Inbal Arnon, Hebrew University of Jerusalem
